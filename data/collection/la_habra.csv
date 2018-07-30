@@ -1,0 +1,216 @@
+home_city,work_city,all_worker_ratio,low_income_worker_ratio,medium_income_worker_ratio,high_income_worker_ratio
+La Habra,Adelanto,0.0169,0,0.0391,0.007
+La Habra,Agoura Hills,0.0169,0.0193,0.0098,0.0211
+La Habra,Alhambra,0.2161,0.3088,0.215,0.1831
+La Habra,Aliso Viejo,0.2701,0.3088,0.2053,0.3028
+La Habra,Anaheim,6.2403,6.6975,7.8291,4.9289
+La Habra,Apple Valley,0.0203,0.0193,0.0391,0.007
+La Habra,Arcadia,0.3512,0.5018,0.4301,0.2394
+La Habra,Artesia,0.1452,0.2509,0.1368,0.1127
+La Habra,Azusa,0.1891,0.2702,0.2053,0.1479
+La Habra,Baldwin Park,0.3546,0.3667,0.391,0.3239
+La Habra,Banning,0.0034,0,0.0098,0
+La Habra,Barstow,0.0135,0.0386,0.0195,0
+La Habra,Beaumont,0.0068,0,0,0.0141
+La Habra,Bell,0.1891,0.193,0.2639,0.1338
+La Habra,Bell Gardens,0.1452,0.1737,0.088,0.176
+La Habra,Bellflower,0.3411,0.3667,0.3421,0.3309
+La Habra,Beverly Hills,0.2364,0.3281,0.215,0.2183
+La Habra,Big Bear Lake,0.0135,0.0193,0.0098,0.0141
+La Habra,Blythe,0.0135,0,0,0.0282
+La Habra,Bradbury,0,0,0,0
+La Habra,Brawley,0.0068,0.0386,0,0
+La Habra,Brea,4.9369,4.5937,6.6465,3.8304
+La Habra,Buena Park,1.7255,2.0266,1.9157,1.4787
+La Habra,Burbank,0.5268,0.6755,0.3616,0.5915
+La Habra,Calabasas,0.0507,0.1351,0,0.0563
+La Habra,Calexico,0.0034,0,0,0.007
+La Habra,Calimesa,0,0,0,0
+La Habra,Calipatria,0.0034,0,0,0.007
+La Habra,Camarillo,0.0675,0.0772,0.088,0.0493
+La Habra,Canyon Lake,0.0135,0.0193,0.0293,0
+La Habra,Carlsbad,0.1553,0.0965,0.1857,0.1549
+La Habra,Carson,0.753,0.3281,0.6158,1.0069
+La Habra,Cathedral City,0.0135,0.0193,0.0195,0.007
+La Habra,Cerritos,1.4149,1.1195,1.4173,1.5209
+La Habra,Chino,0.6078,0.579,0.6842,0.5633
+La Habra,Chino Hills,0.3377,0.4053,0.5376,0.169
+La Habra,Chula Vista,0.081,0.0579,0.1271,0.0563
+La Habra,Claremont,0.1216,0.2123,0.0977,0.1056
+La Habra,Coachella,0.0034,0.0193,0,0
+La Habra,Colton,0.1216,0.1544,0.1173,0.1127
+La Habra,Commerce,0.8037,0.7141,0.6255,0.9647
+La Habra,Compton,0.2972,0.386,0.2737,0.2817
+La Habra,Corona,0.878,0.9072,1.1045,0.7041
+La Habra,Coronado,0.0169,0.0193,0.0293,0.007
+La Habra,Costa Mesa,1.5398,1.6985,1.6518,1.4012
+La Habra,Covina,0.3309,0.4246,0.3421,0.2887
+La Habra,Cudahy,0.0101,0,0.0195,0.007
+La Habra,Culver City,0.3951,0.6948,0.3616,0.3098
+La Habra,Cypress,0.618,0.579,0.5474,0.683
+La Habra,Dana Point,0.0979,0.1737,0.088,0.0775
+La Habra,Del Mar,0.0034,0,0.0098,0
+La Habra,Desert Hot Springs,0.0068,0,0.0195,0
+La Habra,Diamond Bar,0.412,0.4246,0.3812,0.4295
+La Habra,Downey,0.8408,0.7914,0.7917,0.8942
+La Habra,Duarte,0.1317,0.0579,0.1075,0.176
+La Habra,Eastvale,0.0844,0.1351,0.0586,0.0845
+La Habra,El Cajon,0.0507,0.0386,0.0293,0.0704
+La Habra,El Centro,0.0135,0.0193,0.0195,0.007
+La Habra,El Monte,0.4018,0.2702,0.391,0.4577
+La Habra,El Segundo,0.78,0.2123,0.1662,1.4294
+La Habra,Encinitas,0.0405,0.0193,0.0586,0.0352
+La Habra,Escondido,0.0608,0.0579,0.0391,0.0775
+La Habra,Fillmore,0.0034,0.0193,0,0
+La Habra,Fontana,0.4525,0.2123,0.3519,0.6126
+La Habra,Fountain Valley,0.493,0.579,0.518,0.4436
+La Habra,Fullerton,4.8693,5.2693,5.5322,4.2459
+La Habra,Garden Grove,0.9725,1.023,1.0458,0.9013
+La Habra,Gardena,0.1823,0.1158,0.1564,0.2253
+La Habra,Glendale,0.6348,0.4632,0.4301,0.845
+La Habra,Glendora,0.2533,0.3088,0.1857,0.2817
+La Habra,Grand Terrace,0.0101,0,0.0098,0.0141
+La Habra,Hawaiian Gardens,0.0574,0.0193,0.088,0.0493
+La Habra,Hawthorne,0.179,0.193,0.0977,0.2324
+La Habra,Hemet,0.0169,0.0386,0.0098,0.0141
+La Habra,Hermosa Beach,0.0203,0.0386,0,0.0282
+La Habra,Hesperia,0.0236,0.0193,0.0293,0.0211
+La Habra,Hidden Hills,0,0,0,0
+La Habra,Highland,0.0135,0.0193,0.0195,0.007
+La Habra,Holtville,0,0,0,0
+La Habra,Huntington Beach,1.398,1.5055,1.4955,1.2886
+La Habra,Huntington Park,0.1452,0.1544,0.0782,0.1901
+La Habra,Imperial,0,0,0,0
+La Habra,Imperial Beach,0.0068,0.0193,0,0.007
+La Habra,Indian Wells,0.0101,0.0193,0.0098,0.007
+La Habra,Indio,0.0169,0.0386,0.0098,0.0141
+La Habra,Industry,1.5229,1.0809,1.6421,1.5984
+La Habra,Inglewood,0.1688,0.193,0.1662,0.1619
+La Habra,Irvine,3.495,2.3162,3.118,4.1966
+La Habra,Irwindale,0.2161,0.0579,0.2639,0.2394
+La Habra,Jurupa Valley,0.2161,0.3088,0.2346,0.169
+La Habra,La Canada Flintridge,0.0304,0.0386,0.0586,0.007
+La Habra,La Habra,4.8761,9.6699,5.4931,2.6827
+La Habra,La Habra Heights,0.1452,0.1158,0.303,0.0422
+La Habra,La Mesa,0.0169,0,0.0195,0.0211
+La Habra,La Mirada,1.4149,1.5441,1.5052,1.3026
+La Habra,La Palma,0.179,0.1158,0.1564,0.2183
+La Habra,La Puente,0.1925,0.2123,0.1564,0.2112
+La Habra,La Quinta,0.0101,0.0193,0.0098,0.007
+La Habra,La Verne,0.1249,0.1544,0.1564,0.0915
+La Habra,Laguna Beach,0.0945,0.0772,0.0586,0.1267
+La Habra,Laguna Hills,0.2668,0.2509,0.3714,0.1972
+La Habra,Laguna Niguel,0.1655,0.3088,0.1662,0.1127
+La Habra,Laguna Woods,0.0371,0.0193,0.0586,0.0282
+La Habra,Lake Elsinore,0.0844,0.1158,0.1075,0.0563
+La Habra,Lake Forest,0.4592,0.4053,0.4985,0.4506
+La Habra,Lakewood,0.314,0.6948,0.303,0.1831
+La Habra,Lancaster,0.0945,0.193,0.0684,0.0775
+La Habra,Lawndale,0.0135,0,0.0098,0.0211
+La Habra,Lemon Grove,0.0203,0,0.0195,0.0282
+La Habra,Loma Linda,0.0236,0.0193,0.0098,0.0352
+La Habra,Lomita,0.0101,0.0386,0.0098,0
+La Habra,Long Beach,2.1713,2.0652,1.5736,2.6405
+La Habra,Los Alamitos,0.2465,0.2123,0.2639,0.2464
+La Habra,Los Angeles,9.5563,6.2536,6.2653,13.132
+La Habra,Lynwood,0.1418,0.0772,0.1466,0.1619
+La Habra,Malibu,0.0101,0.0193,0.0098,0.007
+La Habra,Manhattan Beach,0.0912,0.193,0.088,0.0563
+La Habra,Maywood,0.0169,0.0579,0.0098,0.007
+La Habra,Menifee,0.1013,0.193,0.088,0.0775
+La Habra,Mission Viejo,0.4052,0.5018,0.3519,0.4084
+La Habra,Monrovia,0.1959,0.2123,0.1955,0.1901
+La Habra,Montclair,0.152,0.2123,0.1662,0.1197
+La Habra,Montebello,0.4863,0.2123,0.3812,0.6619
+La Habra,Monterey Park,0.3343,0.1544,0.215,0.4858
+La Habra,Moorpark,0.0236,0.0193,0.0195,0.0282
+La Habra,Moreno Valley,0.1486,0.1351,0.1857,0.1267
+La Habra,Murrieta,0.1317,0.2895,0.1368,0.0704
+La Habra,National City,0.0101,0.0193,0.0195,0
+La Habra,Needles,0,0,0,0
+La Habra,Newport Beach,1.1853,1.0809,1.0556,1.3167
+La Habra,Norco,0.0945,0.1351,0.1075,0.0704
+La Habra,Norwalk,1.0265,0.9844,0.9579,1.0914
+La Habra,Oceanside,0.0507,0.0386,0.088,0.0282
+La Habra,Ojai,0,0,0,0
+La Habra,Ontario,1.3203,1.3318,1.4759,1.2041
+La Habra,Orange,2.931,2.7408,3.3232,2.7179
+La Habra,Oxnard,0.0743,0.0772,0.0977,0.0563
+La Habra,Palm Desert,0.0473,0.0579,0.0782,0.0211
+La Habra,Palm Springs,0.027,0,0.0293,0.0352
+La Habra,Palmdale,0.1081,0.1737,0.0195,0.1479
+La Habra,Palos Verdes Estates,0.0101,0,0.0098,0.0141
+La Habra,Paramount,0.2566,0.2509,0.1955,0.3028
+La Habra,Pasadena,0.7935,0.5597,0.4594,1.1196
+La Habra,Perris,0.0878,0.1544,0.1271,0.0352
+La Habra,Pico Rivera,0.4525,0.386,0.4007,0.514
+La Habra,Placentia,0.7361,0.7914,0.8992,0.5985
+La Habra,Pomona,0.5268,0.5597,0.4985,0.5351
+La Habra,Port Hueneme,0.0034,0,0.0098,0
+La Habra,Poway,0.0405,0.0579,0.0195,0.0493
+La Habra,Rancho Cucamonga,0.7193,0.6369,0.6549,0.7957
+La Habra,Rancho Mirage,0.0169,0.0386,0.0293,0
+La Habra,Rancho Palos Verdes,0.0304,0,0.0293,0.0422
+La Habra,Rancho Santa Margarita,0.1655,0.2895,0.1857,0.1056
+La Habra,Redlands,0.1047,0.0965,0.1075,0.1056
+La Habra,Redondo Beach,0.2195,0.2702,0.0782,0.3028
+La Habra,Rialto,0.1452,0.2509,0.0684,0.1619
+La Habra,Riverside,1.3068,1.1388,0.9872,1.5984
+La Habra,Rolling Hills,0.0034,0,0,0.007
+La Habra,Rolling Hills Estates,0.0371,0.0386,0.0586,0.0211
+La Habra,Rosemead,0.2499,0.2509,0.2541,0.2464
+La Habra,San Bernardino,0.3681,0.3281,0.303,0.4295
+La Habra,San Buenaventura,0.054,0.0386,0.0489,0.0634
+La Habra,San Clemente,0.1655,0.1351,0.1662,0.176
+La Habra,San Diego,0.959,1.216,0.7526,1.0139
+La Habra,San Dimas,0.3174,0.3667,0.2932,0.3169
+La Habra,San Fernando,0.0034,0,0,0.007
+La Habra,San Gabriel,0.054,0.0772,0.0586,0.0422
+La Habra,San Jacinto,0.0135,0,0.0391,0
+La Habra,San Juan Capistrano,0.1249,0.1351,0.0782,0.1549
+La Habra,San Marcos,0.0743,0.1158,0.1075,0.0352
+La Habra,San Marino,0.0101,0,0.0195,0.007
+La Habra,Santa Ana,3.5017,2.5092,4.1736,3.3798
+La Habra,Santa Clarita,0.1621,0.1544,0.1857,0.1479
+La Habra,Santa Fe Springs,2.6879,1.0037,2.424,3.4925
+La Habra,Santa Monica,0.2364,0.3088,0.2444,0.2042
+La Habra,Santa Paula,0.0034,0,0,0.007
+La Habra,Santee,0.0304,0,0.0489,0.0282
+La Habra,Seal Beach,0.2465,0.2895,0.1857,0.2746
+La Habra,Sierra Madre,0.027,0.0193,0,0.0493
+La Habra,Signal Hill,0.2094,0.1544,0.1466,0.2746
+La Habra,Simi Valley,0.0642,0,0.1271,0.0422
+La Habra,Solana Beach,0.0101,0.0193,0.0195,0
+La Habra,South El Monte,0.179,0.2702,0.1662,0.1549
+La Habra,South Gate,0.2836,0.193,0.2835,0.3169
+La Habra,South Pasadena,0.0338,0.0193,0.0098,0.0563
+La Habra,Stanton,0.1925,0.1351,0.2932,0.1408
+La Habra,Temecula,0.2229,0.4053,0.1955,0.176
+La Habra,Temple City,0.0405,0.0386,0.0586,0.0282
+La Habra,Thousand Oaks,0.1081,0.1544,0.0782,0.1127
+La Habra,Torrance,0.9523,0.8107,0.7233,1.1688
+La Habra,Tustin,0.8071,0.8493,0.8895,0.7323
+La Habra,Twentynine Palms,0.0034,0,0,0.007
+La Habra,Unincorporated:Imperial,0.0101,0.0193,0.0098,0.007
+La Habra,Unincorporated:Los Angeles,2.8703,2.9917,2.9029,2.8024
+La Habra,Unincorporated:Orange,0.3174,0.3281,0.3714,0.2746
+La Habra,Unincorporated:Riverside,0.2735,0.2702,0.2835,0.2676
+La Habra,Unincorporated:San Bernardino,0.3343,0.2702,0.2835,0.3943
+La Habra,Unincorporated:San Diego,0.1351,0.1351,0.1466,0.1267
+La Habra,Unincorporated:Ventura,0.0574,0.0965,0.0977,0.0141
+La Habra,Upland,0.3174,0.3474,0.3421,0.2887
+La Habra,Vernon,0.4592,0.1158,0.4789,0.5703
+La Habra,Victorville,0.0777,0.0965,0.088,0.0634
+La Habra,Villa Park,0.027,0.0579,0.0195,0.0211
+La Habra,Vista,0.0507,0.0772,0.0391,0.0493
+La Habra,Walnut,0.2195,0.3088,0.2248,0.1831
+La Habra,West Covina,0.6416,0.8493,0.7331,0.4999
+La Habra,West Hollywood,0.0979,0.0579,0.1271,0.0915
+La Habra,Westlake Village,0.0203,0,0.0098,0.0352
+La Habra,Westminster,0.3681,0.4825,0.4789,0.2464
+La Habra,Westmorland,0,0,0,0
+La Habra,Whittier,2.4954,3.5321,2.639,2.0138
+La Habra,Wildomar,0.0169,0.0193,0.0098,0.0211
+La Habra,Yorba Linda,0.5605,0.8879,0.7233,0.3239
+La Habra,Yucaipa,0.0101,0.0193,0.0098,0.007
+La Habra,Yucca Valley,0.0068,0.0193,0,0.007

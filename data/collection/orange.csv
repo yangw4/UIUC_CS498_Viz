@@ -1,0 +1,216 @@
+home_city,work_city,all_worker_ratio,low_income_worker_ratio,medium_income_worker_ratio,high_income_worker_ratio
+Orange,Adelanto,0.0089,0,0.0115,0.0101
+Orange,Agoura Hills,0.0106,0.0109,0.0115,0.0101
+Orange,Alhambra,0.055,0.1305,0.0807,0.0168
+Orange,Aliso Viejo,0.4275,0.2719,0.3114,0.5429
+Orange,Anaheim,9.9956,11.5606,11.3488,8.7268
+Orange,Apple Valley,0.0231,0.0761,0.0173,0.0101
+Orange,Arcadia,0.11,0.1523,0.1096,0.0972
+Orange,Artesia,0.0231,0.0435,0.0519,0
+Orange,Azusa,0.0763,0.1631,0.0346,0.0737
+Orange,Baldwin Park,0.1118,0.0653,0.1326,0.1139
+Orange,Banning,0.0018,0.0109,0,0
+Orange,Barstow,0.0106,0.0218,0.0173,0.0034
+Orange,Beaumont,0.0142,0.0218,0.0173,0.0101
+Orange,Bell,0.0497,0.0979,0.0577,0.0302
+Orange,Bell Gardens,0.0231,0.0109,0.0173,0.0302
+Orange,Bellflower,0.1401,0.1196,0.1326,0.1508
+Orange,Beverly Hills,0.2164,0.2501,0.2191,0.2044
+Orange,Big Bear Lake,0.0071,0.0218,0.0058,0.0034
+Orange,Blythe,0.0018,0,0.0058,0
+Orange,Bradbury,0.0018,0.0109,0,0
+Orange,Brawley,0.0035,0,0.0058,0.0034
+Orange,Brea,1.5486,1.5334,1.6493,1.4947
+Orange,Buena Park,0.7752,0.8374,0.79,0.7473
+Orange,Burbank,0.4506,0.6743,0.3575,0.4357
+Orange,Calabasas,0.0532,0.0218,0.0577,0.0603
+Orange,Calexico,0,0,0,0
+Orange,Calimesa,0.0018,0,0.0058,0
+Orange,Calipatria,0.0018,0,0.0058,0
+Orange,Camarillo,0.0851,0.1523,0.1038,0.0536
+Orange,Canyon Lake,0.0071,0,0.0173,0.0034
+Orange,Carlsbad,0.2093,0.3263,0.2537,0.1475
+Orange,Carson,0.2803,0.3263,0.2826,0.2648
+Orange,Cathedral City,0.0408,0.0544,0.0519,0.0302
+Orange,Cerritos,0.4967,0.4785,0.4786,0.5128
+Orange,Chino,0.3406,0.3698,0.3172,0.3452
+Orange,Chino Hills,0.1348,0.1958,0.1384,0.1139
+Orange,Chula Vista,0.0905,0.1414,0.1211,0.057
+Orange,Claremont,0.0674,0.1196,0.0692,0.0503
+Orange,Coachella,0.0106,0.0326,0.0173,0
+Orange,Colton,0.0497,0.0653,0.0519,0.0436
+Orange,Commerce,0.2111,0.1414,0.2249,0.2245
+Orange,Compton,0.1047,0.174,0.075,0.1005
+Orange,Corona,0.949,0.7722,1.0553,0.9417
+Orange,Coronado,0.0035,0,0.0058,0.0034
+Orange,Costa Mesa,3.5672,3.752,3.6272,3.4753
+Orange,Covina,0.1153,0.174,0.1269,0.0905
+Orange,Cudahy,0.0177,0.0218,0.0288,0.0101
+Orange,Culver City,0.2253,0.435,0.1672,0.1944
+Orange,Cypress,0.6315,0.4024,0.4729,0.7943
+Orange,Dana Point,0.0763,0.0326,0.075,0.0905
+Orange,Del Mar,0.0053,0.0218,0,0.0034
+Orange,Desert Hot Springs,0,0,0,0
+Orange,Diamond Bar,0.3353,0.435,0.248,0.3552
+Orange,Downey,0.259,0.2175,0.2826,0.2581
+Orange,Duarte,0.0337,0.0326,0.0346,0.0335
+Orange,Eastvale,0.1029,0.2175,0.0865,0.0771
+Orange,El Cajon,0.0479,0.0653,0.0404,0.0469
+Orange,El Centro,0.0071,0.0218,0,0.0067
+Orange,El Monte,0.0958,0.0761,0.1038,0.0972
+Orange,El Segundo,0.4169,0.1631,0.0923,0.6837
+Orange,Encinitas,0.0514,0.0761,0.075,0.0302
+Orange,Escondido,0.1384,0.1414,0.173,0.1173
+Orange,Fillmore,0.0035,0,0.0115,0
+Orange,Fontana,0.1863,0.1958,0.1557,0.2011
+Orange,Fountain Valley,1.0625,1.0767,1.0553,1.0624
+Orange,Fullerton,2.1463,2.2403,2.1971,2.0879
+Orange,Garden Grove,2.0098,2.4361,2.0702,1.8432
+Orange,Gardena,0.0958,0.0761,0.1557,0.067
+Orange,Glendale,0.3175,0.3045,0.2249,0.3753
+Orange,Glendora,0.0958,0.1523,0.1384,0.0536
+Orange,Grand Terrace,0.0035,0.0109,0,0.0034
+Orange,Hawaiian Gardens,0.0337,0.0109,0.0346,0.0402
+Orange,Hawthorne,0.0958,0.1088,0.0519,0.1173
+Orange,Hemet,0.0443,0.0761,0.0807,0.0134
+Orange,Hermosa Beach,0.0319,0.0653,0.0288,0.0235
+Orange,Hesperia,0.0302,0.0653,0.0231,0.0235
+Orange,Hidden Hills,0,0,0,0
+Orange,Highland,0.0177,0.0326,0.0231,0.0101
+Orange,Holtville,0,0,0,0
+Orange,Huntington Beach,1.6692,1.7074,1.655,1.6656
+Orange,Huntington Park,0.0443,0.0653,0.0461,0.0369
+Orange,Imperial,0.0035,0.0109,0,0.0034
+Orange,Imperial Beach,0.0018,0,0.0058,0
+Orange,Indian Wells,0.0071,0,0.0115,0.0067
+Orange,Indio,0.0408,0.0653,0.0692,0.0168
+Orange,Industry,0.5889,0.5546,0.6113,0.5865
+Orange,Inglewood,0.0905,0.087,0.0923,0.0905
+Orange,Irvine,10.9978,6.3839,8.6443,13.7873
+Orange,Irwindale,0.0905,0.0218,0.0461,0.1374
+Orange,Jurupa Valley,0.2129,0.3045,0.2422,0.1676
+Orange,La Canada Flintridge,0.0142,0.0653,0.0115,0
+Orange,La Habra,0.337,0.5438,0.3633,0.2581
+Orange,La Habra Heights,0.0071,0.0109,0,0.0101
+Orange,La Mesa,0.0302,0.0109,0.0404,0.0302
+Orange,La Mirada,0.4204,0.4568,0.3864,0.429
+Orange,La Palma,0.1561,0.0653,0.173,0.1743
+Orange,La Puente,0.0213,0.0326,0.0288,0.0134
+Orange,La Quinta,0.016,0.0109,0.0173,0.0168
+Orange,La Verne,0.0426,0.0435,0.0288,0.0503
+Orange,Laguna Beach,0.1455,0.1849,0.2076,0.0972
+Orange,Laguna Hills,0.4523,0.3371,0.5363,0.439
+Orange,Laguna Niguel,0.2235,0.2175,0.2537,0.2078
+Orange,Laguna Woods,0.055,0.0544,0.0519,0.057
+Orange,Lake Elsinore,0.0603,0.0979,0.0865,0.0335
+Orange,Lake Forest,1.2896,1.044,1.4359,1.2802
+Orange,Lakewood,0.1188,0.1849,0.1096,0.1039
+Orange,Lancaster,0.0514,0.1305,0.0404,0.0335
+Orange,Lawndale,0.0089,0.0218,0.0173,0
+Orange,Lemon Grove,0.0089,0,0.0058,0.0134
+Orange,Loma Linda,0.0426,0,0.0173,0.0704
+Orange,Lomita,0.0124,0.0109,0,0.0201
+Orange,Long Beach,1.4599,1.2833,1.0553,1.7494
+Orange,Los Alamitos,0.2696,0.1958,0.2249,0.3184
+Orange,Los Angeles,4.9845,5.0027,4.4749,5.275
+Orange,Lynwood,0.0266,0.0218,0.0173,0.0335
+Orange,Malibu,0.0071,0.0218,0.0058,0.0034
+Orange,Manhattan Beach,0.078,0.0761,0.0865,0.0737
+Orange,Maywood,0.0177,0.0653,0.0115,0.0067
+Orange,Menifee,0.0373,0.087,0.0404,0.0201
+Orange,Mission Viejo,0.6741,0.7504,0.7035,0.6334
+Orange,Monrovia,0.078,0.1088,0.0634,0.0771
+Orange,Montclair,0.071,0.087,0.0692,0.067
+Orange,Montebello,0.0976,0.1414,0.1096,0.0771
+Orange,Monterey Park,0.1206,0.0979,0.1211,0.1274
+Orange,Moorpark,0.0195,0.0218,0.0231,0.0168
+Orange,Moreno Valley,0.1153,0.1849,0.1615,0.067
+Orange,Murrieta,0.0816,0.1414,0.0577,0.0771
+Orange,National City,0.0231,0.0218,0.0519,0.0067
+Orange,Needles,0,0,0,0
+Orange,Newport Beach,2.7441,2.012,2.5604,3.0765
+Orange,Norco,0.1419,0.2066,0.1845,0.0972
+Orange,Norwalk,0.204,0.2066,0.2134,0.1977
+Orange,Oceanside,0.1047,0.1631,0.1384,0.067
+Orange,Ojai,0.0035,0,0.0058,0.0034
+Orange,Ontario,0.6137,0.6634,0.6228,0.5932
+Orange,Orange,14.2404,16.5525,15.3278,12.8959
+Orange,Oxnard,0.1135,0.2393,0.1269,0.067
+Orange,Palm Desert,0.078,0.087,0.1442,0.0369
+Orange,Palm Springs,0.0373,0.087,0.0346,0.0235
+Orange,Palmdale,0.0763,0.0544,0.0807,0.0804
+Orange,Palos Verdes Estates,0.0018,0,0,0.0034
+Orange,Paramount,0.1242,0.0979,0.1096,0.1408
+Orange,Pasadena,0.3885,0.4568,0.3575,0.3854
+Orange,Perris,0.0585,0.087,0.0634,0.0469
+Orange,Pico Rivera,0.1011,0.0979,0.0865,0.1106
+Orange,Placentia,0.8373,0.8483,0.7727,0.8713
+Orange,Pomona,0.259,0.2066,0.4037,0.191
+Orange,Port Hueneme,0.0071,0.0326,0.0058,0
+Orange,Poway,0.0355,0.0218,0.0288,0.0436
+Orange,Rancho Cucamonga,0.3388,0.4459,0.3114,0.3217
+Orange,Rancho Mirage,0.0231,0.0435,0.0288,0.0134
+Orange,Rancho Palos Verdes,0.016,0,0.0288,0.0134
+Orange,Rancho Santa Margarita,0.369,0.4676,0.3402,0.3552
+Orange,Redlands,0.11,0.1631,0.1153,0.0905
+Orange,Redondo Beach,0.0976,0.0979,0.0923,0.1005
+Orange,Rialto,0.0798,0.1523,0.0692,0.0637
+Orange,Riverside,0.7095,0.7504,0.6459,0.7339
+Orange,Rolling Hills,0,0,0,0
+Orange,Rolling Hills Estates,0.0106,0.0109,0.0231,0.0034
+Orange,Rosemead,0.0763,0.0653,0.0692,0.0838
+Orange,San Bernardino,0.2767,0.3045,0.2768,0.2681
+Orange,San Buenaventura,0.0763,0.1305,0.0692,0.0637
+Orange,San Clemente,0.2732,0.2501,0.3229,0.2513
+Orange,San Diego,1.1494,1.3921,1.2514,1.0154
+Orange,San Dimas,0.1206,0.087,0.098,0.1441
+Orange,San Fernando,0.0089,0.0109,0.0173,0.0034
+Orange,San Gabriel,0.0248,0.0326,0.0231,0.0235
+Orange,San Jacinto,0.0035,0,0.0115,0
+Orange,San Juan Capistrano,0.1525,0.2066,0.1211,0.1542
+Orange,San Marcos,0.0745,0.0979,0.1211,0.0402
+Orange,San Marino,0.0089,0,0.0173,0.0067
+Orange,Santa Ana,10.6341,7.7868,10.1724,11.7799
+Orange,Santa Clarita,0.165,0.2719,0.1672,0.1307
+Orange,Santa Fe Springs,0.6013,0.2284,0.6343,0.6971
+Orange,Santa Monica,0.2448,0.2393,0.2595,0.2379
+Orange,Santa Paula,0.0089,0,0.0173,0.0067
+Orange,Santee,0.0195,0.0653,0.0231,0.0034
+Orange,Seal Beach,0.2129,0.1088,0.1961,0.2547
+Orange,Sierra Madre,0.0071,0.0109,0,0.0101
+Orange,Signal Hill,0.0976,0.1414,0.098,0.0838
+Orange,Simi Valley,0.1118,0.1414,0.1672,0.0704
+Orange,Solana Beach,0.0106,0.0109,0.0173,0.0067
+Orange,South El Monte,0.0266,0.0435,0.0519,0.0067
+Orange,South Gate,0.0851,0.087,0.0865,0.0838
+Orange,South Pasadena,0.0177,0.0544,0.0058,0.0134
+Orange,Stanton,0.2341,0.2828,0.346,0.1542
+Orange,Temecula,0.1667,0.3045,0.1903,0.1106
+Orange,Temple City,0.016,0.0544,0.0173,0.0034
+Orange,Thousand Oaks,0.1437,0.2393,0.1903,0.0871
+Orange,Torrance,0.4647,0.5111,0.346,0.5195
+Orange,Tustin,2.8293,3.0234,3.1544,2.5805
+Orange,Twentynine Palms,0,0,0,0
+Orange,Unincorporated:Imperial,0.0089,0.0218,0.0173,0
+Orange,Unincorporated:Los Angeles,0.7752,0.6308,0.7497,0.8345
+Orange,Unincorporated:Orange,0.7698,0.9462,0.9227,0.6267
+Orange,Unincorporated:Riverside,0.2448,0.3263,0.2768,0.2011
+Orange,Unincorporated:San Bernardino,0.1561,0.1958,0.1153,0.1676
+Orange,Unincorporated:San Diego,0.2022,0.2393,0.3056,0.1307
+Orange,Unincorporated:Ventura,0.0639,0.087,0.1153,0.0268
+Orange,Upland,0.1029,0.1305,0.1038,0.0938
+Orange,Vernon,0.1047,0.0435,0.1499,0.0972
+Orange,Victorville,0.0887,0.0979,0.1211,0.067
+Orange,Villa Park,0.2359,0.4894,0.2307,0.1609
+Orange,Vista,0.0692,0.0979,0.0807,0.0536
+Orange,Walnut,0.0887,0.0979,0.0923,0.0838
+Orange,West Covina,0.1667,0.2719,0.1615,0.1374
+Orange,West Hollywood,0.071,0.0761,0.0577,0.0771
+Orange,Westlake Village,0.0248,0.0109,0.0231,0.0302
+Orange,Westminster,0.6492,0.8157,0.767,0.5295
+Orange,Westmorland,0,0,0,0
+Orange,Whittier,0.1721,0.3154,0.173,0.1274
+Orange,Wildomar,0.0106,0.0109,0.0058,0.0134
+Orange,Yorba Linda,0.7486,1.0005,0.9111,0.5764
+Orange,Yucaipa,0.016,0.0326,0.0173,0.0101
+Orange,Yucca Valley,0.0142,0,0.0231,0.0134

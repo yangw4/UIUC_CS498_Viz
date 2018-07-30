@@ -1,0 +1,216 @@
+home_city,work_city,all_worker_ratio,low_income_worker_ratio,medium_income_worker_ratio,high_income_worker_ratio
+Mission Viejo,Adelanto,0.0173,0.0151,0.0303,0.0126
+Mission Viejo,Agoura Hills,0.0297,0.0302,0.0505,0.0209
+Mission Viejo,Alhambra,0.0495,0.0151,0.0606,0.0544
+Mission Viejo,Aliso Viejo,2.3101,2.2923,2.0596,2.4188
+Mission Viejo,Anaheim,2.7355,2.609,2.6956,2.7871
+Mission Viejo,Apple Valley,0.0223,0.0452,0.0404,0.0084
+Mission Viejo,Arcadia,0.1187,0.196,0.1615,0.0795
+Mission Viejo,Artesia,0.0297,0.0603,0.0404,0.0167
+Mission Viejo,Azusa,0.0866,0.181,0.0505,0.0753
+Mission Viejo,Baldwin Park,0.0618,0.1206,0.0707,0.0418
+Mission Viejo,Banning,0.0148,0.0302,0.0101,0.0126
+Mission Viejo,Barstow,0.0148,0.0302,0.0202,0.0084
+Mission Viejo,Beaumont,0.0371,0.0452,0.0606,0.0251
+Mission Viejo,Bell,0.0322,0.0603,0.0404,0.0209
+Mission Viejo,Bell Gardens,0.0148,0.0302,0.0101,0.0126
+Mission Viejo,Bellflower,0.047,0.0452,0.0606,0.0418
+Mission Viejo,Beverly Hills,0.1533,0.1659,0.1212,0.1632
+Mission Viejo,Big Bear Lake,0.0124,0.0151,0.0202,0.0084
+Mission Viejo,Blythe,0.0148,0.0151,0.0101,0.0167
+Mission Viejo,Bradbury,0,0,0,0
+Mission Viejo,Brawley,0.0049,0,0,0.0084
+Mission Viejo,Brea,0.4353,0.3469,0.4947,0.4352
+Mission Viejo,Buena Park,0.2869,0.2413,0.3029,0.2929
+Mission Viejo,Burbank,0.4081,0.5127,0.3534,0.4017
+Mission Viejo,Calabasas,0.0569,0.0302,0.0707,0.0586
+Mission Viejo,Calexico,0.0049,0.0151,0,0.0042
+Mission Viejo,Calimesa,0,0,0,0
+Mission Viejo,Calipatria,0,0,0,0
+Mission Viejo,Camarillo,0.0594,0.0754,0.0606,0.0544
+Mission Viejo,Canyon Lake,0.0049,0,0.0202,0
+Mission Viejo,Carlsbad,0.5763,0.6485,0.5351,0.5733
+Mission Viejo,Carson,0.2078,0.3016,0.1111,0.2218
+Mission Viejo,Cathedral City,0.0396,0.0302,0.0505,0.0377
+Mission Viejo,Cerritos,0.324,0.3016,0.3029,0.339
+Mission Viejo,Chino,0.1954,0.196,0.2019,0.1925
+Mission Viejo,Chino Hills,0.1162,0.1659,0.1413,0.0921
+Mission Viejo,Chula Vista,0.0841,0.1206,0.1111,0.0628
+Mission Viejo,Claremont,0.0519,0.1056,0.0505,0.0377
+Mission Viejo,Coachella,0.0025,0,0,0.0042
+Mission Viejo,Colton,0.0519,0.0151,0.0707,0.0544
+Mission Viejo,Commerce,0.1682,0.1357,0.1212,0.1967
+Mission Viejo,Compton,0.089,0.0905,0.0808,0.0921
+Mission Viejo,Corona,0.9423,1.4477,1.5043,0.5691
+Mission Viejo,Coronado,0.0049,0,0.0101,0.0042
+Mission Viejo,Costa Mesa,3.5393,3.4836,3.1802,3.7035
+Mission Viejo,Covina,0.0519,0.0754,0.0707,0.0377
+Mission Viejo,Cudahy,0.0074,0.0151,0.0101,0.0042
+Mission Viejo,Culver City,0.282,0.5278,0.2423,0.2302
+Mission Viejo,Cypress,0.2918,0.1659,0.1413,0.3892
+Mission Viejo,Dana Point,0.9943,1.5835,1.5043,0.6194
+Mission Viejo,Del Mar,0.0124,0.0151,0.0202,0.0084
+Mission Viejo,Desert Hot Springs,0.0025,0,0.0101,0
+Mission Viejo,Diamond Bar,0.1039,0.1206,0.0808,0.1088
+Mission Viejo,Downey,0.1484,0.1357,0.1312,0.159
+Mission Viejo,Duarte,0.0297,0.0452,0.0303,0.0251
+Mission Viejo,Eastvale,0.0915,0.196,0.0505,0.0795
+Mission Viejo,El Cajon,0.0693,0.1357,0.101,0.0377
+Mission Viejo,El Centro,0.0124,0.0302,0,0.0126
+Mission Viejo,El Monte,0.0544,0.0754,0.0404,0.0544
+Mission Viejo,El Segundo,0.7321,0.1508,0.1413,1.1383
+Mission Viejo,Encinitas,0.1113,0.1659,0.101,0.1004
+Mission Viejo,Escondido,0.1929,0.2413,0.2019,0.1758
+Mission Viejo,Fillmore,0.0025,0,0.0101,0
+Mission Viejo,Fontana,0.1806,0.181,0.1413,0.1967
+Mission Viejo,Fountain Valley,0.5565,0.4977,0.4341,0.6235
+Mission Viejo,Fullerton,0.5936,0.739,0.5351,0.5775
+Mission Viejo,Garden Grove,0.5837,0.6032,0.4139,0.6486
+Mission Viejo,Gardena,0.0618,0.1056,0.0606,0.0502
+Mission Viejo,Glendale,0.3858,0.377,0.4139,0.3766
+Mission Viejo,Glendora,0.0618,0.0905,0.0707,0.0502
+Mission Viejo,Grand Terrace,0.0049,0.0151,0,0.0042
+Mission Viejo,Hawaiian Gardens,0.0074,0,0.0202,0.0042
+Mission Viejo,Hawthorne,0.0668,0.0603,0.101,0.0544
+Mission Viejo,Hemet,0.0544,0.0754,0.0505,0.0502
+Mission Viejo,Hermosa Beach,0.0173,0.0905,0.0101,0
+Mission Viejo,Hesperia,0.0198,0.0302,0.0303,0.0126
+Mission Viejo,Hidden Hills,0,0,0,0
+Mission Viejo,Highland,0.0074,0.0151,0.0101,0.0042
+Mission Viejo,Holtville,0,0,0,0
+Mission Viejo,Huntington Beach,1.2094,1.0255,1.2014,1.2638
+Mission Viejo,Huntington Park,0.042,0.0452,0.0303,0.046
+Mission Viejo,Imperial,0,0,0,0
+Mission Viejo,Imperial Beach,0,0,0,0
+Mission Viejo,Indian Wells,0.0074,0,0,0.0126
+Mission Viejo,Indio,0.0198,0.0452,0.0303,0.0084
+Mission Viejo,Industry,0.2918,0.2715,0.2322,0.3222
+Mission Viejo,Inglewood,0.0519,0.0905,0.0404,0.046
+Mission Viejo,Irvine,16.6898,8.596,12.6401,20.6143
+Mission Viejo,Irwindale,0.0693,0.0302,0.0404,0.0921
+Mission Viejo,Jurupa Valley,0.1756,0.1659,0.1817,0.1758
+Mission Viejo,La Canada Flintridge,0.0198,0.0905,0.0101,0.0042
+Mission Viejo,La Habra,0.0841,0.0452,0.1212,0.0795
+Mission Viejo,La Habra Heights,0.0025,0,0,0.0042
+Mission Viejo,La Mesa,0.042,0.0452,0.0909,0.0209
+Mission Viejo,La Mirada,0.1039,0.1508,0.0808,0.1004
+Mission Viejo,La Palma,0.0767,0.0452,0.0101,0.113
+Mission Viejo,La Puente,0.0074,0,0.0101,0.0084
+Mission Viejo,La Quinta,0.0198,0.0452,0.0404,0.0042
+Mission Viejo,La Verne,0.047,0.0151,0.0404,0.0586
+Mission Viejo,Laguna Beach,0.784,1.0104,1.0601,0.6068
+Mission Viejo,Laguna Hills,3.0496,3.9511,4.1494,2.3435
+Mission Viejo,Laguna Niguel,2.0627,2.8804,2.6754,1.5819
+Mission Viejo,Laguna Woods,0.4526,0.6937,0.5654,0.339
+Mission Viejo,Lake Elsinore,0.1336,0.2262,0.2019,0.0795
+Mission Viejo,Lake Forest,5.3151,5.5648,5.9364,4.9883
+Mission Viejo,Lakewood,0.0791,0.1056,0.0808,0.0711
+Mission Viejo,Lancaster,0.047,0.0452,0.0909,0.0293
+Mission Viejo,Lawndale,0.0148,0.0151,0.0202,0.0126
+Mission Viejo,Lemon Grove,0.0099,0.0151,0.0101,0.0084
+Mission Viejo,Loma Linda,0.0495,0.0302,0.0404,0.0586
+Mission Viejo,Lomita,0.0074,0,0.0101,0.0084
+Mission Viejo,Long Beach,0.925,0.7088,0.6058,1.1173
+Mission Viejo,Los Alamitos,0.1138,0.0754,0.0909,0.1339
+Mission Viejo,Los Angeles,4.6226,3.7853,3.9374,5.1389
+Mission Viejo,Lynwood,0.0247,0.0452,0.0303,0.0167
+Mission Viejo,Malibu,0.0025,0,0,0.0042
+Mission Viejo,Manhattan Beach,0.0742,0.0302,0.0808,0.0837
+Mission Viejo,Maywood,0.0025,0.0151,0,0
+Mission Viejo,Menifee,0.0594,0.0754,0.0606,0.0544
+Mission Viejo,Mission Viejo,9.8585,15.5934,12.7007,7.0891
+Mission Viejo,Monrovia,0.0965,0.1357,0.0404,0.1088
+Mission Viejo,Montclair,0.0544,0.0754,0.0606,0.046
+Mission Viejo,Montebello,0.0767,0.1206,0.0606,0.0711
+Mission Viejo,Monterey Park,0.0791,0.0603,0.0808,0.0837
+Mission Viejo,Moorpark,0.0198,0.0151,0.0303,0.0167
+Mission Viejo,Moreno Valley,0.094,0.1056,0.1716,0.0586
+Mission Viejo,Murrieta,0.1162,0.196,0.1111,0.0963
+Mission Viejo,National City,0.0297,0.0452,0.0202,0.0293
+Mission Viejo,Needles,0,0,0,0
+Mission Viejo,Newport Beach,3.5962,2.1867,2.9884,4.2392
+Mission Viejo,Norco,0.1237,0.1659,0.1918,0.0837
+Mission Viejo,Norwalk,0.1336,0.1508,0.1212,0.1339
+Mission Viejo,Oceanside,0.23,0.2865,0.2827,0.1925
+Mission Viejo,Ojai,0.0025,0,0.0101,0
+Mission Viejo,Ontario,0.5318,0.5881,0.4139,0.5649
+Mission Viejo,Orange,2.9308,2.5034,2.736,3.1302
+Mission Viejo,Oxnard,0.1088,0.1206,0.1514,0.0879
+Mission Viejo,Palm Desert,0.094,0.0603,0.2524,0.0377
+Mission Viejo,Palm Springs,0.1088,0.196,0.1312,0.0753
+Mission Viejo,Palmdale,0.0594,0.1056,0.0707,0.0418
+Mission Viejo,Palos Verdes Estates,0.0025,0,0,0.0042
+Mission Viejo,Paramount,0.089,0.0905,0.0404,0.1088
+Mission Viejo,Pasadena,0.3463,0.2865,0.3029,0.3808
+Mission Viejo,Perris,0.0569,0.0452,0.101,0.0418
+Mission Viejo,Pico Rivera,0.0519,0.0452,0.0202,0.067
+Mission Viejo,Placentia,0.1806,0.0905,0.1716,0.2092
+Mission Viejo,Pomona,0.1533,0.1056,0.1817,0.1548
+Mission Viejo,Port Hueneme,0.0025,0,0.0101,0
+Mission Viejo,Poway,0.0495,0.0302,0.0505,0.0544
+Mission Viejo,Rancho Cucamonga,0.3636,0.6032,0.4341,0.2678
+Mission Viejo,Rancho Mirage,0.0223,0.0151,0.0404,0.0167
+Mission Viejo,Rancho Palos Verdes,0.0124,0.0151,0.0202,0.0084
+Mission Viejo,Rancho Santa Margarita,2.4016,3.8607,2.9278,1.7785
+Mission Viejo,Redlands,0.1385,0.196,0.0909,0.1423
+Mission Viejo,Redondo Beach,0.1311,0.1056,0.1514,0.1297
+Mission Viejo,Rialto,0.0594,0.1659,0.0606,0.0293
+Mission Viejo,Riverside,0.6579,0.6032,0.6058,0.6947
+Mission Viejo,Rolling Hills,0,0,0,0
+Mission Viejo,Rolling Hills Estates,0.0272,0.0452,0.0303,0.0209
+Mission Viejo,Rosemead,0.0445,0.0452,0.0505,0.0418
+Mission Viejo,San Bernardino,0.2696,0.2564,0.1918,0.3055
+Mission Viejo,San Buenaventura,0.0668,0.0452,0.0909,0.0628
+Mission Viejo,San Clemente,1.9217,2.247,2.3322,1.6614
+Mission Viejo,San Diego,1.9465,1.9152,1.7567,2.0338
+Mission Viejo,San Dimas,0.2102,0.0452,0.2928,0.2218
+Mission Viejo,San Fernando,0.0173,0.0302,0.0202,0.0126
+Mission Viejo,San Gabriel,0.0124,0.0452,0,0.0084
+Mission Viejo,San Jacinto,0.0049,0,0.0202,0
+Mission Viejo,San Juan Capistrano,2.1765,2.8502,2.5139,1.8497
+Mission Viejo,San Marcos,0.1533,0.2262,0.1918,0.1172
+Mission Viejo,San Marino,0.0074,0,0,0.0126
+Mission Viejo,Santa Ana,5.5377,3.0312,4.4422,6.6873
+Mission Viejo,Santa Clarita,0.1459,0.2262,0.1413,0.1255
+Mission Viejo,Santa Fe Springs,0.3784,0.181,0.2827,0.4729
+Mission Viejo,Santa Monica,0.3512,0.4524,0.3231,0.3348
+Mission Viejo,Santa Paula,0.0049,0,0.0101,0.0042
+Mission Viejo,Santee,0.0322,0.0754,0.0404,0.0167
+Mission Viejo,Seal Beach,0.1212,0.0603,0.0909,0.1507
+Mission Viejo,Sierra Madre,0.0124,0.0151,0,0.0167
+Mission Viejo,Signal Hill,0.0594,0.0452,0.0707,0.0586
+Mission Viejo,Simi Valley,0.0866,0.0905,0.0505,0.1004
+Mission Viejo,Solana Beach,0.0371,0.0452,0.0303,0.0377
+Mission Viejo,South El Monte,0.0173,0.0452,0.0101,0.0126
+Mission Viejo,South Gate,0.0618,0.0603,0.0202,0.0795
+Mission Viejo,South Pasadena,0.0198,0.0302,0.0303,0.0126
+Mission Viejo,Stanton,0.1014,0.1056,0.1111,0.0963
+Mission Viejo,Temecula,0.2547,0.377,0.2928,0.2051
+Mission Viejo,Temple City,0.0198,0.0754,0.0202,0.0042
+Mission Viejo,Thousand Oaks,0.1756,0.1508,0.212,0.1674
+Mission Viejo,Torrance,0.4823,0.4977,0.3937,0.5147
+Mission Viejo,Tustin,1.9292,1.5835,2.2615,1.8873
+Mission Viejo,Twentynine Palms,0.0025,0,0,0.0042
+Mission Viejo,Unincorporated:Imperial,0.0074,0,0.0202,0.0042
+Mission Viejo,Unincorporated:Los Angeles,0.5985,0.5278,0.4947,0.6612
+Mission Viejo,Unincorporated:Orange,1.6497,2.3073,1.9586,1.3391
+Mission Viejo,Unincorporated:Riverside,0.2844,0.4223,0.4139,0.1925
+Mission Viejo,Unincorporated:San Bernardino,0.136,0.196,0.1413,0.1172
+Mission Viejo,Unincorporated:San Diego,0.2473,0.2111,0.313,0.2302
+Mission Viejo,Unincorporated:Ventura,0.0445,0.0603,0.0909,0.0209
+Mission Viejo,Upland,0.1039,0.2262,0.1413,0.0544
+Mission Viejo,Vernon,0.0915,0.1056,0.0808,0.0921
+Mission Viejo,Victorville,0.0791,0.1056,0.0606,0.0795
+Mission Viejo,Villa Park,0.0544,0.0151,0.101,0.046
+Mission Viejo,Vista,0.1632,0.181,0.1413,0.1674
+Mission Viejo,Walnut,0.0346,0.0302,0.0404,0.0335
+Mission Viejo,West Covina,0.0791,0.1056,0.1111,0.0586
+Mission Viejo,West Hollywood,0.0841,0.0603,0.101,0.0837
+Mission Viejo,Westlake Village,0.0396,0,0.0202,0.0586
+Mission Viejo,Westminster,0.1484,0.196,0.1413,0.1381
+Mission Viejo,Westmorland,0.0025,0,0.0101,0
+Mission Viejo,Whittier,0.0841,0.196,0.0505,0.067
+Mission Viejo,Wildomar,0.0396,0.0151,0.0808,0.0293
+Mission Viejo,Yorba Linda,0.2176,0.3016,0.2928,0.1632
+Mission Viejo,Yucaipa,0.0049,0.0151,0.0101,0
+Mission Viejo,Yucca Valley,0.0124,0.0452,0.0101,0.0042

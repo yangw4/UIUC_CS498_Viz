@@ -1,0 +1,216 @@
+home_city,work_city,all_worker_ratio,low_income_worker_ratio,medium_income_worker_ratio,high_income_worker_ratio
+Fullerton,Adelanto,0.0074,0,0.0166,0.0037
+Fullerton,Agoura Hills,0.0258,0.0534,0.0222,0.0186
+Fullerton,Alhambra,0.1623,0.1816,0.1442,0.1676
+Fullerton,Aliso Viejo,0.177,0.1175,0.0776,0.2645
+Fullerton,Anaheim,11.5382,13.0128,14.0037,9.3682
+Fullerton,Apple Valley,0.0221,0.0427,0.0333,0.0074
+Fullerton,Arcadia,0.1512,0.1175,0.1997,0.1304
+Fullerton,Artesia,0.1733,0.1709,0.2496,0.1229
+Fullerton,Azusa,0.1586,0.1709,0.1387,0.1676
+Fullerton,Baldwin Park,0.1401,0.0855,0.1331,0.1639
+Fullerton,Banning,0.0111,0.0214,0,0.0149
+Fullerton,Barstow,0.0166,0.0214,0.0222,0.0112
+Fullerton,Beaumont,0.0111,0.0107,0.0166,0.0074
+Fullerton,Bell,0.1475,0.1603,0.2052,0.1043
+Fullerton,Bell Gardens,0.0535,0.0641,0.0333,0.0633
+Fullerton,Bellflower,0.3079,0.3739,0.2662,0.3129
+Fullerton,Beverly Hills,0.1807,0.0962,0.1054,0.2607
+Fullerton,Big Bear Lake,0.0166,0.0534,0,0.0149
+Fullerton,Blythe,0.0074,0,0,0.0149
+Fullerton,Bradbury,0,0,0,0
+Fullerton,Brawley,0.0055,0.0214,0.0055,0
+Fullerton,Brea,3.9973,4.1667,4.1318,3.8479
+Fullerton,Buena Park,2.4061,2.906,2.6843,2.045
+Fullerton,Burbank,0.496,0.6838,0.3328,0.5401
+Fullerton,Calabasas,0.0313,0.0534,0.0333,0.0223
+Fullerton,Calexico,0.0018,0.0107,0,0
+Fullerton,Calimesa,0,0,0,0
+Fullerton,Calipatria,0.0018,0,0,0.0037
+Fullerton,Camarillo,0.0701,0.0427,0.0721,0.0782
+Fullerton,Canyon Lake,0.0018,0.0107,0,0
+Fullerton,Carlsbad,0.1807,0.2564,0.1997,0.1415
+Fullerton,Carson,0.5107,0.4701,0.3549,0.6295
+Fullerton,Cathedral City,0.0203,0.0748,0,0.0149
+Fullerton,Cerritos,1.4344,1.2607,1.3366,1.5608
+Fullerton,Chino,0.4038,0.3419,0.2995,0.4954
+Fullerton,Chino Hills,0.2268,0.3312,0.3106,0.1341
+Fullerton,Chula Vista,0.0516,0.0748,0.0555,0.041
+Fullerton,Claremont,0.0922,0.1603,0.061,0.0894
+Fullerton,Coachella,0.0055,0.0107,0.0055,0.0037
+Fullerton,Colton,0.0479,0.0534,0.0444,0.0484
+Fullerton,Commerce,0.4517,0.3846,0.4437,0.4805
+Fullerton,Compton,0.2968,0.2991,0.2939,0.298
+Fullerton,Corona,0.673,0.6838,0.782,0.596
+Fullerton,Coronado,0.0055,0.0107,0.0111,0
+Fullerton,Costa Mesa,1.6409,1.4423,1.7581,1.6315
+Fullerton,Covina,0.1954,0.203,0.2551,0.1527
+Fullerton,Cudahy,0.0203,0.0214,0.0333,0.0112
+Fullerton,Culver City,0.2434,0.4274,0.1553,0.2384
+Fullerton,Cypress,0.9975,0.7906,0.8485,1.1696
+Fullerton,Dana Point,0.0608,0.0962,0.0887,0.0298
+Fullerton,Del Mar,0.0074,0,0.0111,0.0074
+Fullerton,Desert Hot Springs,0.0037,0.0107,0,0.0037
+Fullerton,Diamond Bar,0.5181,0.4701,0.4381,0.5885
+Fullerton,Downey,0.6324,0.4808,0.6045,0.704
+Fullerton,Duarte,0.0793,0.0214,0.0998,0.0857
+Fullerton,Eastvale,0.0221,0.0534,0.0333,0.0037
+Fullerton,El Cajon,0.0608,0.0534,0.0666,0.0596
+Fullerton,El Centro,0.0166,0.0107,0.0222,0.0149
+Fullerton,El Monte,0.1659,0.0962,0.2163,0.1564
+Fullerton,El Segundo,0.6213,0.1923,0.122,1.1063
+Fullerton,Encinitas,0.0295,0.0534,0.0444,0.0112
+Fullerton,Escondido,0.1235,0.1389,0.1387,0.108
+Fullerton,Fillmore,0.0055,0.0107,0.0111,0
+Fullerton,Fontana,0.2508,0.2457,0.2218,0.2719
+Fullerton,Fountain Valley,0.5513,0.3632,0.5158,0.6407
+Fullerton,Fullerton,10.9077,14.1453,10.5208,10.0387
+Fullerton,Garden Grove,1.8843,2.2863,2.0853,1.6092
+Fullerton,Gardena,0.1991,0.1389,0.2329,0.1974
+Fullerton,Glendale,0.2729,0.2671,0.2662,0.2794
+Fullerton,Glendora,0.1254,0.1816,0.0998,0.1229
+Fullerton,Grand Terrace,0.0092,0,0,0.0186
+Fullerton,Hawaiian Gardens,0.0885,0.0855,0.1276,0.0633
+Fullerton,Hawthorne,0.1383,0.0962,0.0721,0.1974
+Fullerton,Hemet,0.0332,0.0641,0.0277,0.0261
+Fullerton,Hermosa Beach,0.0313,0.0641,0.0055,0.0372
+Fullerton,Hesperia,0.0313,0.0321,0.0388,0.0261
+Fullerton,Hidden Hills,0.0018,0,0,0.0037
+Fullerton,Highland,0.0184,0.0321,0.0222,0.0112
+Fullerton,Holtville,0,0,0,0
+Fullerton,Huntington Beach,1.1616,1.1752,1.1092,1.192
+Fullerton,Huntington Park,0.0682,0.0427,0.0555,0.0857
+Fullerton,Imperial,0.0037,0,0.0055,0.0037
+Fullerton,Imperial Beach,0.0018,0,0.0055,0
+Fullerton,Indian Wells,0.0037,0,0.0055,0.0037
+Fullerton,Indio,0.0203,0,0.0222,0.0261
+Fullerton,Industry,1.0989,0.7906,0.9872,1.2814
+Fullerton,Inglewood,0.1346,0.1175,0.1941,0.1006
+Fullerton,Irvine,4.7717,2.7778,3.9654,6.0083
+Fullerton,Irwindale,0.0996,0.0962,0.0721,0.1192
+Fullerton,Jurupa Valley,0.1364,0.1068,0.1331,0.149
+Fullerton,La Canada Flintridge,0.024,0.0321,0.0333,0.0149
+Fullerton,La Habra,1.2316,1.7735,1.3643,0.9536
+Fullerton,La Habra Heights,0.0184,0.0427,0.0111,0.0149
+Fullerton,La Mesa,0.0313,0.0855,0.0277,0.0149
+Fullerton,La Mirada,0.9348,0.6197,1.0981,0.935
+Fullerton,La Palma,0.2858,0.2137,0.2274,0.3501
+Fullerton,La Puente,0.1254,0.0962,0.1719,0.1043
+Fullerton,La Quinta,0.0111,0,0.0222,0.0074
+Fullerton,La Verne,0.0922,0.0962,0.0943,0.0894
+Fullerton,Laguna Beach,0.0535,0.0214,0.0666,0.0559
+Fullerton,Laguna Hills,0.2213,0.2885,0.2385,0.1862
+Fullerton,Laguna Niguel,0.1752,0.2457,0.1941,0.1378
+Fullerton,Laguna Woods,0.0498,0.0214,0.0887,0.0335
+Fullerton,Lake Elsinore,0.0424,0.0534,0.0222,0.0521
+Fullerton,Lake Forest,0.5107,0.406,0.3993,0.6221
+Fullerton,Lakewood,0.2784,0.4915,0.2939,0.1937
+Fullerton,Lancaster,0.0867,0.0962,0.1054,0.0708
+Fullerton,Lawndale,0.024,0.0855,0.0166,0.0074
+Fullerton,Lemon Grove,0.0037,0,0.0111,0
+Fullerton,Loma Linda,0.0295,0.0321,0.0222,0.0335
+Fullerton,Lomita,0.0166,0.0214,0.0222,0.0112
+Fullerton,Long Beach,1.7442,1.7415,1.5307,1.8885
+Fullerton,Los Alamitos,0.3558,0.2244,0.3383,0.4135
+Fullerton,Los Angeles,8.3633,6.1325,6.572,10.3442
+Fullerton,Lynwood,0.094,0.0748,0.0666,0.1192
+Fullerton,Malibu,0.0055,0,0.0111,0.0037
+Fullerton,Manhattan Beach,0.0903,0.1068,0.0776,0.0931
+Fullerton,Maywood,0.0184,0.0427,0.0166,0.0112
+Fullerton,Menifee,0.0406,0.0855,0.0499,0.0186
+Fullerton,Mission Viejo,0.3245,0.3526,0.4437,0.2347
+Fullerton,Monrovia,0.1014,0.1389,0.1165,0.0782
+Fullerton,Montclair,0.0922,0.1709,0.122,0.0447
+Fullerton,Montebello,0.2249,0.1496,0.2052,0.2645
+Fullerton,Monterey Park,0.2544,0.1816,0.1387,0.3576
+Fullerton,Moorpark,0.0203,0,0.0222,0.0261
+Fullerton,Moreno Valley,0.1069,0.1923,0.122,0.067
+Fullerton,Murrieta,0.083,0.1603,0.0998,0.0447
+Fullerton,National City,0.024,0.0427,0.0388,0.0074
+Fullerton,Needles,0.0018,0.0107,0,0
+Fullerton,Newport Beach,1.0731,0.6944,1.0648,1.2106
+Fullerton,Norco,0.0922,0.0641,0.0721,0.1155
+Fullerton,Norwalk,0.8186,1.1432,0.7487,0.7524
+Fullerton,Oceanside,0.0645,0.1175,0.0887,0.0298
+Fullerton,Ojai,0.0037,0,0.0055,0.0037
+Fullerton,Ontario,0.8002,0.8013,0.8208,0.786
+Fullerton,Orange,4.5559,4.2628,5.3574,4.1198
+Fullerton,Oxnard,0.0959,0.1496,0.1109,0.067
+Fullerton,Palm Desert,0.0719,0.1175,0.0943,0.041
+Fullerton,Palm Springs,0.0664,0.0534,0.0943,0.0521
+Fullerton,Palmdale,0.1069,0.1496,0.0943,0.1006
+Fullerton,Palos Verdes Estates,0.0092,0,0.0222,0.0037
+Fullerton,Paramount,0.2784,0.1709,0.3328,0.2794
+Fullerton,Pasadena,0.5126,0.4167,0.2939,0.6928
+Fullerton,Perris,0.0608,0.0641,0.0832,0.0447
+Fullerton,Pico Rivera,0.295,0.2885,0.2385,0.3352
+Fullerton,Placentia,1.6612,2.1688,1.7803,1.4043
+Fullerton,Pomona,0.4278,0.2991,0.3882,0.4991
+Fullerton,Port Hueneme,0,0,0,0
+Fullerton,Poway,0.0277,0.0321,0.0222,0.0298
+Fullerton,Rancho Cucamonga,0.3706,0.3312,0.5102,0.2905
+Fullerton,Rancho Mirage,0.0203,0,0.0388,0.0149
+Fullerton,Rancho Palos Verdes,0.0111,0.0321,0.0111,0.0037
+Fullerton,Rancho Santa Margarita,0.1825,0.2244,0.2607,0.1155
+Fullerton,Redlands,0.0701,0.1068,0.0832,0.0484
+Fullerton,Redondo Beach,0.1696,0.1496,0.122,0.2086
+Fullerton,Rialto,0.0848,0.1068,0.0943,0.0708
+Fullerton,Riverside,0.7283,0.7585,0.7265,0.7189
+Fullerton,Rolling Hills,0,0,0,0
+Fullerton,Rolling Hills Estates,0.0221,0.0427,0.0166,0.0186
+Fullerton,Rosemead,0.0867,0.0855,0.0666,0.1006
+Fullerton,San Bernardino,0.3614,0.3205,0.366,0.3725
+Fullerton,San Buenaventura,0.1014,0.1282,0.0832,0.1043
+Fullerton,San Clemente,0.1309,0.1496,0.1331,0.1229
+Fullerton,San Diego,1.1689,1.0577,1.1092,1.2479
+Fullerton,San Dimas,0.1291,0.1389,0.1165,0.1341
+Fullerton,San Fernando,0.035,0.0427,0.0111,0.0484
+Fullerton,San Gabriel,0.0572,0.0534,0.0666,0.0521
+Fullerton,San Jacinto,0.0074,0,0,0.0149
+Fullerton,San Juan Capistrano,0.0774,0.0641,0.0943,0.0708
+Fullerton,San Marcos,0.0608,0.0641,0.0555,0.0633
+Fullerton,San Marino,0.0166,0,0.0166,0.0223
+Fullerton,Santa Ana,4.8122,3.4188,5.0358,5.1479
+Fullerton,Santa Clarita,0.1678,0.2244,0.2052,0.1229
+Fullerton,Santa Fe Springs,1.6539,0.9295,1.3366,2.1195
+Fullerton,Santa Monica,0.3061,0.3205,0.2218,0.3576
+Fullerton,Santa Paula,0.0037,0,0.0055,0.0037
+Fullerton,Santee,0.0295,0.0748,0.0166,0.0223
+Fullerton,Seal Beach,0.2895,0.2457,0.1886,0.3725
+Fullerton,Sierra Madre,0.0166,0.0107,0.0055,0.0261
+Fullerton,Signal Hill,0.1309,0.1496,0.0943,0.149
+Fullerton,Simi Valley,0.083,0.1282,0.0666,0.0782
+Fullerton,Solana Beach,0.0148,0.0534,0.0111,0.0037
+Fullerton,South El Monte,0.1328,0.0748,0.1165,0.1639
+Fullerton,South Gate,0.2102,0.1816,0.1719,0.2458
+Fullerton,South Pasadena,0.0258,0.0427,0.0222,0.0223
+Fullerton,Stanton,0.3024,0.5235,0.416,0.149
+Fullerton,Temecula,0.1844,0.3632,0.1664,0.1341
+Fullerton,Temple City,0.0369,0.0534,0.0444,0.0261
+Fullerton,Thousand Oaks,0.1623,0.2457,0.1497,0.1415
+Fullerton,Torrance,0.6508,0.5556,0.4603,0.812
+Fullerton,Tustin,1.2316,1.3782,1.4531,1.0318
+Fullerton,Twentynine Palms,0.0037,0,0.0055,0.0037
+Fullerton,Unincorporated:Imperial,0.0092,0.0107,0.0111,0.0074
+Fullerton,Unincorporated:Los Angeles,1.9415,1.8376,1.6583,2.1679
+Fullerton,Unincorporated:Orange,0.3116,0.3632,0.4714,0.1862
+Fullerton,Unincorporated:Riverside,0.1383,0.1709,0.1941,0.0894
+Fullerton,Unincorporated:San Bernardino,0.2249,0.2137,0.2939,0.1825
+Fullerton,Unincorporated:San Diego,0.1475,0.1282,0.1941,0.1229
+Fullerton,Unincorporated:Ventura,0.0608,0.0641,0.0887,0.041
+Fullerton,Upland,0.1586,0.2137,0.1775,0.1266
+Fullerton,Vernon,0.3171,0.1603,0.2662,0.406
+Fullerton,Victorville,0.083,0.1603,0.0998,0.0447
+Fullerton,Villa Park,0.0461,0.0962,0.0499,0.0261
+Fullerton,Vista,0.0738,0.0427,0.0998,0.067
+Fullerton,Walnut,0.2028,0.2244,0.2496,0.1639
+Fullerton,West Covina,0.295,0.4701,0.3217,0.216
+Fullerton,West Hollywood,0.0498,0.1068,0.0666,0.0186
+Fullerton,Westlake Village,0.0461,0.0107,0.0277,0.0708
+Fullerton,Westminster,0.531,0.609,0.6378,0.4321
+Fullerton,Westmorland,0,0,0,0
+Fullerton,Whittier,0.8113,1.0043,0.7875,0.7599
+Fullerton,Wildomar,0.0074,0,0.0111,0.0074
+Fullerton,Yorba Linda,0.7615,0.9722,1.0149,0.5178
+Fullerton,Yucaipa,0.0148,0.0321,0.0222,0.0037
+Fullerton,Yucca Valley,0.0037,0.0107,0,0.0037

@@ -1,0 +1,216 @@
+home_city,work_city,all_worker_ratio,low_income_worker_ratio,medium_income_worker_ratio,high_income_worker_ratio
+Villa Park,Adelanto,0,0,0,0
+Villa Park,Agoura Hills,0,0,0,0
+Villa Park,Alhambra,0.0414,0,0,0.0677
+Villa Park,Aliso Viejo,0.6216,0.75,0.1866,0.7448
+Villa Park,Anaheim,10.4434,10,10.2612,10.6297
+Villa Park,Apple Valley,0,0,0,0
+Villa Park,Arcadia,0.0414,0,0,0.0677
+Villa Park,Artesia,0.1243,0.5,0.1866,0
+Villa Park,Azusa,0,0,0,0
+Villa Park,Baldwin Park,0,0,0,0
+Villa Park,Banning,0,0,0,0
+Villa Park,Barstow,0,0,0,0
+Villa Park,Beaumont,0,0,0,0
+Villa Park,Bell,0,0,0,0
+Villa Park,Bell Gardens,0.0829,0.5,0,0
+Villa Park,Bellflower,0.0829,0,0,0.1354
+Villa Park,Beverly Hills,0.2901,0.25,0.5597,0.2031
+Villa Park,Big Bear Lake,0.0414,0.25,0,0
+Villa Park,Blythe,0.0414,0,0,0.0677
+Villa Park,Bradbury,0,0,0,0
+Villa Park,Brawley,0,0,0,0
+Villa Park,Brea,1.6162,1.25,2.6119,1.3541
+Villa Park,Buena Park,0.4559,0.5,0.3731,0.4739
+Villa Park,Burbank,0.2487,0.5,0.1866,0.2031
+Villa Park,Calabasas,0.0829,0,0,0.1354
+Villa Park,Calexico,0,0,0,0
+Villa Park,Calimesa,0,0,0,0
+Villa Park,Calipatria,0,0,0,0
+Villa Park,Camarillo,0,0,0,0
+Villa Park,Canyon Lake,0,0,0,0
+Villa Park,Carlsbad,0.2901,0.5,0.5597,0.1354
+Villa Park,Carson,0.2072,0,0,0.3385
+Villa Park,Cathedral City,0.0414,0.25,0,0
+Villa Park,Cerritos,0.7045,0.75,0.3731,0.8125
+Villa Park,Chino,0.5387,0.25,0.9328,0.4739
+Villa Park,Chino Hills,0.2072,0.75,0.1866,0.0677
+Villa Park,Chula Vista,0,0,0,0
+Villa Park,Claremont,0.0414,0,0.1866,0
+Villa Park,Coachella,0,0,0,0
+Villa Park,Colton,0,0,0,0
+Villa Park,Commerce,0.2487,0,0.3731,0.2708
+Villa Park,Compton,0.1243,0,0.3731,0.0677
+Villa Park,Corona,1.6991,1.5,1.306,1.8957
+Villa Park,Coronado,0,0,0,0
+Villa Park,Costa Mesa,2.4865,2.75,2.4254,2.4374
+Villa Park,Covina,0.0829,0.25,0.1866,0
+Villa Park,Cudahy,0.0414,0,0,0.0677
+Villa Park,Culver City,0.1243,0.5,0.1866,0
+Villa Park,Cypress,0.7045,0.25,1.1194,0.677
+Villa Park,Dana Point,0.0829,0,0,0.1354
+Villa Park,Del Mar,0.0414,0,0.1866,0
+Villa Park,Desert Hot Springs,0,0,0,0
+Villa Park,Diamond Bar,0.1658,0.5,0.1866,0.0677
+Villa Park,Downey,0.1243,0,0.1866,0.1354
+Villa Park,Duarte,0.0414,0,0,0.0677
+Villa Park,Eastvale,0.0414,0,0,0.0677
+Villa Park,El Cajon,0.0829,0.25,0.1866,0
+Villa Park,El Centro,0,0,0,0
+Villa Park,El Monte,0.0829,0.25,0,0.0677
+Villa Park,El Segundo,0.4973,0.25,0.1866,0.677
+Villa Park,Encinitas,0.1243,0.25,0.1866,0.0677
+Villa Park,Escondido,0.1243,0,0.3731,0.0677
+Villa Park,Fillmore,0,0,0,0
+Villa Park,Fontana,0.2487,0,0,0.4062
+Villa Park,Fountain Valley,1.2433,1.25,1.1194,1.2864
+Villa Park,Fullerton,2.5694,2.75,2.0522,2.7082
+Villa Park,Garden Grove,1.6577,2,2.0522,1.4218
+Villa Park,Gardena,0,0,0,0
+Villa Park,Glendale,0.2487,0,0.1866,0.3385
+Villa Park,Glendora,0.2072,0.25,0,0.2708
+Villa Park,Grand Terrace,0,0,0,0
+Villa Park,Hawaiian Gardens,0,0,0,0
+Villa Park,Hawthorne,0,0,0,0
+Villa Park,Hemet,0.1243,0.5,0,0.0677
+Villa Park,Hermosa Beach,0,0,0,0
+Villa Park,Hesperia,0,0,0,0
+Villa Park,Hidden Hills,0,0,0,0
+Villa Park,Highland,0,0,0,0
+Villa Park,Holtville,0,0,0,0
+Villa Park,Huntington Beach,1.782,1.25,2.0522,1.828
+Villa Park,Huntington Park,0,0,0,0
+Villa Park,Imperial,0,0,0,0
+Villa Park,Imperial Beach,0,0,0,0
+Villa Park,Indian Wells,0,0,0,0
+Villa Park,Indio,0.0829,0,0,0.1354
+Villa Park,Industry,0.4144,1,0,0.4062
+Villa Park,Inglewood,0.1658,0,0.1866,0.2031
+Villa Park,Irvine,9.5317,6.5,6.3433,11.5098
+Villa Park,Irwindale,0.1658,0,0,0.2708
+Villa Park,Jurupa Valley,0.373,0.5,0.7463,0.2031
+Villa Park,La Canada Flintridge,0.0829,0,0.1866,0.0677
+Villa Park,La Habra,0.2072,0.25,0.1866,0.2031
+Villa Park,La Habra Heights,0.0414,0,0,0.0677
+Villa Park,La Mesa,0.0414,0,0.1866,0
+Villa Park,La Mirada,0.4144,0.25,0.1866,0.5416
+Villa Park,La Palma,0.3315,0,0,0.5416
+Villa Park,La Puente,0,0,0,0
+Villa Park,La Quinta,0,0,0,0
+Villa Park,La Verne,0.1243,0.5,0,0.0677
+Villa Park,Laguna Beach,0.1658,0,0.1866,0.2031
+Villa Park,Laguna Hills,0.0829,0,0,0.1354
+Villa Park,Laguna Niguel,0.1658,0.25,0.1866,0.1354
+Villa Park,Laguna Woods,0,0,0,0
+Villa Park,Lake Elsinore,0.0829,0.5,0,0
+Villa Park,Lake Forest,1.0775,1,0.1866,1.4218
+Villa Park,Lakewood,0.1658,0.5,0.1866,0.0677
+Villa Park,Lancaster,0.0414,0,0.1866,0
+Villa Park,Lawndale,0,0,0,0
+Villa Park,Lemon Grove,0.0414,0,0,0.0677
+Villa Park,Loma Linda,0.0414,0,0,0.0677
+Villa Park,Lomita,0,0,0,0
+Villa Park,Long Beach,1.5748,1.5,0.9328,1.828
+Villa Park,Los Alamitos,0.373,0,0.1866,0.5416
+Villa Park,Los Angeles,5.0559,3.5,5.4104,5.3487
+Villa Park,Lynwood,0,0,0,0
+Villa Park,Malibu,0,0,0,0
+Villa Park,Manhattan Beach,0.2487,0.25,0,0.3385
+Villa Park,Maywood,0.0414,0.25,0,0
+Villa Park,Menifee,0.0829,0,0,0.1354
+Villa Park,Mission Viejo,0.7874,0.5,0.3731,1.0156
+Villa Park,Monrovia,0.1243,0,0.1866,0.1354
+Villa Park,Montclair,0,0,0,0
+Villa Park,Montebello,0.1243,0.25,0,0.1354
+Villa Park,Monterey Park,0.0829,0,0,0.1354
+Villa Park,Moorpark,0,0,0,0
+Villa Park,Moreno Valley,0.0414,0,0,0.0677
+Villa Park,Murrieta,0.1243,0.25,0,0.1354
+Villa Park,National City,0.0414,0,0,0.0677
+Villa Park,Needles,0,0,0,0
+Villa Park,Newport Beach,3.0667,2.5,3.1716,3.1821
+Villa Park,Norco,0.2487,0.5,0.3731,0.1354
+Villa Park,Norwalk,0.1243,0.25,0.1866,0.0677
+Villa Park,Oceanside,0.1243,0.5,0.1866,0
+Villa Park,Ojai,0,0,0,0
+Villa Park,Ontario,0.5802,0.25,0.9328,0.5416
+Villa Park,Orange,12.7228,10.5,12.6866,13.3378
+Villa Park,Oxnard,0.1243,0.25,0.3731,0
+Villa Park,Palm Desert,0.0829,0.25,0.1866,0
+Villa Park,Palm Springs,0.0414,0.25,0,0
+Villa Park,Palmdale,0.2072,0,0,0.3385
+Villa Park,Palos Verdes Estates,0,0,0,0
+Villa Park,Paramount,0.0829,0.25,0,0.0677
+Villa Park,Pasadena,0.373,0.25,0.1866,0.4739
+Villa Park,Perris,0,0,0,0
+Villa Park,Pico Rivera,0,0,0,0
+Villa Park,Placentia,0.9946,0.75,1.306,0.9479
+Villa Park,Pomona,0.0414,0,0,0.0677
+Villa Park,Port Hueneme,0,0,0,0
+Villa Park,Poway,0,0,0,0
+Villa Park,Rancho Cucamonga,0.2487,0.75,0.1866,0.1354
+Villa Park,Rancho Mirage,0,0,0,0
+Villa Park,Rancho Palos Verdes,0.0414,0,0.1866,0
+Villa Park,Rancho Santa Margarita,0.2901,0.25,0.1866,0.3385
+Villa Park,Redlands,0.1658,0,0.1866,0.2031
+Villa Park,Redondo Beach,0.0829,0,0,0.1354
+Villa Park,Rialto,0,0,0,0
+Villa Park,Riverside,0.8288,1,0.7463,0.8125
+Villa Park,Rolling Hills,0,0,0,0
+Villa Park,Rolling Hills Estates,0,0,0,0
+Villa Park,Rosemead,0,0,0,0
+Villa Park,San Bernardino,0.2072,0,0,0.3385
+Villa Park,San Buenaventura,0.0414,0,0,0.0677
+Villa Park,San Clemente,0.4144,1.25,0.5597,0.1354
+Villa Park,San Diego,1.9063,0.5,2.6119,2.0311
+Villa Park,San Dimas,0.2487,0,0,0.4062
+Villa Park,San Fernando,0,0,0,0
+Villa Park,San Gabriel,0,0,0,0
+Villa Park,San Jacinto,0,0,0,0
+Villa Park,San Juan Capistrano,0.2487,0.5,0.1866,0.2031
+Villa Park,San Marcos,0.0829,0,0.1866,0.0677
+Villa Park,San Marino,0,0,0,0
+Villa Park,Santa Ana,8.3299,9,8.5821,8.0569
+Villa Park,Santa Clarita,0.0414,0.25,0,0
+Villa Park,Santa Fe Springs,0.4973,0.25,0.1866,0.677
+Villa Park,Santa Monica,0.373,0.5,0.1866,0.4062
+Villa Park,Santa Paula,0,0,0,0
+Villa Park,Santee,0.0414,0,0,0.0677
+Villa Park,Seal Beach,0.1243,0,0.1866,0.1354
+Villa Park,Sierra Madre,0.0414,0,0,0.0677
+Villa Park,Signal Hill,0.0829,0,0.1866,0.0677
+Villa Park,Simi Valley,0,0,0,0
+Villa Park,Solana Beach,0,0,0,0
+Villa Park,South El Monte,0,0,0,0
+Villa Park,South Gate,0.0829,0.25,0,0.0677
+Villa Park,South Pasadena,0,0,0,0
+Villa Park,Stanton,0.2901,0.5,0.3731,0.2031
+Villa Park,Temecula,0.2072,0.25,0.1866,0.2031
+Villa Park,Temple City,0,0,0,0
+Villa Park,Thousand Oaks,0.2072,0.5,0.3731,0.0677
+Villa Park,Torrance,0.6216,0.75,0.3731,0.677
+Villa Park,Tustin,2.528,2.5,4.4776,1.828
+Villa Park,Twentynine Palms,0.0414,0,0.1866,0
+Villa Park,Unincorporated:Imperial,0,0,0,0
+Villa Park,Unincorporated:Los Angeles,1.0361,1,1.306,0.9479
+Villa Park,Unincorporated:Orange,0.746,2,0,0.677
+Villa Park,Unincorporated:Riverside,0.2072,0.25,0.5597,0.0677
+Villa Park,Unincorporated:San Bernardino,0.0414,0.25,0,0
+Villa Park,Unincorporated:San Diego,0.0829,0,0.1866,0.0677
+Villa Park,Unincorporated:Ventura,0.0414,0,0.1866,0
+Villa Park,Upland,0.1243,0.25,0.1866,0.0677
+Villa Park,Vernon,0.1658,0,0.3731,0.1354
+Villa Park,Victorville,0.0414,0.25,0,0
+Villa Park,Villa Park,4.5586,8,5.9701,3.1144
+Villa Park,Vista,0.0414,0,0.1866,0
+Villa Park,Walnut,0.0829,0,0.3731,0
+Villa Park,West Covina,0.2487,0.25,0.7463,0.0677
+Villa Park,West Hollywood,0.1658,0,0.3731,0.1354
+Villa Park,Westlake Village,0.0414,0,0,0.0677
+Villa Park,Westminster,0.6631,0.75,1.4925,0.3385
+Villa Park,Westmorland,0,0,0,0
+Villa Park,Whittier,0.0829,0.25,0.1866,0
+Villa Park,Wildomar,0.0414,0.25,0,0
+Villa Park,Yorba Linda,0.6631,1.5,0.3731,0.5416
+Villa Park,Yucaipa,0,0,0,0
+Villa Park,Yucca Valley,0,0,0,0

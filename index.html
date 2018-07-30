@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html>
+    <head>
+    
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+        <title>Home-Based Work Trip Distribution in Orange County, CA</title>
+
+        <!-- Bootstrap CSS CDN -->
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+        <!-- Custom CSS -->
+        <link rel="stylesheet" href="/css/style.css">
+
+    </head>
+
+    <body>
+        <script src="https://d3js.org/d3.v4.min.js"></script>
+        <script src="https://d3js.org/d3-scale-chromatic.v1.min.js"></script>
+
+        <div class="wrapper">
+            <!-- Sidebar Holder -->
+            <nav id="sidebar">
+                <div class="sidebar-header">
+                    <h3><a href="index.html">Jurisdiction Navigator</a></h3>
+                </div>
+
+                <ul class="list-unstyled components">
+
+                    <li>
+                        <a href="index.html">About the Visualization</a>
+                    </li>
+
+                    <li class="active">
+                        <a href="map.html">Map</a>
+                    </li>
+
+                </ul>
+            </nav>
+
+
+            <!-- Page Content Holder -->
+            <div id="content">
+
+                <nav class="navbar navbar-default">
+                    <div class="container-fluid">
+                        <div class="navbar-header">
+                            <button type="button" id="sidebarCollapse" class="btn btn-info navbar-btn">
+                                <i class="glyphicon glyphicon-align-left"></i>
+                                <span>Toggle Navigator</span>
+                            </button>
+                        </div>
+                    </div>
+                </nav>
+
+                <h3>Overview</h3>
+                <p>Southern California consists of 7 counties, namely in alphabetical order, Imperial County, Los Angeles County, Orange County, Riverside County, San Bernardino County, San Diego County, and Ventura County. Southern California accounts for 56% of population in California. Due to its vast geographic size, diverse socioeconomic condition, dense road infrastructure, and controversial unbalanced job and housing distribution, it is challenging to analyze trip patterns of Southern California residents as a whole. Instead, this study focuses on workers who live in Orange County and work in 7-county Southern California. Orange County is chosen because it is economically vibrant and bordered with the two large metropolitan areas in the region (on the north by Los Angeles County and on the southeast by San Diego County). This narrative visualization builds upon and extends my mid-term projection, there are two charts illustrating work trip patterns for workers living in Orange County and working in Southern California, namely, city-level trip origin/destination distribution choropleth map and worker income and industry distribution in work trip destination jurisdiction.</p>
+                <div class="line"></div>
+
+
+                <h3>Structure</h3>
+                <p>This narrative visualization follows a hybrid structure where interactive slideshow is implemented in the home-based work trip distribution choropleth map and drill-down story is implemented by reader-clickable jurisdictions on the map that display two donut charts if readers are interested in learning details about income and industry category proportions at the work location jurisdiction. Readers are first prompted with About the Visualization page where they can learn the purpose of this narrative visualization. Then, readers can select paths designed by the author (i.e. click Map on the homepage to be directed to the visualization page, expand Home Jurisdictions dropdown to view and navigate through 35 scenes (each jurisdiction in Orange County California is a scene). A toggleable Jurisdiction Navigator (sidebar on the left) helps readers navigate through scenes and the consistent page layout keeps readers oriented and focused between scenes.</p>
+                <p>This narrative visualization also offers a number of ways readers can manipulate visualization, such as:</p>
+                <div>
+                    <ol>
+                        <li>dropdown selector of income category: readers can view spatial distribution of workers who living in a certain home jurisdiction (selected by readers through navigator) and are in one of the four income categories (selected by readers through income category dropdown);</li>
+                        <li>work location jurisdiction boundary highlighter: when readers hover the mouse over the choropleth map, the work location jurisdiction boundary is highlighted in green;</li>
+                        <li>value tooltip: when readers hover the mouse over the choropleth map, the percentage of workers who living in user-selected home jurisdiction and are in user-selected income category and are commuting to work location jurisdiction that the mouse is currently on is shown as a tooltip;</li>
+                        <li>home location jurisdiction highlighter: when readers select a home jurisdiction through navigator, the home jurisdiction is highlighted in green with a thicker stroke;</li>
+                        <li>zoomable and pannable choropleth map: readers can zoom in/out and pan on the choropleth map to view an overview of regionwide trip distribution or detailed trip distribution at a higher spatial resolution level;</li>
+                        <li>donut charts on demand: when readers are interested in learning the overall income distribution and industry distribution of workers in a certain jurisdiction, readers can click any jurisdiction polygon on the choropleth map to bring up two donut charts.</li>
+                    </ol>
+                </div>
+                <div class="line"></div>
+
+
+                <h3>Scenes</h3>
+                <p>Because of the amount of jurisdictions in Orange County California (35 jurisdictions) and the inclusion of income category dropdown selector for each scene, even though technically it is doable to implement two dropdown lists (one for the list of jurisdictions and the other for the list of income categories), the author believes it is visually and practically appealing to have jurisdiction selector separated from income selector on the same scene (i.e. select home jurisdiction through toggleable navigator on the left and for each city being a scene, an income dropdown interacts with d3 objects on the choropleth map). Each jurisdiction is a scene where readers can learn the spatial distribution of home-based work trips traveled by different income types of workers from the jurisdiction of interest. The story is properly broken down to manageable size (each jurisdiction being a scene). Each scene has the consistent layout and design, which offers concise and focused messages to readers (less chances of overwhelming and confusing readers). Within each scene, a choropleth map is displayed on the top with two optional pie charts rendered on demand below the map.</p>
+                <div class="line"></div>
+
+
+                <h3>Annotations</h3>
+                <p>Titles of the choropleth map displays an instruction to readers that they can expand Home Jurisdiction navigator and click jurisdiction name. Once readers follow the instruction, the title is dynamically rendered with the name of jurisdiction of interest. As explained above, the value (percentage of workers who commute from the jurisdiction of interest to jurisdiction that the mouse is currently hovering over) is displayed as a tooltip, which gives readers concrete numbers besides colored polygons. A legend for the choropleth map is also displayed. A fixed legend data range is chosen for compassion purpose. Donut charts are chosen over pie charts because it is visually less deceiving. The name of work location jurisdiction is dynamically rendered and conveniently located in the center of donut chart. Category and associated value are displayed on the arcs of donut charts. The number of income categories and industry categories are properly chosen to avoid label cluttering. Footnotes are displayed on the button for additional information on how categories are defined and aggregated.</p>
+                <div class="line"></div>
+
+                <h3>Parameters</h3>
+                <p>This narrative visualization consists of the following parameters that are triggered by click events. When readers select one of the income categories from the income dropdown selector, each polygon in the choropleth map is re-rendered based on newly assigned income-specific percentage (from home jurisdiction to each of the work location jurisdiction). The parameter here is the percentage value and associated color. The second parameter is related to worker income category and industry category proportion in reader-selected work location jurisdiction. When readers click any of the polygon on the choropleth map, worker income category proportion and worker industry category proportion are drawn in two donut charts, respectively. The parameter is proportion value and associated categorical colors.</p>
+                <div class="line"></div>
+
+                <h3>Triggers</h3>
+                <p>The triggers in this narrative visualization are income category dropdown list and readers’ click event on choropleth map polygons. Triggers license to readers’ click action so that subset of data can be loaded dynamically. For example, when readers select Low Income from income category dropdown, low income subset of records are rendered on the choropleth map. Similarly, when readers click for example City of Irvine on the choropleth map, income category and industry category of workers who work in that city are retrieved and rendered in donut charts, respectively.</p>
+                <p>Thank you for viewing this narrative visualization.</p>
+
+            </div> <!-- end of content div -->
+
+        </div> <!-- end of wrapper div -->
+
+
+        <!-- jQuery CDN -->
+        <script src="https://code.jquery.com/jquery-1.12.0.min.js"></script>
+        <!-- Bootstrap Js CDN -->
+        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+
+        <script type="text/javascript">
+            $(document).ready(function () {
+                $('#sidebarCollapse').on('click', function () {
+                    $('#sidebar').toggleClass('active');
+                });
+            });
+        </script>
+
+    </body>
+
+</html>

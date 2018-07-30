@@ -1,0 +1,216 @@
+home_city,work_city,all_worker_ratio,low_income_worker_ratio,medium_income_worker_ratio,high_income_worker_ratio
+Westminster,Adelanto,0.0088,0,0.0162,0.0069
+Westminster,Agoura Hills,0.0059,0,0.0081,0.0069
+Westminster,Alhambra,0.082,0.1239,0.0485,0.0896
+Westminster,Aliso Viejo,0.2869,0.1239,0.2666,0.3859
+Westminster,Anaheim,5.4572,4.9271,6.5428,4.7964
+Westminster,Apple Valley,0.0117,0.0138,0.0081,0.0138
+Westminster,Arcadia,0.079,0.1514,0.0727,0.0482
+Westminster,Artesia,0.0908,0.0826,0.1454,0.0482
+Westminster,Azusa,0.0937,0.0688,0.0565,0.1378
+Westminster,Baldwin Park,0.1054,0.0551,0.105,0.1309
+Westminster,Banning,0.0029,0,0,0.0069
+Westminster,Barstow,0.0176,0.0138,0.0242,0.0138
+Westminster,Beaumont,0.0059,0,0.0081,0.0069
+Westminster,Bell,0.0556,0.0413,0.0404,0.0758
+Westminster,Bell Gardens,0.0761,0.0688,0.105,0.0551
+Westminster,Bellflower,0.2898,0.4129,0.2423,0.2688
+Westminster,Beverly Hills,0.123,0.1239,0.1616,0.0896
+Westminster,Big Bear Lake,0.0029,0,0,0.0069
+Westminster,Blythe,0.0234,0,0.0162,0.0413
+Westminster,Bradbury,0,0,0,0
+Westminster,Brawley,0.0029,0,0,0.0069
+Westminster,Brea,0.9427,1.0184,0.8885,0.951
+Westminster,Buena Park,0.931,1.1561,0.9289,0.8201
+Westminster,Burbank,0.322,0.3991,0.2504,0.3446
+Westminster,Calabasas,0.0527,0.0826,0.0081,0.0758
+Westminster,Calexico,0.0029,0,0.0081,0
+Westminster,Calimesa,0,0,0,0
+Westminster,Calipatria,0,0,0,0
+Westminster,Camarillo,0.0732,0.0551,0.0808,0.0758
+Westminster,Canyon Lake,0,0,0,0
+Westminster,Carlsbad,0.2166,0.1514,0.2181,0.2481
+Westminster,Carson,0.4684,0.2615,0.4362,0.5995
+Westminster,Cathedral City,0.0117,0.0275,0.0162,0
+Westminster,Cerritos,0.7758,0.9909,0.7512,0.6891
+Westminster,Chino,0.1698,0.1101,0.2019,0.1723
+Westminster,Chino Hills,0.079,0.1652,0.0727,0.0413
+Westminster,Chula Vista,0.0937,0.1239,0.0808,0.0896
+Westminster,Claremont,0.0527,0.0275,0.0727,0.0482
+Westminster,Coachella,0.0029,0.0138,0,0
+Westminster,Colton,0.0439,0.0138,0.0485,0.0551
+Westminster,Commerce,0.2723,0.1789,0.3796,0.2274
+Westminster,Compton,0.1669,0.1514,0.1131,0.2205
+Westminster,Corona,0.4567,0.3854,0.5816,0.3859
+Westminster,Coronado,0.0029,0,0,0.0069
+Westminster,Costa Mesa,4.0694,3.8536,4.2811,3.997
+Westminster,Covina,0.0673,0.0826,0.0808,0.0482
+Westminster,Cudahy,0.0088,0.0138,0,0.0138
+Westminster,Culver City,0.243,0.4817,0.1373,0.2136
+Westminster,Cypress,1.0745,0.7707,1.0985,1.206
+Westminster,Dana Point,0.079,0.1239,0.0808,0.0551
+Westminster,Del Mar,0,0,0,0
+Westminster,Desert Hot Springs,0,0,0,0
+Westminster,Diamond Bar,0.0937,0.0551,0.0565,0.1447
+Westminster,Downey,0.3074,0.3578,0.2262,0.3515
+Westminster,Duarte,0.0293,0.0275,0.0162,0.0413
+Westminster,Eastvale,0.0322,0.0138,0.0323,0.0413
+Westminster,El Cajon,0.0468,0.0413,0.0404,0.0551
+Westminster,El Centro,0.0176,0,0.0404,0.0069
+Westminster,El Monte,0.1347,0.0963,0.1292,0.1585
+Westminster,El Segundo,0.6675,0.0826,0.1292,1.4196
+Westminster,Encinitas,0.0615,0.0688,0.0969,0.0276
+Westminster,Escondido,0.1113,0.0963,0.1292,0.1034
+Westminster,Fillmore,0,0,0,0
+Westminster,Fontana,0.1815,0.1789,0.105,0.2481
+Westminster,Fountain Valley,3.1765,3.3443,3.3522,2.9426
+Westminster,Fullerton,1.3584,1.39,1.4378,1.2749
+Westminster,Garden Grove,5.7997,9.0972,6.3328,3.6937
+Westminster,Gardena,0.2254,0.1789,0.2262,0.2481
+Westminster,Glendale,0.2928,0.289,0.2423,0.3377
+Westminster,Glendora,0.0439,0.0413,0.0404,0.0482
+Westminster,Grand Terrace,0,0,0,0
+Westminster,Hawaiian Gardens,0.1317,0.0688,0.2181,0.0896
+Westminster,Hawthorne,0.1522,0.0963,0.0565,0.2619
+Westminster,Hemet,0.041,0.0551,0.0404,0.0345
+Westminster,Hermosa Beach,0.0381,0.0551,0.0404,0.0276
+Westminster,Hesperia,0.0088,0.0138,0,0.0138
+Westminster,Hidden Hills,0,0,0,0
+Westminster,Highland,0.0176,0.0138,0.0081,0.0276
+Westminster,Holtville,0,0,0,0
+Westminster,Huntington Beach,7.811,8.4778,8.7884,6.6432
+Westminster,Huntington Park,0.0498,0.0551,0.0404,0.0551
+Westminster,Imperial,0.0059,0.0138,0,0.0069
+Westminster,Imperial Beach,0,0,0,0
+Westminster,Indian Wells,0.0088,0,0.0081,0.0138
+Westminster,Indio,0.0234,0.0275,0.0323,0.0138
+Westminster,Industry,0.4801,0.2753,0.525,0.5444
+Westminster,Inglewood,0.1581,0.1239,0.21,0.1309
+Westminster,Irvine,8.742,4.5968,7.2375,12.1012
+Westminster,Irwindale,0.0586,0.0551,0.0485,0.0689
+Westminster,Jurupa Valley,0.1142,0.1239,0.1131,0.1103
+Westminster,La Canada Flintridge,0.0059,0,0.0081,0.0069
+Westminster,La Habra,0.2781,0.6193,0.2181,0.1585
+Westminster,La Habra Heights,0.0146,0,0.0162,0.0207
+Westminster,La Mesa,0.0293,0.0551,0.0323,0.0138
+Westminster,La Mirada,0.3367,0.4404,0.2423,0.3652
+Westminster,La Palma,0.2166,0.0688,0.2262,0.2825
+Westminster,La Puente,0.0263,0.0688,0.0162,0.0138
+Westminster,La Quinta,0.0088,0.0275,0.0081,0
+Westminster,La Verne,0.0498,0.0551,0.0808,0.0207
+Westminster,Laguna Beach,0.0908,0.0826,0.0969,0.0896
+Westminster,Laguna Hills,0.3777,0.2615,0.4685,0.3583
+Westminster,Laguna Niguel,0.322,0.1927,0.3393,0.3721
+Westminster,Laguna Woods,0.0468,0.0413,0.0727,0.0276
+Westminster,Lake Elsinore,0.0293,0.0138,0.0162,0.0482
+Westminster,Lake Forest,0.8197,0.5505,0.727,1.0337
+Westminster,Lakewood,0.4245,0.8533,0.3231,0.2963
+Westminster,Lancaster,0.0703,0.0826,0.0485,0.0827
+Westminster,Lawndale,0.0176,0.0275,0.0242,0.0069
+Westminster,Lemon Grove,0.0117,0,0.0162,0.0138
+Westminster,Loma Linda,0.0263,0.0275,0,0.0482
+Westminster,Lomita,0.0146,0.0138,0,0.0276
+Westminster,Long Beach,3.9465,3.3443,2.8433,5.1892
+Westminster,Los Alamitos,0.5797,0.4129,0.6058,0.6409
+Westminster,Los Angeles,5.6123,4.1701,4.1438,7.5873
+Westminster,Lynwood,0.0732,0.0275,0.0404,0.124
+Westminster,Malibu,0.0088,0,0.0081,0.0138
+Westminster,Manhattan Beach,0.1054,0.1514,0.0889,0.0965
+Westminster,Maywood,0.0263,0.0275,0.0404,0.0138
+Westminster,Menifee,0.0498,0.0826,0.0404,0.0413
+Westminster,Mission Viejo,0.6792,0.4129,0.9451,0.5858
+Westminster,Monrovia,0.0849,0.0275,0.1292,0.0758
+Westminster,Montclair,0.0381,0.0551,0.0404,0.0276
+Westminster,Montebello,0.0761,0.0963,0.0727,0.0689
+Westminster,Monterey Park,0.12,0.1239,0.1212,0.1172
+Westminster,Moorpark,0.0234,0.0413,0.0242,0.0138
+Westminster,Moreno Valley,0.0615,0.0963,0.0808,0.0276
+Westminster,Murrieta,0.0761,0.0963,0.1212,0.0276
+Westminster,National City,0.0205,0.0275,0.0242,0.0138
+Westminster,Needles,0,0,0,0
+Westminster,Newport Beach,2.9979,1.8442,3.1179,3.4732
+Westminster,Norco,0.0293,0.0551,0.0081,0.0345
+Westminster,Norwalk,0.3513,0.3991,0.4039,0.2825
+Westminster,Oceanside,0.0966,0.0688,0.1212,0.0896
+Westminster,Ojai,0,0,0,0
+Westminster,Ontario,0.4069,0.3303,0.3635,0.4824
+Westminster,Orange,3.4429,2.5323,3.8126,3.5835
+Westminster,Oxnard,0.1025,0.0826,0.105,0.1103
+Westminster,Palm Desert,0.0673,0.0688,0.0646,0.0689
+Westminster,Palm Springs,0.041,0.0275,0.0404,0.0482
+Westminster,Palmdale,0.0732,0.0413,0.0404,0.1172
+Westminster,Palos Verdes Estates,0,0,0,0
+Westminster,Paramount,0.1757,0.1239,0.1373,0.2343
+Westminster,Pasadena,0.3279,0.1927,0.2666,0.4479
+Westminster,Perris,0.0498,0.0688,0.0565,0.0345
+Westminster,Pico Rivera,0.0556,0.0551,0.0889,0.0276
+Westminster,Placentia,0.4157,0.3303,0.42,0.4548
+Westminster,Pomona,0.2196,0.1376,0.2262,0.255
+Westminster,Port Hueneme,0.0059,0,0.0162,0
+Westminster,Poway,0.0322,0.0138,0.0485,0.0276
+Westminster,Rancho Cucamonga,0.2869,0.3578,0.3069,0.2343
+Westminster,Rancho Mirage,0.0059,0.0275,0,0
+Westminster,Rancho Palos Verdes,0.041,0.0551,0.0404,0.0345
+Westminster,Rancho Santa Margarita,0.1581,0.0826,0.1535,0.1998
+Westminster,Redlands,0.0556,0.0551,0.0404,0.0689
+Westminster,Redondo Beach,0.2518,0.1514,0.1535,0.3859
+Westminster,Rialto,0.0234,0.0413,0.0081,0.0276
+Westminster,Riverside,0.5065,0.4679,0.5089,0.5237
+Westminster,Rolling Hills,0,0,0,0
+Westminster,Rolling Hills Estates,0.0234,0.0413,0.0242,0.0138
+Westminster,Rosemead,0.082,0.1239,0.105,0.0413
+Westminster,San Bernardino,0.2049,0.1376,0.1454,0.2894
+Westminster,San Buenaventura,0.0644,0.0688,0.0485,0.0758
+Westminster,San Clemente,0.1786,0.0963,0.2746,0.1378
+Westminster,San Diego,1.4258,1.2386,1.1793,1.7297
+Westminster,San Dimas,0.1142,0.1652,0.1212,0.0827
+Westminster,San Fernando,0.0146,0,0.0081,0.0276
+Westminster,San Gabriel,0.041,0.0275,0.0404,0.0482
+Westminster,San Jacinto,0,0,0,0
+Westminster,San Juan Capistrano,0.082,0.0138,0.0889,0.1103
+Westminster,San Marcos,0.0703,0.0826,0.0969,0.0413
+Westminster,San Marino,0.0029,0,0,0.0069
+Westminster,Santa Ana,8.4287,6.6612,10.1696,7.8285
+Westminster,Santa Clarita,0.1259,0.1239,0.1373,0.1172
+Westminster,Santa Fe Springs,0.7261,0.3303,0.8724,0.7994
+Westminster,Santa Monica,0.2928,0.1927,0.1696,0.4479
+Westminster,Santa Paula,0.0117,0.0138,0,0.0207
+Westminster,Santee,0.0263,0.0275,0.0162,0.0345
+Westminster,Seal Beach,0.6177,0.523,0.4523,0.8063
+Westminster,Sierra Madre,0.0117,0,0.0081,0.0207
+Westminster,Signal Hill,0.3425,0.3303,0.3554,0.3377
+Westminster,Simi Valley,0.0878,0.0688,0.0969,0.0896
+Westminster,Solana Beach,0.0234,0.0138,0.0162,0.0345
+Westminster,South El Monte,0.0644,0.0413,0.105,0.0413
+Westminster,South Gate,0.1552,0.1101,0.1373,0.193
+Westminster,South Pasadena,0.0234,0.0275,0.0162,0.0276
+Westminster,Stanton,0.5563,0.7294,0.7027,0.3446
+Westminster,Temecula,0.1493,0.1652,0.1696,0.124
+Westminster,Temple City,0.0117,0.0275,0.0162,0
+Westminster,Thousand Oaks,0.1669,0.2202,0.1373,0.1654
+Westminster,Torrance,0.8022,0.6468,0.5654,1.0819
+Westminster,Tustin,1.5165,1.1285,1.769,1.4954
+Westminster,Twentynine Palms,0.0029,0,0.0081,0
+Westminster,Unincorporated:Imperial,0.0029,0,0.0081,0
+Westminster,Unincorporated:Los Angeles,0.9983,0.7294,0.9612,1.1646
+Westminster,Unincorporated:Orange,0.5358,0.7845,0.6139,0.3446
+Westminster,Unincorporated:Riverside,0.1025,0.1239,0.0969,0.0965
+Westminster,Unincorporated:San Bernardino,0.1522,0.1927,0.0889,0.1861
+Westminster,Unincorporated:San Diego,0.1581,0.1376,0.1292,0.193
+Westminster,Unincorporated:Ventura,0.0908,0.0688,0.1131,0.0827
+Westminster,Upland,0.0703,0.0688,0.0565,0.0827
+Westminster,Vernon,0.1493,0.0413,0.1131,0.2343
+Westminster,Victorville,0.1025,0.1514,0.0969,0.0827
+Westminster,Villa Park,0.0293,0.0551,0.0162,0.0276
+Westminster,Vista,0.0849,0,0.105,0.1103
+Westminster,Walnut,0.0263,0.0688,0.0081,0.0207
+Westminster,West Covina,0.1317,0.0963,0.1858,0.1034
+Westminster,West Hollywood,0.0527,0.0688,0.0646,0.0345
+Westminster,Westlake Village,0.0176,0,0.0162,0.0276
+Westminster,Westminster,7.4714,17.0933,7.2456,2.8461
+Westminster,Westmorland,0,0,0,0
+Westminster,Whittier,0.1639,0.1514,0.1858,0.1516
+Westminster,Wildomar,0.0088,0,0,0.0207
+Westminster,Yorba Linda,0.243,0.2477,0.2342,0.2481
+Westminster,Yucaipa,0.0117,0,0.0242,0.0069
+Westminster,Yucca Valley,0.0059,0,0,0.0138

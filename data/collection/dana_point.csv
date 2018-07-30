@@ -1,0 +1,216 @@
+home_city,work_city,all_worker_ratio,low_income_worker_ratio,medium_income_worker_ratio,high_income_worker_ratio
+Dana Point,Adelanto,0.0086,0,0,0.0152
+Dana Point,Agoura Hills,0.0259,0.0515,0,0.0303
+Dana Point,Alhambra,0.095,0,0.1312,0.1062
+Dana Point,Aliso Viejo,2.6857,2.1112,2.4606,2.959
+Dana Point,Anaheim,1.7358,1.2358,1.542,1.9727
+Dana Point,Apple Valley,0.0259,0.0515,0.0328,0.0152
+Dana Point,Arcadia,0.1123,0.1545,0.0984,0.1062
+Dana Point,Artesia,0.0086,0,0,0.0152
+Dana Point,Azusa,0.1123,0.309,0.0656,0.0759
+Dana Point,Baldwin Park,0.0864,0.103,0.164,0.0455
+Dana Point,Banning,0,0,0,0
+Dana Point,Barstow,0.0173,0,0.0656,0
+Dana Point,Beaumont,0.0086,0,0,0.0152
+Dana Point,Bell,0.0432,0.1545,0.0328,0.0152
+Dana Point,Bell Gardens,0.0345,0,0,0.0607
+Dana Point,Bellflower,0.1209,0,0.0656,0.1821
+Dana Point,Beverly Hills,0.2418,0.1545,0.1969,0.2883
+Dana Point,Big Bear Lake,0.0432,0.103,0.0656,0.0152
+Dana Point,Blythe,0,0,0,0
+Dana Point,Bradbury,0,0,0,0
+Dana Point,Brawley,0.0173,0,0,0.0303
+Dana Point,Brea,0.4663,0.5149,0.4921,0.4401
+Dana Point,Buena Park,0.2591,0.206,0.1969,0.3035
+Dana Point,Burbank,0.4318,0.8754,0.3937,0.3187
+Dana Point,Calabasas,0.0518,0.206,0.0656,0
+Dana Point,Calexico,0.0173,0.0515,0.0328,0
+Dana Point,Calimesa,0,0,0,0
+Dana Point,Calipatria,0,0,0,0
+Dana Point,Camarillo,0.0777,0.0515,0.0328,0.1062
+Dana Point,Canyon Lake,0.0086,0,0,0.0152
+Dana Point,Carlsbad,0.734,0.6694,0.4265,0.8953
+Dana Point,Carson,0.2418,0.2575,0.2625,0.2276
+Dana Point,Cathedral City,0.0086,0.0515,0,0
+Dana Point,Cerritos,0.1727,0.1545,0.164,0.1821
+Dana Point,Chino,0.1295,0.103,0.1312,0.1366
+Dana Point,Chino Hills,0.0518,0.1545,0.0328,0.0303
+Dana Point,Chula Vista,0.1295,0.206,0.1969,0.0759
+Dana Point,Claremont,0.1123,0.103,0.1969,0.0759
+Dana Point,Coachella,0,0,0,0
+Dana Point,Colton,0.0518,0.0515,0.0984,0.0303
+Dana Point,Commerce,0.1554,0.2575,0.0984,0.1517
+Dana Point,Compton,0.1209,0.0515,0.2297,0.091
+Dana Point,Corona,0.5268,0.6694,0.6562,0.4249
+Dana Point,Coronado,0.0173,0.0515,0,0.0152
+Dana Point,Costa Mesa,2.7288,2.0597,2.6903,2.9439
+Dana Point,Covina,0.095,0.1545,0.0656,0.091
+Dana Point,Cudahy,0,0,0,0
+Dana Point,Culver City,0.285,0.3605,0.2297,0.2883
+Dana Point,Cypress,0.3282,0.1545,0.2297,0.4249
+Dana Point,Dana Point,7.228,13.3368,9.7769,4.2489
+Dana Point,Del Mar,0.0345,0.0515,0,0.0455
+Dana Point,Desert Hot Springs,0,0,0,0
+Dana Point,Diamond Bar,0.1727,0.0515,0.1312,0.2276
+Dana Point,Downey,0.1382,0.0515,0.0656,0.1973
+Dana Point,Duarte,0.0259,0,0,0.0455
+Dana Point,Eastvale,0.0777,0.103,0.0984,0.0607
+Dana Point,El Cajon,0.0691,0.0515,0.1312,0.0455
+Dana Point,El Centro,0.0173,0.0515,0,0.0152
+Dana Point,El Monte,0.0345,0.0515,0,0.0455
+Dana Point,El Segundo,0.7772,0.3605,0.2953,1.1229
+Dana Point,Encinitas,0.1382,0.4634,0.1312,0.0455
+Dana Point,Escondido,0.2245,0.206,0.1312,0.2731
+Dana Point,Fillmore,0.0086,0.0515,0,0
+Dana Point,Fontana,0.1468,0.103,0.1312,0.1669
+Dana Point,Fountain Valley,0.6218,0.3605,0.3281,0.8346
+Dana Point,Fullerton,0.5786,0.6179,0.6562,0.5311
+Dana Point,Garden Grove,0.285,0.1545,0.4265,0.258
+Dana Point,Gardena,0.0604,0,0.1312,0.0455
+Dana Point,Glendale,0.3282,0.3605,0.2953,0.3338
+Dana Point,Glendora,0.0604,0.0515,0.1312,0.0303
+Dana Point,Grand Terrace,0.0086,0,0.0328,0
+Dana Point,Hawaiian Gardens,0.0086,0,0.0328,0
+Dana Point,Hawthorne,0.0604,0.1545,0.0328,0.0455
+Dana Point,Hemet,0.0691,0.206,0.0656,0.0303
+Dana Point,Hermosa Beach,0.0432,0,0.1312,0.0152
+Dana Point,Hesperia,0.0086,0.0515,0,0
+Dana Point,Hidden Hills,0,0,0,0
+Dana Point,Highland,0.0086,0,0.0328,0
+Dana Point,Holtville,0,0,0,0
+Dana Point,Huntington Beach,1.1313,1.4418,0.9186,1.1381
+Dana Point,Huntington Park,0.0432,0,0.0656,0.0455
+Dana Point,Imperial,0,0,0,0
+Dana Point,Imperial Beach,0.0173,0.0515,0,0.0152
+Dana Point,Indian Wells,0.0086,0,0,0.0152
+Dana Point,Indio,0.0345,0,0,0.0607
+Dana Point,Industry,0.2245,0.206,0.3609,0.1669
+Dana Point,Inglewood,0.0518,0.103,0.0656,0.0303
+Dana Point,Irvine,13.2556,7.415,8.5302,17.1624
+Dana Point,Irwindale,0.0777,0.103,0.0328,0.091
+Dana Point,Jurupa Valley,0.1295,0.0515,0.1969,0.1214
+Dana Point,La Canada Flintridge,0.0518,0.0515,0.0656,0.0455
+Dana Point,La Habra,0.0864,0.206,0.1312,0.0303
+Dana Point,La Habra Heights,0.0086,0,0,0.0152
+Dana Point,La Mesa,0.0345,0,0.0328,0.0455
+Dana Point,La Mirada,0.1382,0.0515,0.1312,0.1669
+Dana Point,La Palma,0.0691,0,0.0328,0.1062
+Dana Point,La Puente,0.0259,0.0515,0.0328,0.0152
+Dana Point,La Quinta,0.0259,0,0.0328,0.0303
+Dana Point,La Verne,0.0259,0,0.0656,0.0152
+Dana Point,Laguna Beach,2.9965,4.3254,4.3963,1.9575
+Dana Point,Laguna Hills,2.0035,1.7508,2.1654,2.003
+Dana Point,Laguna Niguel,2.9706,4.5314,4.1995,1.9423
+Dana Point,Laguna Woods,0.3454,0.7724,0.3937,0.1973
+Dana Point,Lake Elsinore,0.095,0.1545,0.1312,0.0607
+Dana Point,Lake Forest,2.2366,1.9053,2.0669,2.4127
+Dana Point,Lakewood,0.1036,0.103,0.0656,0.1214
+Dana Point,Lancaster,0.095,0.309,0.0656,0.0455
+Dana Point,Lawndale,0,0,0,0
+Dana Point,Lemon Grove,0,0,0,0
+Dana Point,Loma Linda,0.0259,0,0.0656,0.0152
+Dana Point,Lomita,0.0086,0,0,0.0152
+Dana Point,Long Beach,0.8031,0.309,0.7874,0.956
+Dana Point,Los Alamitos,0.1468,0.0515,0.164,0.1669
+Dana Point,Los Angeles,5.0864,4.068,4.0354,5.8725
+Dana Point,Lynwood,0.0173,0.0515,0,0.0152
+Dana Point,Malibu,0.0173,0,0,0.0303
+Dana Point,Manhattan Beach,0.0864,0.0515,0.0984,0.091
+Dana Point,Maywood,0,0,0,0
+Dana Point,Menifee,0.0345,0.0515,0.0328,0.0303
+Dana Point,Mission Viejo,4.5941,4.3769,4.8885,4.522
+Dana Point,Monrovia,0.0777,0.0515,0.1312,0.0607
+Dana Point,Montclair,0.0691,0.0515,0.0984,0.0607
+Dana Point,Montebello,0.0691,0.0515,0.0984,0.0607
+Dana Point,Monterey Park,0.0864,0.103,0,0.1214
+Dana Point,Moorpark,0.0086,0.0515,0,0
+Dana Point,Moreno Valley,0.1468,0.103,0.0984,0.1821
+Dana Point,Murrieta,0.1209,0.206,0.1312,0.091
+Dana Point,National City,0.0518,0.0515,0.0328,0.0607
+Dana Point,Needles,0,0,0,0
+Dana Point,Newport Beach,4.1364,2.6262,3.8058,4.7344
+Dana Point,Norco,0.0864,0.0515,0.1312,0.0759
+Dana Point,Norwalk,0.1036,0.206,0.0328,0.1062
+Dana Point,Oceanside,0.3022,0.1545,0.2297,0.3794
+Dana Point,Ojai,0.0086,0,0.0328,0
+Dana Point,Ontario,0.5872,0.7209,0.4593,0.607
+Dana Point,Orange,1.7358,1.5448,0.8858,2.1851
+Dana Point,Oxnard,0.1209,0.103,0.2625,0.0607
+Dana Point,Palm Desert,0.1727,0.2575,0.2953,0.091
+Dana Point,Palm Springs,0.095,0.0515,0.1969,0.0607
+Dana Point,Palmdale,0.0432,0.0515,0.0328,0.0455
+Dana Point,Palos Verdes Estates,0.0086,0.0515,0,0
+Dana Point,Paramount,0.0777,0.0515,0,0.1214
+Dana Point,Pasadena,0.2677,0.206,0.2953,0.2731
+Dana Point,Perris,0.0777,0,0.164,0.0607
+Dana Point,Pico Rivera,0.0691,0,0.0984,0.0759
+Dana Point,Placentia,0.1641,0.103,0.0328,0.2428
+Dana Point,Pomona,0.1382,0.1545,0.0984,0.1517
+Dana Point,Port Hueneme,0,0,0,0
+Dana Point,Poway,0.0604,0,0.0328,0.091
+Dana Point,Rancho Cucamonga,0.3454,0.4634,0.3609,0.3035
+Dana Point,Rancho Mirage,0.0259,0,0.0656,0.0152
+Dana Point,Rancho Palos Verdes,0.0259,0.0515,0.0656,0
+Dana Point,Rancho Santa Margarita,1.2349,1.1329,1.4108,1.1836
+Dana Point,Redlands,0.1036,0.206,0.0656,0.091
+Dana Point,Redondo Beach,0.0864,0.0515,0.0984,0.091
+Dana Point,Rialto,0.095,0,0.0984,0.1214
+Dana Point,Riverside,0.5181,0.4634,0.5906,0.5008
+Dana Point,Rolling Hills,0,0,0,0
+Dana Point,Rolling Hills Estates,0.0345,0.0515,0.0656,0.0152
+Dana Point,Rosemead,0.0691,0,0.0656,0.091
+Dana Point,San Bernardino,0.2763,0.206,0.3937,0.2428
+Dana Point,San Buenaventura,0.0518,0.0515,0.0328,0.0607
+Dana Point,San Clemente,6.6753,8.2389,8.4646,5.3869
+Dana Point,San Diego,2.4439,2.0597,2.1325,2.7011
+Dana Point,San Dimas,0.1641,0.2575,0.1312,0.1517
+Dana Point,San Fernando,0.0173,0.0515,0,0.0152
+Dana Point,San Gabriel,0.0086,0,0,0.0152
+Dana Point,San Jacinto,0.0086,0,0.0328,0
+Dana Point,San Juan Capistrano,5.9067,7.518,7.2507,4.8103
+Dana Point,San Marcos,0.2245,0.2575,0.2953,0.1821
+Dana Point,San Marino,0.0259,0,0.0656,0.0152
+Dana Point,Santa Ana,3.7133,2.0597,3.2808,4.4006
+Dana Point,Santa Clarita,0.1727,0.309,0.1969,0.1214
+Dana Point,Santa Fe Springs,0.2245,0.206,0.1312,0.2731
+Dana Point,Santa Monica,0.4145,0.4634,0.2953,0.4552
+Dana Point,Santa Paula,0,0,0,0
+Dana Point,Santee,0.0259,0.0515,0.0656,0
+Dana Point,Seal Beach,0.0604,0.0515,0,0.091
+Dana Point,Sierra Madre,0.0173,0.0515,0,0.0152
+Dana Point,Signal Hill,0.095,0.0515,0.0656,0.1214
+Dana Point,Simi Valley,0.095,0.1545,0.0656,0.091
+Dana Point,Solana Beach,0.0604,0.1545,0.0328,0.0455
+Dana Point,South El Monte,0.0518,0.0515,0,0.0759
+Dana Point,South Gate,0.0432,0.1545,0.0328,0.0152
+Dana Point,South Pasadena,0.0345,0.0515,0.0328,0.0303
+Dana Point,Stanton,0.0518,0,0.0328,0.0759
+Dana Point,Temecula,0.3627,0.7724,0.3609,0.2428
+Dana Point,Temple City,0.0086,0.0515,0,0
+Dana Point,Thousand Oaks,0.1641,0.206,0.164,0.1517
+Dana Point,Torrance,0.544,0.5149,0.4921,0.5766
+Dana Point,Tustin,1.6149,1.1329,1.378,1.8665
+Dana Point,Twentynine Palms,0,0,0,0
+Dana Point,Unincorporated:Imperial,0.0173,0,0.0328,0.0152
+Dana Point,Unincorporated:Los Angeles,0.5095,0.309,0.4593,0.5918
+Dana Point,Unincorporated:Orange,1.4508,1.7508,1.9357,1.1381
+Dana Point,Unincorporated:Riverside,0.2936,0.5149,0.3281,0.2124
+Dana Point,Unincorporated:San Bernardino,0.1554,0.103,0.1969,0.1517
+Dana Point,Unincorporated:San Diego,0.3886,0.2575,0.5249,0.3642
+Dana Point,Unincorporated:Ventura,0.0345,0,0.0656,0.0303
+Dana Point,Upland,0.0777,0.0515,0.0656,0.091
+Dana Point,Vernon,0.1036,0.206,0.0656,0.091
+Dana Point,Victorville,0.0604,0,0.0656,0.0759
+Dana Point,Villa Park,0.0086,0,0,0.0152
+Dana Point,Vista,0.2418,0.206,0.2297,0.258
+Dana Point,Walnut,0.0173,0,0.0328,0.0152
+Dana Point,West Covina,0.0259,0,0.0328,0.0303
+Dana Point,West Hollywood,0.1554,0.0515,0.1969,0.1669
+Dana Point,Westlake Village,0.0345,0,0,0.0607
+Dana Point,Westminster,0.1295,0.1545,0.1969,0.091
+Dana Point,Westmorland,0,0,0,0
+Dana Point,Whittier,0.0691,0.103,0.0328,0.0759
+Dana Point,Wildomar,0.0432,0,0.0328,0.0607
+Dana Point,Yorba Linda,0.19,0.3605,0.1969,0.1366
+Dana Point,Yucaipa,0.0259,0.103,0,0.0152
+Dana Point,Yucca Valley,0.0173,0,0.0328,0.0152

@@ -1,0 +1,216 @@
+home_city,work_city,all_worker_ratio,low_income_worker_ratio,medium_income_worker_ratio,high_income_worker_ratio
+Seal Beach,Adelanto,0,0,0,0
+Seal Beach,Agoura Hills,0.0459,0.0662,0.091,0.0199
+Seal Beach,Alhambra,0.1261,0.1324,0.091,0.1396
+Seal Beach,Aliso Viejo,0.1605,0.0662,0.1819,0.1795
+Seal Beach,Anaheim,3.2095,3.64,3.638,2.8919
+Seal Beach,Apple Valley,0.0229,0.0662,0,0.0199
+Seal Beach,Arcadia,0.1834,0.1324,0.1364,0.2194
+Seal Beach,Artesia,0.149,0.0662,0.2274,0.1396
+Seal Beach,Azusa,0.1605,0,0.1364,0.2194
+Seal Beach,Baldwin Park,0.1834,0.1985,0.091,0.2194
+Seal Beach,Banning,0,0,0,0
+Seal Beach,Barstow,0.0115,0,0,0.0199
+Seal Beach,Beaumont,0.0115,0,0.0455,0
+Seal Beach,Bell,0.1605,0.1324,0.1364,0.1795
+Seal Beach,Bell Gardens,0.149,0.3309,0.091,0.1197
+Seal Beach,Bellflower,0.7909,0.1324,0.6821,1.0371
+Seal Beach,Beverly Hills,0.2063,0.0662,0.2729,0.2194
+Seal Beach,Big Bear Lake,0.0115,0.0662,0,0
+Seal Beach,Blythe,0.0344,0.0662,0,0.0399
+Seal Beach,Bradbury,0,0,0,0
+Seal Beach,Brawley,0,0,0,0
+Seal Beach,Brea,0.7221,0.3971,0.864,0.7579
+Seal Beach,Buena Park,0.768,0.6618,1.1369,0.6382
+Seal Beach,Burbank,0.6304,1.1913,0.4093,0.5584
+Seal Beach,Calabasas,0.0459,0.1985,0.0455,0
+Seal Beach,Calexico,0.0115,0,0.0455,0
+Seal Beach,Calimesa,0,0,0,0
+Seal Beach,Calipatria,0,0,0,0
+Seal Beach,Camarillo,0.0802,0.1985,0.0455,0.0598
+Seal Beach,Canyon Lake,0,0,0,0
+Seal Beach,Carlsbad,0.1834,0.3309,0.2729,0.0997
+Seal Beach,Carson,1.1807,0.9265,0.955,1.3562
+Seal Beach,Cathedral City,0.0344,0.0662,0,0.0399
+Seal Beach,Cerritos,1.238,0.8604,1.0914,1.416
+Seal Beach,Chino,0.2866,0.1324,0.4093,0.2792
+Seal Beach,Chino Hills,0.1376,0.0662,0.4093,0.0399
+Seal Beach,Chula Vista,0.0688,0,0.1364,0.0598
+Seal Beach,Claremont,0.1146,0.1324,0.1364,0.0997
+Seal Beach,Coachella,0,0,0,0
+Seal Beach,Colton,0.0344,0,0.0455,0.0399
+Seal Beach,Commerce,0.6419,0.5295,0.5002,0.7379
+Seal Beach,Compton,0.4241,0.3971,0.5002,0.3989
+Seal Beach,Corona,0.5502,0.5956,0.7276,0.4587
+Seal Beach,Coronado,0.0229,0,0.0455,0.0199
+Seal Beach,Costa Mesa,2.1664,1.8531,2.9104,1.9346
+Seal Beach,Covina,0.1376,0.1324,0.2274,0.0997
+Seal Beach,Cudahy,0.0688,0.0662,0.0455,0.0798
+Seal Beach,Culver City,0.2636,0.1985,0.2274,0.2992
+Seal Beach,Cypress,1.983,1.9854,1.6826,2.1141
+Seal Beach,Dana Point,0.0802,0.1985,0.0455,0.0598
+Seal Beach,Del Mar,0,0,0,0
+Seal Beach,Desert Hot Springs,0,0,0,0
+Seal Beach,Diamond Bar,0.2178,0.3309,0.1364,0.2194
+Seal Beach,Downey,0.7221,0.3309,0.9095,0.7579
+Seal Beach,Duarte,0.1032,0.0662,0.091,0.1197
+Seal Beach,Eastvale,0.0344,0,0.091,0.0199
+Seal Beach,El Cajon,0.0344,0.0662,0.0455,0.0199
+Seal Beach,El Centro,0.0229,0,0.0455,0.0199
+Seal Beach,El Monte,0.1146,0.1985,0.1364,0.0798
+Seal Beach,El Segundo,1.2724,0.1324,0.5457,1.9346
+Seal Beach,Encinitas,0.0802,0.0662,0.1364,0.0598
+Seal Beach,Escondido,0.149,0.1985,0.1819,0.1197
+Seal Beach,Fillmore,0,0,0,0
+Seal Beach,Fontana,0.2751,0.3309,0.3183,0.2393
+Seal Beach,Fountain Valley,1.1921,1.2574,1.1369,1.1966
+Seal Beach,Fullerton,1.3641,1.7207,1.4097,1.2365
+Seal Beach,Garden Grove,1.9601,2.5149,1.9554,1.795
+Seal Beach,Gardena,0.2522,0.1985,0.2274,0.2792
+Seal Beach,Glendale,0.4012,0.3971,0.3638,0.4188
+Seal Beach,Glendora,0.1032,0.0662,0.1819,0.0798
+Seal Beach,Grand Terrace,0,0,0,0
+Seal Beach,Hawaiian Gardens,0.1719,0.0662,0.3183,0.1396
+Seal Beach,Hawthorne,0.3897,0.3971,0.2729,0.4388
+Seal Beach,Hemet,0.0573,0.1324,0,0.0598
+Seal Beach,Hermosa Beach,0.149,0.2647,0.2729,0.0598
+Seal Beach,Hesperia,0.0229,0,0.0455,0.0199
+Seal Beach,Hidden Hills,0,0,0,0
+Seal Beach,Highland,0.0229,0.1324,0,0
+Seal Beach,Holtville,0,0,0,0
+Seal Beach,Huntington Beach,4.7455,5.5592,4.1837,4.7467
+Seal Beach,Huntington Park,0.2063,0.0662,0.1819,0.2593
+Seal Beach,Imperial,0,0,0,0
+Seal Beach,Imperial Beach,0.0115,0,0.0455,0
+Seal Beach,Indian Wells,0.0115,0,0,0.0199
+Seal Beach,Indio,0.0917,0,0.2274,0.0598
+Seal Beach,Industry,0.4356,0.1985,0.5912,0.4388
+Seal Beach,Inglewood,0.1719,0.2647,0.2274,0.1197
+Seal Beach,Irvine,4.9977,3.64,3.8199,5.9234
+Seal Beach,Irwindale,0.1146,0,0.0455,0.1795
+Seal Beach,Jurupa Valley,0.1376,0.0662,0.2729,0.0997
+Seal Beach,La Canada Flintridge,0.0115,0.0662,0,0
+Seal Beach,La Habra,0.2751,0.5295,0.2729,0.1994
+Seal Beach,La Habra Heights,0.0115,0.0662,0,0
+Seal Beach,La Mesa,0.0229,0.1324,0,0
+Seal Beach,La Mirada,0.3783,1.1251,0.3638,0.1596
+Seal Beach,La Palma,0.1605,0.0662,0.1819,0.1795
+Seal Beach,La Puente,0.0917,0.1324,0.1819,0.0399
+Seal Beach,La Quinta,0.0459,0,0.091,0.0399
+Seal Beach,La Verne,0.0688,0.1324,0,0.0798
+Seal Beach,Laguna Beach,0.0573,0.0662,0.1364,0.0199
+Seal Beach,Laguna Hills,0.2407,0.4633,0.3183,0.1396
+Seal Beach,Laguna Niguel,0.1834,0.2647,0.1819,0.1596
+Seal Beach,Laguna Woods,0.0917,0.0662,0.1364,0.0798
+Seal Beach,Lake Elsinore,0.0115,0,0.0455,0
+Seal Beach,Lake Forest,0.3553,0.0662,0.6821,0.2992
+Seal Beach,Lakewood,0.8482,1.3236,0.5912,0.8177
+Seal Beach,Lancaster,0.0688,0.0662,0.1364,0.0399
+Seal Beach,Lawndale,0.0229,0,0.091,0
+Seal Beach,Lemon Grove,0.0115,0,0,0.0199
+Seal Beach,Loma Linda,0,0,0,0
+Seal Beach,Lomita,0.0115,0,0,0.0199
+Seal Beach,Long Beach,10.7749,11.2508,6.6849,12.4252
+Seal Beach,Los Alamitos,2.774,4.368,3.0923,2.154
+Seal Beach,Los Angeles,11.2563,7.8756,10.141,12.7643
+Seal Beach,Lynwood,0.149,0.1324,0.1364,0.1596
+Seal Beach,Malibu,0,0,0,0
+Seal Beach,Manhattan Beach,0.149,0.1324,0.1819,0.1396
+Seal Beach,Maywood,0.0917,0.0662,0.2274,0.0399
+Seal Beach,Menifee,0.0229,0,0,0.0399
+Seal Beach,Mission Viejo,0.2866,0.3971,0.3183,0.2393
+Seal Beach,Monrovia,0.1146,0.0662,0.2729,0.0598
+Seal Beach,Montclair,0.1834,0.1324,0.4093,0.0997
+Seal Beach,Montebello,0.3095,0.3309,0.3638,0.2792
+Seal Beach,Monterey Park,0.321,0.1985,0.2729,0.3789
+Seal Beach,Moorpark,0.0229,0,0,0.0399
+Seal Beach,Moreno Valley,0.1146,0.0662,0.1364,0.1197
+Seal Beach,Murrieta,0.0917,0.1324,0.1364,0.0598
+Seal Beach,National City,0.0459,0,0.091,0.0399
+Seal Beach,Needles,0,0,0,0
+Seal Beach,Newport Beach,1.9257,1.0589,2.3192,2.0144
+Seal Beach,Norco,0.0344,0.0662,0.0455,0.0199
+Seal Beach,Norwalk,0.5617,0.5956,0.864,0.4188
+Seal Beach,Oceanside,0.0917,0,0.1819,0.0798
+Seal Beach,Ojai,0.0115,0,0,0.0199
+Seal Beach,Ontario,0.47,0.3309,0.4093,0.5385
+Seal Beach,Orange,2.3155,1.2574,2.5921,2.513
+Seal Beach,Oxnard,0.0344,0.0662,0.0455,0.0199
+Seal Beach,Palm Desert,0.0115,0,0.0455,0
+Seal Beach,Palm Springs,0.0573,0,0.091,0.0598
+Seal Beach,Palmdale,0.1834,0.3309,0.1364,0.1596
+Seal Beach,Palos Verdes Estates,0.0115,0,0,0.0199
+Seal Beach,Paramount,0.3553,0.3971,0.5912,0.2393
+Seal Beach,Pasadena,0.4929,0.1324,0.4093,0.6382
+Seal Beach,Perris,0.0688,0.1985,0.1364,0
+Seal Beach,Pico Rivera,0.2063,0.3309,0.2729,0.1396
+Seal Beach,Placentia,0.3668,0.5295,0.3638,0.3191
+Seal Beach,Pomona,0.2751,0.1985,0.2274,0.3191
+Seal Beach,Port Hueneme,0.0229,0,0.0455,0.0199
+Seal Beach,Poway,0.0229,0.0662,0.0455,0
+Seal Beach,Rancho Cucamonga,0.2751,0.4633,0.1819,0.2593
+Seal Beach,Rancho Mirage,0.0229,0,0.0455,0.0199
+Seal Beach,Rancho Palos Verdes,0.0688,0.0662,0.0455,0.0798
+Seal Beach,Rancho Santa Margarita,0.1261,0.3309,0.091,0.0798
+Seal Beach,Redlands,0.1146,0.1985,0.091,0.0997
+Seal Beach,Redondo Beach,0.321,0.0662,0.2729,0.4188
+Seal Beach,Rialto,0.0344,0,0.0455,0.0399
+Seal Beach,Riverside,0.5044,0.3971,0.6821,0.4587
+Seal Beach,Rolling Hills,0,0,0,0
+Seal Beach,Rolling Hills Estates,0.0115,0,0,0.0199
+Seal Beach,Rosemead,0.1376,0,0.1819,0.1596
+Seal Beach,San Bernardino,0.1605,0.2647,0.2274,0.0997
+Seal Beach,San Buenaventura,0.0573,0.0662,0.0455,0.0598
+Seal Beach,San Clemente,0.2063,0.0662,0.2274,0.2393
+Seal Beach,San Diego,1.3297,1.456,1.819,1.077
+Seal Beach,San Dimas,0.2178,0.0662,0.2729,0.2393
+Seal Beach,San Fernando,0,0,0,0
+Seal Beach,San Gabriel,0.0344,0,0.0455,0.0399
+Seal Beach,San Jacinto,0,0,0,0
+Seal Beach,San Juan Capistrano,0.0917,0,0.1364,0.0997
+Seal Beach,San Marcos,0.0802,0.1324,0,0.0997
+Seal Beach,San Marino,0,0,0,0
+Seal Beach,Santa Ana,3.5534,3.5076,3.1833,3.7296
+Seal Beach,Santa Clarita,0.2407,0.2647,0.3638,0.1795
+Seal Beach,Santa Fe Springs,0.9972,0.3971,1.3643,1.0172
+Seal Beach,Santa Monica,0.3783,0.1985,0.1819,0.5185
+Seal Beach,Santa Paula,0,0,0,0
+Seal Beach,Santee,0.0688,0.0662,0.091,0.0598
+Seal Beach,Seal Beach,5.5708,11.4494,6.2301,3.5102
+Seal Beach,Sierra Madre,0.0115,0,0,0.0199
+Seal Beach,Signal Hill,0.8826,0.6618,1.0459,0.8775
+Seal Beach,Simi Valley,0.0802,0.0662,0.091,0.0798
+Seal Beach,Solana Beach,0.0459,0,0,0.0798
+Seal Beach,South El Monte,0.2178,0.3309,0.1819,0.1994
+Seal Beach,South Gate,0.4814,0.3309,0.4093,0.5584
+Seal Beach,South Pasadena,0.0229,0.0662,0,0.0199
+Seal Beach,Stanton,0.1376,0.1324,0.091,0.1596
+Seal Beach,Temecula,0.1949,0.2647,0.2274,0.1596
+Seal Beach,Temple City,0,0,0,0
+Seal Beach,Thousand Oaks,0.1376,0.1985,0.1819,0.0997
+Seal Beach,Torrance,1.1921,0.9265,1.0914,1.3163
+Seal Beach,Tustin,0.9285,0.6618,1.0459,0.9573
+Seal Beach,Twentynine Palms,0,0,0,0
+Seal Beach,Unincorporated:Imperial,0.0115,0,0,0.0199
+Seal Beach,Unincorporated:Los Angeles,2.453,2.0516,3.0014,2.3335
+Seal Beach,Unincorporated:Orange,0.5846,0.8604,0.6821,0.4587
+Seal Beach,Unincorporated:Riverside,0.149,0.3309,0.2274,0.0598
+Seal Beach,Unincorporated:San Bernardino,0.2063,0.1324,0.2729,0.1994
+Seal Beach,Unincorporated:San Diego,0.1032,0,0.2274,0.0798
+Seal Beach,Unincorporated:Ventura,0.1261,0.1324,0.3183,0.0399
+Seal Beach,Upland,0.0917,0.1985,0.1364,0.0399
+Seal Beach,Vernon,0.3439,0.0662,0.2729,0.4587
+Seal Beach,Victorville,0.1376,0.1324,0.091,0.1596
+Seal Beach,Villa Park,0.0344,0.0662,0.0455,0.0199
+Seal Beach,Vista,0.1032,0,0.1364,0.1197
+Seal Beach,Walnut,0.0229,0,0,0.0399
+Seal Beach,West Covina,0.1605,0.3309,0.2274,0.0798
+Seal Beach,West Hollywood,0.0459,0.0662,0.091,0.0199
+Seal Beach,Westlake Village,0.0573,0,0,0.0997
+Seal Beach,Westminster,0.8712,1.456,0.955,0.6582
+Seal Beach,Westmorland,0,0,0,0
+Seal Beach,Whittier,0.5044,0.5295,0.6367,0.4388
+Seal Beach,Wildomar,0.0229,0,0.0455,0.0199
+Seal Beach,Yorba Linda,0.3095,0.3309,0.5912,0.1795
+Seal Beach,Yucaipa,0,0,0,0
+Seal Beach,Yucca Valley,0,0,0,0

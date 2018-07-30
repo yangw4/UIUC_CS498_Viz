@@ -1,0 +1,646 @@
+work_city,income_category,income_ratio,industry_category,industry_ratio
+Adelanto,Low Income,17,Retail,3
+Adelanto,Medium Income,36,Service,50
+Adelanto,High Income,47,Other,47
+Agoura Hills,Low Income,22,Retail,11
+Agoura Hills,Medium Income,36,Service,62
+Agoura Hills,High Income,42,Other,27
+Alhambra,Low Income,27,Retail,20
+Alhambra,Medium Income,42,Service,58
+Alhambra,High Income,31,Other,22
+Aliso Viejo,Low Income,15,Retail,8
+Aliso Viejo,Medium Income,24,Service,49
+Aliso Viejo,High Income,61,Other,43
+Anaheim,Low Income,19,Retail,8
+Anaheim,Medium Income,40,Service,56
+Anaheim,High Income,41,Other,36
+Apple Valley,Low Income,28,Retail,15
+Apple Valley,Medium Income,42,Service,63
+Apple Valley,High Income,30,Other,22
+Arcadia,Low Income,25,Retail,16
+Arcadia,Medium Income,41,Service,64
+Arcadia,High Income,34,Other,20
+Artesia,Low Income,29,Retail,16
+Artesia,Medium Income,45,Service,67
+Artesia,High Income,26,Other,17
+Azusa,Low Income,23,Retail,7
+Azusa,Medium Income,34,Service,52
+Azusa,High Income,43,Other,41
+Baldwin Park,Low Income,19,Retail,12
+Baldwin Park,Medium Income,36,Service,59
+Baldwin Park,High Income,45,Other,29
+Banning,Low Income,29,Retail,12
+Banning,Medium Income,41,Service,68
+Banning,High Income,30,Other,20
+Barstow,Low Income,34,Retail,24
+Barstow,Medium Income,39,Service,65
+Barstow,High Income,27,Other,11
+Beaumont,Low Income,27,Retail,24
+Beaumont,Medium Income,42,Service,49
+Beaumont,High Income,31,Other,27
+Bell,Low Income,22,Retail,5
+Bell,Medium Income,53,Service,70
+Bell,High Income,25,Other,25
+Bell Gardens,Low Income,20,Retail,14
+Bell Gardens,Medium Income,49,Service,60
+Bell Gardens,High Income,31,Other,26
+Bellflower,Low Income,27,Retail,9
+Bellflower,Medium Income,37,Service,79
+Bellflower,High Income,36,Other,12
+Beverly Hills,Low Income,13,Retail,12
+Beverly Hills,Medium Income,34,Service,66
+Beverly Hills,High Income,53,Other,22
+Big Bear Lake,Low Income,33,Retail,17
+Big Bear Lake,Medium Income,44,Service,65
+Big Bear Lake,High Income,23,Other,18
+Blythe,Low Income,16,Retail,8
+Blythe,Medium Income,21,Service,77
+Blythe,High Income,63,Other,15
+Bradbury,Low Income,27,Retail,0
+Bradbury,Medium Income,45,Service,35
+Bradbury,High Income,28,Other,65
+Brawley,Low Income,32,Retail,7
+Brawley,Medium Income,36,Service,67
+Brawley,High Income,32,Other,26
+Brea,Low Income,18,Retail,13
+Brea,Medium Income,36,Service,37
+Brea,High Income,46,Other,50
+Buena Park,Low Income,22,Retail,14
+Buena Park,Medium Income,40,Service,47
+Buena Park,High Income,38,Other,39
+Burbank,Low Income,27,Retail,6
+Burbank,Medium Income,25,Service,33
+Burbank,High Income,48,Other,61
+Calabasas,Low Income,16,Retail,8
+Calabasas,Medium Income,32,Service,59
+Calabasas,High Income,52,Other,33
+Calexico,Low Income,46,Retail,21
+Calexico,Medium Income,36,Service,47
+Calexico,High Income,18,Other,32
+Calimesa,Low Income,32,Retail,17
+Calimesa,Medium Income,43,Service,47
+Calimesa,High Income,25,Other,36
+Calipatria,Low Income,7,Retail,2
+Calipatria,Medium Income,14,Service,89
+Calipatria,High Income,79,Other,9
+Camarillo,Low Income,21,Retail,13
+Camarillo,Medium Income,37,Service,45
+Camarillo,High Income,42,Other,42
+Canyon Lake,Low Income,30,Retail,6
+Canyon Lake,Medium Income,45,Service,60
+Canyon Lake,High Income,25,Other,34
+Carlsbad,Low Income,18,Retail,11
+Carlsbad,Medium Income,32,Service,54
+Carlsbad,High Income,50,Other,35
+Carson,Low Income,17,Retail,11
+Carson,Medium Income,39,Service,36
+Carson,High Income,44,Other,53
+Cathedral City,Low Income,28,Retail,24
+Cathedral City,Medium Income,41,Service,58
+Cathedral City,High Income,31,Other,18
+Cerritos,Low Income,19,Retail,23
+Cerritos,Medium Income,37,Service,43
+Cerritos,High Income,44,Other,34
+Chino,Low Income,17,Retail,10
+Chino,Medium Income,41,Service,40
+Chino,High Income,42,Other,50
+Chino Hills,Low Income,30,Retail,19
+Chino Hills,Medium Income,40,Service,63
+Chino Hills,High Income,30,Other,18
+Chula Vista,Low Income,24,Retail,16
+Chula Vista,Medium Income,37,Service,62
+Chula Vista,High Income,39,Other,22
+Claremont,Low Income,26,Retail,8
+Claremont,Medium Income,34,Service,79
+Claremont,High Income,40,Other,13
+Coachella,Low Income,26,Retail,12
+Coachella,Medium Income,43,Service,35
+Coachella,High Income,31,Other,53
+Colton,Low Income,14,Retail,9
+Colton,Medium Income,39,Service,62
+Colton,High Income,47,Other,29
+Commerce,Low Income,16,Retail,10
+Commerce,Medium Income,46,Service,32
+Commerce,High Income,38,Other,58
+Compton,Low Income,26,Retail,7
+Compton,Medium Income,47,Service,53
+Compton,High Income,27,Other,40
+Corona,Low Income,18,Retail,12
+Corona,Medium Income,41,Service,37
+Corona,High Income,41,Other,51
+Coronado,Low Income,23,Retail,8
+Coronado,Medium Income,41,Service,82
+Coronado,High Income,36,Other,10
+Costa Mesa,Low Income,17,Retail,15
+Costa Mesa,Medium Income,34,Service,55
+Costa Mesa,High Income,49,Other,30
+Covina,Low Income,24,Retail,14
+Covina,Medium Income,42,Service,65
+Covina,High Income,34,Other,21
+Cudahy,Low Income,28,Retail,19
+Cudahy,Medium Income,39,Service,52
+Cudahy,High Income,33,Other,29
+Culver City,Low Income,28,Retail,9
+Culver City,Medium Income,28,Service,57
+Culver City,High Income,44,Other,34
+Cypress,Low Income,14,Retail,7
+Cypress,Medium Income,30,Service,46
+Cypress,High Income,56,Other,47
+Dana Point,Low Income,24,Retail,15
+Dana Point,Medium Income,42,Service,68
+Dana Point,High Income,34,Other,17
+Del Mar,Low Income,21,Retail,3
+Del Mar,Medium Income,38,Service,82
+Del Mar,High Income,41,Other,15
+Desert Hot Springs,Low Income,35,Retail,15
+Desert Hot Springs,Medium Income,40,Service,72
+Desert Hot Springs,High Income,25,Other,13
+Diamond Bar,Low Income,21,Retail,7
+Diamond Bar,Medium Income,33,Service,62
+Diamond Bar,High Income,46,Other,31
+Downey,Low Income,22,Retail,16
+Downey,Medium Income,38,Service,61
+Downey,High Income,40,Other,23
+Duarte,Low Income,14,Retail,13
+Duarte,Medium Income,31,Service,72
+Duarte,High Income,55,Other,15
+Eastvale,Low Income,32,Retail,18
+Eastvale,Medium Income,36,Service,39
+Eastvale,High Income,32,Other,43
+El Cajon,Low Income,23,Retail,17
+El Cajon,Medium Income,38,Service,49
+El Cajon,High Income,39,Other,34
+El Centro,Low Income,28,Retail,15
+El Centro,Medium Income,40,Service,66
+El Centro,High Income,32,Other,19
+El Monte,Low Income,20,Retail,12
+El Monte,Medium Income,42,Service,49
+El Monte,High Income,38,Other,39
+El Segundo,Low Income,7,Retail,5
+El Segundo,Medium Income,16,Service,42
+El Segundo,High Income,77,Other,53
+Encinitas,Low Income,23,Retail,14
+Encinitas,Medium Income,39,Service,71
+Encinitas,High Income,38,Other,15
+Escondido,Low Income,20,Retail,17
+Escondido,Medium Income,39,Service,51
+Escondido,High Income,41,Other,32
+Fillmore,Low Income,26,Retail,10
+Fillmore,Medium Income,44,Service,52
+Fillmore,High Income,30,Other,38
+Fontana,Low Income,20,Retail,13
+Fontana,Medium Income,35,Service,50
+Fontana,High Income,45,Other,37
+Fountain Valley,Low Income,18,Retail,10
+Fountain Valley,Medium Income,33,Service,64
+Fountain Valley,High Income,49,Other,26
+Fullerton,Low Income,20,Retail,12
+Fullerton,Medium Income,35,Service,56
+Fullerton,High Income,45,Other,32
+Garden Grove,Low Income,25,Retail,13
+Garden Grove,Medium Income,38,Service,54
+Garden Grove,High Income,37,Other,33
+Gardena,Low Income,20,Retail,13
+Gardena,Medium Income,46,Service,46
+Gardena,High Income,34,Other,41
+Glendale,Low Income,23,Retail,13
+Glendale,Medium Income,35,Service,60
+Glendale,High Income,42,Other,27
+Glendora,Low Income,25,Retail,17
+Glendora,Medium Income,37,Service,64
+Glendora,High Income,38,Other,19
+Grand Terrace,Low Income,20,Retail,9
+Grand Terrace,Medium Income,37,Service,57
+Grand Terrace,High Income,43,Other,34
+Hawaiian Gardens,Low Income,16,Retail,8
+Hawaiian Gardens,Medium Income,57,Service,76
+Hawaiian Gardens,High Income,27,Other,16
+Hawthorne,Low Income,18,Retail,16
+Hawthorne,Medium Income,33,Service,40
+Hawthorne,High Income,49,Other,44
+Hemet,Low Income,26,Retail,22
+Hemet,Medium Income,42,Service,63
+Hemet,High Income,32,Other,15
+Hermosa Beach,Low Income,27,Retail,14
+Hermosa Beach,Medium Income,40,Service,70
+Hermosa Beach,High Income,33,Other,16
+Hesperia,Low Income,31,Retail,15
+Hesperia,Medium Income,38,Service,59
+Hesperia,High Income,31,Other,26
+Hidden Hills,Low Income,18,Retail,2
+Hidden Hills,Medium Income,34,Service,58
+Hidden Hills,High Income,48,Other,40
+Highland,Low Income,39,Retail,15
+Highland,Medium Income,35,Service,68
+Highland,High Income,26,Other,17
+Holtville,Low Income,32,Retail,6
+Holtville,Medium Income,28,Service,45
+Holtville,High Income,40,Other,49
+Huntington Beach,Low Income,20,Retail,13
+Huntington Beach,Medium Income,35,Service,48
+Huntington Beach,High Income,45,Other,39
+Huntington Park,Low Income,25,Retail,18
+Huntington Park,Medium Income,47,Service,56
+Huntington Park,High Income,28,Other,26
+Imperial,Low Income,16,Retail,12
+Imperial,Medium Income,30,Service,49
+Imperial,High Income,54,Other,39
+Imperial Beach,Low Income,34,Retail,12
+Imperial Beach,Medium Income,36,Service,78
+Imperial Beach,High Income,30,Other,10
+Indian Wells,Low Income,18,Retail,3
+Indian Wells,Medium Income,52,Service,92
+Indian Wells,High Income,30,Other,5
+Indio,Low Income,24,Retail,16
+Indio,Medium Income,48,Service,56
+Indio,High Income,28,Other,28
+Industry,Low Income,13,Retail,12
+Industry,Medium Income,43,Service,22
+Industry,High Income,44,Other,66
+Inglewood,Low Income,21,Retail,14
+Inglewood,Medium Income,42,Service,57
+Inglewood,High Income,37,Other,29
+Irvine,Low Income,11,Retail,5
+Irvine,Medium Income,26,Service,53
+Irvine,High Income,63,Other,42
+Irwindale,Low Income,9,Retail,15
+Irwindale,Medium Income,43,Service,22
+Irwindale,High Income,48,Other,63
+Jurupa Valley,Low Income,17,Retail,8
+Jurupa Valley,Medium Income,43,Service,30
+Jurupa Valley,High Income,40,Other,62
+La Canada Flintridge,Low Income,30,Retail,17
+La Canada Flintridge,Medium Income,37,Service,70
+La Canada Flintridge,High Income,33,Other,13
+La Habra,Low Income,27,Retail,25
+La Habra,Medium Income,40,Service,48
+La Habra,High Income,33,Other,27
+La Habra Heights,Low Income,27,Retail,9
+La Habra Heights,Medium Income,42,Service,52
+La Habra Heights,High Income,31,Other,39
+La Mesa,Low Income,21,Retail,15
+La Mesa,Medium Income,37,Service,69
+La Mesa,High Income,42,Other,16
+La Mirada,Low Income,18,Retail,10
+La Mirada,Medium Income,37,Service,40
+La Mirada,High Income,45,Other,50
+La Palma,Low Income,12,Retail,4
+La Palma,Medium Income,34,Service,44
+La Palma,High Income,54,Other,52
+La Puente,Low Income,32,Retail,23
+La Puente,Medium Income,40,Service,62
+La Puente,High Income,28,Other,15
+La Quinta,Low Income,24,Retail,14
+La Quinta,Medium Income,45,Service,75
+La Quinta,High Income,31,Other,11
+La Verne,Low Income,23,Retail,11
+La Verne,Medium Income,36,Service,49
+La Verne,High Income,41,Other,40
+Laguna Beach,Low Income,23,Retail,13
+Laguna Beach,Medium Income,37,Service,71
+Laguna Beach,High Income,40,Other,16
+Laguna Hills,Low Income,19,Retail,9
+Laguna Hills,Medium Income,35,Service,68
+Laguna Hills,High Income,46,Other,23
+Laguna Niguel,Low Income,23,Retail,20
+Laguna Niguel,Medium Income,36,Service,60
+Laguna Niguel,High Income,41,Other,20
+Laguna Woods,Low Income,26,Retail,13
+Laguna Woods,Medium Income,39,Service,53
+Laguna Woods,High Income,35,Other,34
+Lake Elsinore,Low Income,26,Retail,20
+Lake Elsinore,Medium Income,41,Service,47
+Lake Elsinore,High Income,33,Other,33
+Lake Forest,Low Income,18,Retail,8
+Lake Forest,Medium Income,33,Service,49
+Lake Forest,High Income,49,Other,43
+Lakewood,Low Income,33,Retail,30
+Lakewood,Medium Income,36,Service,60
+Lakewood,High Income,31,Other,10
+Lancaster,Low Income,25,Retail,13
+Lancaster,Medium Income,37,Service,68
+Lancaster,High Income,38,Other,19
+Lawndale,Low Income,25,Retail,13
+Lawndale,Medium Income,43,Service,61
+Lawndale,High Income,32,Other,26
+Lemon Grove,Low Income,24,Retail,22
+Lemon Grove,Medium Income,40,Service,62
+Lemon Grove,High Income,36,Other,16
+Loma Linda,Low Income,8,Retail,3
+Loma Linda,Medium Income,29,Service,95
+Loma Linda,High Income,63,Other,2
+Lomita,Low Income,30,Retail,15
+Lomita,Medium Income,40,Service,65
+Lomita,High Income,30,Other,20
+Long Beach,Low Income,19,Retail,9
+Long Beach,Medium Income,31,Service,61
+Long Beach,High Income,50,Other,30
+Los Alamitos,Low Income,15,Retail,5
+Los Alamitos,Medium Income,35,Service,59
+Los Alamitos,High Income,50,Other,36
+Los Angeles,Low Income,18,Retail,9
+Los Angeles,Medium Income,33,Service,61
+Los Angeles,High Income,49,Other,30
+Lynwood,Low Income,19,Retail,13
+Lynwood,Medium Income,40,Service,66
+Lynwood,High Income,41,Other,21
+Malibu,Low Income,20,Retail,12
+Malibu,Medium Income,37,Service,68
+Malibu,High Income,43,Other,20
+Manhattan Beach,Low Income,22,Retail,16
+Manhattan Beach,Medium Income,36,Service,63
+Manhattan Beach,High Income,42,Other,21
+Maywood,Low Income,34,Retail,12
+Maywood,Medium Income,46,Service,69
+Maywood,High Income,20,Other,19
+Menifee,Low Income,31,Retail,17
+Menifee,Medium Income,37,Service,57
+Menifee,High Income,32,Other,26
+Mission Viejo,Low Income,21,Retail,16
+Mission Viejo,Medium Income,36,Service,62
+Mission Viejo,High Income,43,Other,22
+Monrovia,Low Income,19,Retail,14
+Monrovia,Medium Income,38,Service,56
+Monrovia,High Income,43,Other,30
+Montclair,Low Income,26,Retail,28
+Montclair,Medium Income,43,Service,47
+Montclair,High Income,31,Other,25
+Montebello,Low Income,23,Retail,21
+Montebello,Medium Income,38,Service,49
+Montebello,High Income,39,Other,30
+Monterey Park,Low Income,19,Retail,7
+Monterey Park,Medium Income,32,Service,71
+Monterey Park,High Income,49,Other,22
+Moorpark,Low Income,17,Retail,8
+Moorpark,Medium Income,36,Service,35
+Moorpark,High Income,47,Other,57
+Moreno Valley,Low Income,27,Retail,14
+Moreno Valley,Medium Income,44,Service,53
+Moreno Valley,High Income,29,Other,33
+Murrieta,Low Income,24,Retail,15
+Murrieta,Medium Income,40,Service,64
+Murrieta,High Income,36,Other,21
+National City,Low Income,26,Retail,23
+National City,Medium Income,40,Service,50
+National City,High Income,34,Other,27
+Needles,Low Income,35,Retail,13
+Needles,Medium Income,43,Service,66
+Needles,High Income,22,Other,21
+Newport Beach,Low Income,14,Retail,8
+Newport Beach,Medium Income,31,Service,59
+Newport Beach,High Income,55,Other,33
+Norco,Low Income,23,Retail,9
+Norco,Medium Income,35,Service,61
+Norco,High Income,42,Other,30
+Norwalk,Low Income,25,Retail,16
+Norwalk,Medium Income,37,Service,62
+Norwalk,High Income,38,Other,22
+Oceanside,Low Income,22,Retail,15
+Oceanside,Medium Income,43,Service,55
+Oceanside,High Income,35,Other,30
+Ojai,Low Income,22,Retail,13
+Ojai,Medium Income,45,Service,69
+Ojai,High Income,33,Other,18
+Ontario,Low Income,20,Retail,12
+Ontario,Medium Income,41,Service,41
+Ontario,High Income,39,Other,47
+Orange,Low Income,17,Retail,8
+Orange,Medium Income,37,Service,61
+Orange,High Income,46,Other,31
+Oxnard,Low Income,19,Retail,11
+Oxnard,Medium Income,42,Service,44
+Oxnard,High Income,39,Other,45
+Palm Desert,Low Income,24,Retail,17
+Palm Desert,Medium Income,48,Service,66
+Palm Desert,High Income,28,Other,17
+Palm Springs,Low Income,19,Retail,10
+Palm Springs,Medium Income,42,Service,72
+Palm Springs,High Income,39,Other,18
+Palmdale,Low Income,27,Retail,21
+Palmdale,Medium Income,32,Service,48
+Palmdale,High Income,41,Other,31
+Palos Verdes Estates,Low Income,21,Retail,4
+Palos Verdes Estates,Medium Income,33,Service,73
+Palos Verdes Estates,High Income,46,Other,23
+Paramount,Low Income,18,Retail,14
+Paramount,Medium Income,44,Service,37
+Paramount,High Income,38,Other,49
+Pasadena,Low Income,17,Retail,9
+Pasadena,Medium Income,30,Service,71
+Pasadena,High Income,53,Other,20
+Perris,Low Income,23,Retail,14
+Perris,Medium Income,43,Service,39
+Perris,High Income,34,Other,47
+Pico Rivera,Low Income,21,Retail,15
+Pico Rivera,Medium Income,40,Service,41
+Pico Rivera,High Income,39,Other,44
+Placentia,Low Income,18,Retail,7
+Placentia,Medium Income,35,Service,57
+Placentia,High Income,47,Other,36
+Pomona,Low Income,18,Retail,8
+Pomona,Medium Income,37,Service,55
+Pomona,High Income,45,Other,37
+Port Hueneme,Low Income,20,Retail,9
+Port Hueneme,Medium Income,38,Service,69
+Port Hueneme,High Income,42,Other,22
+Poway,Low Income,10,Retail,9
+Poway,Medium Income,31,Service,37
+Poway,High Income,59,Other,54
+Rancho Cucamonga,Low Income,24,Retail,10
+Rancho Cucamonga,Medium Income,40,Service,49
+Rancho Cucamonga,High Income,36,Other,41
+Rancho Mirage,Low Income,13,Retail,5
+Rancho Mirage,Medium Income,44,Service,89
+Rancho Mirage,High Income,43,Other,6
+Rancho Palos Verdes,Low Income,24,Retail,10
+Rancho Palos Verdes,Medium Income,40,Service,76
+Rancho Palos Verdes,High Income,36,Other,14
+Rancho Santa Margarita,Low Income,21,Retail,14
+Rancho Santa Margarita,Medium Income,35,Service,52
+Rancho Santa Margarita,High Income,44,Other,34
+Redlands,Low Income,22,Retail,12
+Redlands,Medium Income,37,Service,68
+Redlands,High Income,41,Other,20
+Redondo Beach,Low Income,18,Retail,14
+Redondo Beach,Medium Income,29,Service,44
+Redondo Beach,High Income,53,Other,42
+Rialto,Low Income,23,Retail,13
+Rialto,Medium Income,38,Service,38
+Rialto,High Income,39,Other,49
+Riverside,Low Income,18,Retail,11
+Riverside,Medium Income,36,Service,64
+Riverside,High Income,46,Other,25
+Rolling Hills,Low Income,16,Retail,0
+Rolling Hills,Medium Income,34,Service,82
+Rolling Hills,High Income,50,Other,18
+Rolling Hills Estates,Low Income,28,Retail,15
+Rolling Hills Estates,Medium Income,36,Service,63
+Rolling Hills Estates,High Income,36,Other,22
+Rosemead,Low Income,27,Retail,11
+Rosemead,Medium Income,35,Service,64
+Rosemead,High Income,38,Other,25
+San Bernardino,Low Income,20,Retail,8
+San Bernardino,Medium Income,35,Service,69
+San Bernardino,High Income,45,Other,23
+San Buenaventura,Low Income,18,Retail,11
+San Buenaventura,Medium Income,34,Service,65
+San Buenaventura,High Income,48,Other,24
+San Clemente,Low Income,19,Retail,10
+San Clemente,Medium Income,38,Service,51
+San Clemente,High Income,43,Other,39
+San Diego,Low Income,16,Retail,8
+San Diego,Medium Income,31,Service,66
+San Diego,High Income,53,Other,26
+San Dimas,Low Income,18,Retail,9
+San Dimas,Medium Income,36,Service,39
+San Dimas,High Income,46,Other,52
+San Fernando,Low Income,18,Retail,9
+San Fernando,Medium Income,46,Service,39
+San Fernando,High Income,36,Other,52
+San Gabriel,Low Income,30,Retail,11
+San Gabriel,Medium Income,40,Service,67
+San Gabriel,High Income,30,Other,22
+San Jacinto,Low Income,27,Retail,12
+San Jacinto,Medium Income,45,Service,62
+San Jacinto,High Income,28,Other,26
+San Juan Capistrano,Low Income,21,Retail,13
+San Juan Capistrano,Medium Income,33,Service,66
+San Juan Capistrano,High Income,46,Other,21
+San Marcos,Low Income,20,Retail,10
+San Marcos,Medium Income,39,Service,59
+San Marcos,High Income,41,Other,31
+San Marino,Low Income,23,Retail,3
+San Marino,Medium Income,38,Service,60
+San Marino,High Income,39,Other,37
+Santa Ana,Low Income,15,Retail,8
+Santa Ana,Medium Income,37,Service,59
+Santa Ana,High Income,48,Other,33
+Santa Clarita,Low Income,22,Retail,13
+Santa Clarita,Medium Income,37,Service,51
+Santa Clarita,High Income,41,Other,36
+Santa Fe Springs,Low Income,11,Retail,5
+Santa Fe Springs,Medium Income,39,Service,25
+Santa Fe Springs,High Income,50,Other,70
+Santa Monica,Low Income,15,Retail,10
+Santa Monica,Medium Income,29,Service,61
+Santa Monica,High Income,56,Other,29
+Santa Paula,Low Income,20,Retail,12
+Santa Paula,Medium Income,38,Service,42
+Santa Paula,High Income,42,Other,46
+Santee,Low Income,24,Retail,19
+Santee,Medium Income,40,Service,43
+Santee,High Income,36,Other,38
+Seal Beach,Low Income,18,Retail,13
+Seal Beach,Medium Income,26,Service,40
+Seal Beach,High Income,56,Other,47
+Sierra Madre,Low Income,21,Retail,3
+Sierra Madre,Medium Income,35,Service,60
+Sierra Madre,High Income,44,Other,37
+Signal Hill,Low Income,18,Retail,18
+Signal Hill,Medium Income,38,Service,43
+Signal Hill,High Income,44,Other,39
+Simi Valley,Low Income,22,Retail,15
+Simi Valley,Medium Income,37,Service,51
+Simi Valley,High Income,41,Other,34
+Solana Beach,Low Income,18,Retail,9
+Solana Beach,Medium Income,34,Service,61
+Solana Beach,High Income,48,Other,30
+South El Monte,Low Income,22,Retail,7
+South El Monte,Medium Income,51,Service,30
+South El Monte,High Income,27,Other,63
+South Gate,Low Income,21,Retail,13
+South Gate,Medium Income,38,Service,34
+South Gate,High Income,41,Other,53
+South Pasadena,Low Income,25,Retail,16
+South Pasadena,Medium Income,37,Service,66
+South Pasadena,High Income,38,Other,18
+Stanton,Low Income,26,Retail,16
+Stanton,Medium Income,44,Service,52
+Stanton,High Income,30,Other,32
+Temecula,Low Income,22,Retail,15
+Temecula,Medium Income,40,Service,56
+Temecula,High Income,38,Other,29
+Temple City,Low Income,32,Retail,17
+Temple City,Medium Income,43,Service,60
+Temple City,High Income,25,Other,23
+Thousand Oaks,Low Income,20,Retail,13
+Thousand Oaks,Medium Income,29,Service,51
+Thousand Oaks,High Income,51,Other,36
+Torrance,Low Income,17,Retail,12
+Torrance,Medium Income,34,Service,54
+Torrance,High Income,49,Other,34
+Tustin,Low Income,18,Retail,15
+Tustin,Medium Income,34,Service,48
+Tustin,High Income,48,Other,37
+Twentynine Palms,Low Income,34,Retail,10
+Twentynine Palms,Medium Income,37,Service,76
+Twentynine Palms,High Income,29,Other,14
+Unincorporated:Imperial,Low Income,28,Retail,1
+Unincorporated:Imperial,Medium Income,37,Service,28
+Unincorporated:Imperial,High Income,35,Other,71
+Unincorporated:Los Angeles,Low Income,21,Retail,8
+Unincorporated:Los Angeles,Medium Income,38,Service,57
+Unincorporated:Los Angeles,High Income,41,Other,35
+Unincorporated:Orange,Low Income,21,Retail,6
+Unincorporated:Orange,Medium Income,40,Service,66
+Unincorporated:Orange,High Income,39,Other,28
+Unincorporated:Riverside,Low Income,25,Retail,10
+Unincorporated:Riverside,Medium Income,44,Service,47
+Unincorporated:Riverside,High Income,31,Other,43
+Unincorporated:San Bernardino,Low Income,20,Retail,9
+Unincorporated:San Bernardino,Medium Income,36,Service,46
+Unincorporated:San Bernardino,High Income,44,Other,45
+Unincorporated:San Diego,Low Income,20,Retail,7
+Unincorporated:San Diego,Medium Income,40,Service,58
+Unincorporated:San Diego,High Income,40,Other,35
+Unincorporated:Ventura,Low Income,19,Retail,3
+Unincorporated:Ventura,Medium Income,45,Service,32
+Unincorporated:Ventura,High Income,36,Other,65
+Upland,Low Income,22,Retail,14
+Upland,Medium Income,40,Service,62
+Upland,High Income,38,Other,24
+Vernon,Low Income,9,Retail,2
+Vernon,Medium Income,50,Service,8
+Vernon,High Income,41,Other,90
+Victorville,Low Income,26,Retail,20
+Victorville,Medium Income,39,Service,58
+Victorville,High Income,35,Other,22
+Villa Park,Low Income,21,Retail,12
+Villa Park,Medium Income,37,Service,60
+Villa Park,High Income,42,Other,28
+Vista,Low Income,15,Retail,12
+Vista,Medium Income,41,Service,38
+Vista,High Income,44,Other,50
+Walnut,Low Income,23,Retail,9
+Walnut,Medium Income,37,Service,67
+Walnut,High Income,40,Other,24
+West Covina,Low Income,30,Retail,23
+West Covina,Medium Income,39,Service,63
+West Covina,High Income,31,Other,14
+West Hollywood,Low Income,18,Retail,17
+West Hollywood,Medium Income,39,Service,66
+West Hollywood,High Income,43,Other,17
+Westlake Village,Low Income,10,Retail,5
+Westlake Village,Medium Income,27,Service,42
+Westlake Village,High Income,63,Other,53
+Westminster,Low Income,31,Retail,24
+Westminster,Medium Income,39,Service,54
+Westminster,High Income,30,Other,22
+Westmorland,Low Income,52,Retail,25
+Westmorland,Medium Income,33,Service,58
+Westmorland,High Income,15,Other,17
+Whittier,Low Income,27,Retail,13
+Whittier,Medium Income,40,Service,74
+Whittier,High Income,33,Other,13
+Wildomar,Low Income,23,Retail,7
+Wildomar,Medium Income,34,Service,64
+Wildomar,High Income,43,Other,29
+Yorba Linda,Low Income,22,Retail,15
+Yorba Linda,Medium Income,37,Service,50
+Yorba Linda,High Income,41,Other,35
+Yucaipa,Low Income,32,Retail,14
+Yucaipa,Medium Income,38,Service,59
+Yucaipa,High Income,30,Other,27
+Yucca Valley,Low Income,28,Retail,23
+Yucca Valley,Medium Income,40,Service,62
+Yucca Valley,High Income,32,Other,15

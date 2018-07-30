@@ -1,0 +1,216 @@
+home_city,work_city,all_worker_ratio,low_income_worker_ratio,medium_income_worker_ratio,high_income_worker_ratio
+La Palma,Adelanto,0,0,0,0
+La Palma,Agoura Hills,0.0311,0.0948,0.0524,0
+La Palma,Alhambra,0.1868,0.3791,0.1571,0.1445
+La Palma,Aliso Viejo,0.1089,0,0.1571,0.1156
+La Palma,Anaheim,7.6576,8.8152,7.9581,7.1387
+La Palma,Apple Valley,0,0,0,0
+La Palma,Arcadia,0.1556,0.3791,0.1047,0.1156
+La Palma,Artesia,0.5759,1.2322,0.7853,0.2601
+La Palma,Azusa,0.0467,0,0,0.0867
+La Palma,Baldwin Park,0.3268,0.0948,0.3665,0.3757
+La Palma,Banning,0,0,0,0
+La Palma,Barstow,0,0,0,0
+La Palma,Beaumont,0.0156,0,0,0.0289
+La Palma,Bell,0.0934,0.2844,0.1047,0.0289
+La Palma,Bell Gardens,0.2646,0.4739,0.3141,0.1734
+La Palma,Bellflower,1.0117,1.2322,0.8901,1.0116
+La Palma,Beverly Hills,0.0934,0.0948,0.1047,0.0867
+La Palma,Big Bear Lake,0.0311,0,0.1047,0
+La Palma,Blythe,0.0311,0,0.0524,0.0289
+La Palma,Bradbury,0,0,0,0
+La Palma,Brawley,0,0,0,0
+La Palma,Brea,0.9183,0.9479,1.0995,0.8092
+La Palma,Buena Park,3.5486,6.7299,4.3455,2.1387
+La Palma,Burbank,0.4981,0.5687,0.2618,0.6069
+La Palma,Calabasas,0.0311,0,0.0524,0.0289
+La Palma,Calexico,0,0,0,0
+La Palma,Calimesa,0,0,0,0
+La Palma,Calipatria,0,0,0,0
+La Palma,Camarillo,0.0467,0,0.1571,0
+La Palma,Canyon Lake,0,0,0,0
+La Palma,Carlsbad,0.1556,0.1896,0.1571,0.1445
+La Palma,Carson,1.323,0.2844,1.1518,1.7341
+La Palma,Cathedral City,0.0156,0.0948,0,0
+La Palma,Cerritos,3.0039,4.6445,3.1937,2.3988
+La Palma,Chino,0.1868,0.0948,0.2094,0.2023
+La Palma,Chino Hills,0.0311,0,0.0524,0.0289
+La Palma,Chula Vista,0.0623,0,0.1047,0.0578
+La Palma,Claremont,0.0156,0,0.0524,0
+La Palma,Coachella,0,0,0,0
+La Palma,Colton,0.0311,0.0948,0,0.0289
+La Palma,Commerce,1.1829,0.9479,1.9895,0.8092
+La Palma,Compton,0.4825,0.4739,0.6283,0.4046
+La Palma,Corona,0.3268,0.1896,0.3665,0.3468
+La Palma,Coronado,0.0156,0,0,0.0289
+La Palma,Costa Mesa,2.3346,1.327,2.7225,2.4277
+La Palma,Covina,0.1556,0.1896,0.2094,0.1156
+La Palma,Cudahy,0.0311,0,0,0.0578
+La Palma,Culver City,0.2646,0.4739,0.1571,0.2601
+La Palma,Cypress,3.1284,2.5592,2.8272,3.4682
+La Palma,Dana Point,0.0311,0,0,0.0578
+La Palma,Del Mar,0,0,0,0
+La Palma,Desert Hot Springs,0.0156,0.0948,0,0
+La Palma,Diamond Bar,0.2646,0.5687,0.3141,0.1445
+La Palma,Downey,1.1206,0.9479,0.8901,1.3006
+La Palma,Duarte,0.1868,0.2844,0.1047,0.2023
+La Palma,Eastvale,0.0311,0,0,0.0578
+La Palma,El Cajon,0.0311,0.0948,0,0.0289
+La Palma,El Centro,0,0,0,0
+La Palma,El Monte,0.2179,0.0948,0.1047,0.3179
+La Palma,El Segundo,1.2607,0.0948,0.3665,2.1098
+La Palma,Encinitas,0.0467,0.0948,0.0524,0.0289
+La Palma,Escondido,0.0467,0,0.1047,0.0289
+La Palma,Fillmore,0,0,0,0
+La Palma,Fontana,0.1868,0,0.1571,0.2601
+La Palma,Fountain Valley,0.9961,1.0427,0.8377,1.0694
+La Palma,Fullerton,2.0233,3.4123,2.0942,1.5607
+La Palma,Garden Grove,1.9144,2.0853,2.356,1.6185
+La Palma,Gardena,0.3891,0.5687,0.3665,0.3468
+La Palma,Glendale,0.3424,0.6635,0.4188,0.2023
+La Palma,Glendora,0.0778,0.0948,0.0524,0.0867
+La Palma,Grand Terrace,0,0,0,0
+La Palma,Hawaiian Gardens,0.4514,0.4739,0.5759,0.3757
+La Palma,Hawthorne,0.249,0.1896,0.1571,0.3179
+La Palma,Hemet,0.1089,0.1896,0.1047,0.0867
+La Palma,Hermosa Beach,0.0467,0.0948,0.0524,0.0289
+La Palma,Hesperia,0.0156,0,0,0.0289
+La Palma,Hidden Hills,0,0,0,0
+La Palma,Highland,0.0311,0,0.1047,0
+La Palma,Holtville,0,0,0,0
+La Palma,Huntington Beach,2.4747,2.1801,2.5654,2.5145
+La Palma,Huntington Park,0.1556,0.0948,0.2618,0.1156
+La Palma,Imperial,0,0,0,0
+La Palma,Imperial Beach,0,0,0,0
+La Palma,Indian Wells,0.0311,0.0948,0.0524,0
+La Palma,Indio,0.0467,0,0,0.0867
+La Palma,Industry,0.8872,0.4739,1.0995,0.896
+La Palma,Inglewood,0.2335,0,0.2618,0.289
+La Palma,Irvine,4.249,3.2227,3.2984,5.0867
+La Palma,Irwindale,0.1245,0,0.1571,0.1445
+La Palma,Jurupa Valley,0.0467,0,0.1047,0.0289
+La Palma,La Canada Flintridge,0,0,0,0
+La Palma,La Habra,0.2957,0.4739,0.1571,0.3179
+La Palma,La Habra Heights,0,0,0,0
+La Palma,La Mesa,0.0623,0.0948,0.1047,0.0289
+La Palma,La Mirada,0.7938,0.6635,1.1518,0.6358
+La Palma,La Palma,2.179,4.6445,2.0942,1.474
+La Palma,La Puente,0.0467,0,0.1047,0.0289
+La Palma,La Quinta,0.0467,0.0948,0.0524,0.0289
+La Palma,La Verne,0.0934,0.2844,0.0524,0.0578
+La Palma,Laguna Beach,0.0311,0,0,0.0578
+La Palma,Laguna Hills,0.1089,0.1896,0.2094,0.0289
+La Palma,Laguna Niguel,0.1712,0.1896,0.2618,0.1156
+La Palma,Laguna Woods,0.0467,0,0.1047,0.0289
+La Palma,Lake Elsinore,0.0156,0,0,0.0289
+La Palma,Lake Forest,0.4514,0.4739,0.2618,0.5491
+La Palma,Lakewood,0.8716,0.7583,1.0471,0.8092
+La Palma,Lancaster,0.0934,0,0.1047,0.1156
+La Palma,Lawndale,0.0156,0,0,0.0289
+La Palma,Lemon Grove,0,0,0,0
+La Palma,Loma Linda,0.0156,0,0,0.0289
+La Palma,Lomita,0.0156,0,0.0524,0
+La Palma,Long Beach,5.4942,5.3081,3.6126,6.5896
+La Palma,Los Alamitos,1.1984,1.0427,1.0995,1.3006
+La Palma,Los Angeles,11.0661,8.1517,9.5288,12.8035
+La Palma,Lynwood,0.4825,0,0.3665,0.6936
+La Palma,Malibu,0,0,0,0
+La Palma,Manhattan Beach,0.0778,0.0948,0,0.1156
+La Palma,Maywood,0.0623,0,0.1047,0.0578
+La Palma,Menifee,0.0467,0,0.1047,0.0289
+La Palma,Mission Viejo,0.3268,0.3791,0.3141,0.3179
+La Palma,Monrovia,0.1245,0,0,0.2312
+La Palma,Montclair,0.0934,0.0948,0.1047,0.0867
+La Palma,Montebello,0.1245,0.1896,0.1571,0.0867
+La Palma,Monterey Park,0.5292,0.4739,0.2618,0.6936
+La Palma,Moorpark,0,0,0,0
+La Palma,Moreno Valley,0.1089,0.0948,0.2094,0.0578
+La Palma,Murrieta,0.0156,0,0.0524,0
+La Palma,National City,0.0311,0.0948,0,0.0289
+La Palma,Needles,0,0,0,0
+La Palma,Newport Beach,1.0584,0.8531,1.0471,1.1272
+La Palma,Norco,0.0467,0.1896,0.0524,0
+La Palma,Norwalk,0.9805,0.7583,0.6806,1.2139
+La Palma,Oceanside,0.0467,0,0.0524,0.0578
+La Palma,Ojai,0,0,0,0
+La Palma,Ontario,0.4981,0.2844,0.7853,0.4046
+La Palma,Orange,3.1128,2.8436,3.6126,2.9191
+La Palma,Oxnard,0.0623,0.0948,0,0.0867
+La Palma,Palm Desert,0.0623,0,0.1571,0.0289
+La Palma,Palm Springs,0.0467,0,0.0524,0.0578
+La Palma,Palmdale,0.0934,0.1896,0.0524,0.0867
+La Palma,Palos Verdes Estates,0.0156,0,0,0.0289
+La Palma,Paramount,0.5447,0.3791,0.5759,0.578
+La Palma,Pasadena,0.4047,0,0.3141,0.578
+La Palma,Perris,0,0,0,0
+La Palma,Pico Rivera,0.1712,0.1896,0.3141,0.0867
+La Palma,Placentia,0.3113,0,0.6283,0.2312
+La Palma,Pomona,0.2802,0.5687,0.2618,0.2023
+La Palma,Port Hueneme,0,0,0,0
+La Palma,Poway,0.0311,0,0,0.0578
+La Palma,Rancho Cucamonga,0.249,0.1896,0.3665,0.2023
+La Palma,Rancho Mirage,0.0156,0,0,0.0289
+La Palma,Rancho Palos Verdes,0.0934,0.0948,0.1571,0.0578
+La Palma,Rancho Santa Margarita,0.1245,0.1896,0.1047,0.1156
+La Palma,Redlands,0.1401,0.1896,0.2094,0.0867
+La Palma,Redondo Beach,0.1401,0.0948,0.1571,0.1445
+La Palma,Rialto,0.0934,0.1896,0.1571,0.0289
+La Palma,Riverside,0.607,0.6635,0.6806,0.5491
+La Palma,Rolling Hills,0,0,0,0
+La Palma,Rolling Hills Estates,0.0311,0.1896,0,0
+La Palma,Rosemead,0.0778,0,0,0.1445
+La Palma,San Bernardino,0.1712,0.2844,0.2094,0.1156
+La Palma,San Buenaventura,0.0778,0.0948,0.1571,0.0289
+La Palma,San Clemente,0.0778,0.2844,0.0524,0.0289
+La Palma,San Diego,1.3541,1.5166,1.3089,1.3295
+La Palma,San Dimas,0.1556,0.0948,0.2094,0.1445
+La Palma,San Fernando,0,0,0,0
+La Palma,San Gabriel,0.1401,0.1896,0.2618,0.0578
+La Palma,San Jacinto,0.0311,0.0948,0.0524,0
+La Palma,San Juan Capistrano,0.0778,0.0948,0.1571,0.0289
+La Palma,San Marcos,0.0623,0.1896,0.0524,0.0289
+La Palma,San Marino,0,0,0,0
+La Palma,Santa Ana,3.7821,3.5071,4.4503,3.4971
+La Palma,Santa Clarita,0.1868,0.1896,0.3141,0.1156
+La Palma,Santa Fe Springs,1.7899,0.6635,2.4084,1.7919
+La Palma,Santa Monica,0.3113,0.1896,0.2618,0.3757
+La Palma,Santa Paula,0,0,0,0
+La Palma,Santee,0.0156,0,0,0.0289
+La Palma,Seal Beach,0.5292,0.6635,0.2094,0.6647
+La Palma,Sierra Madre,0,0,0,0
+La Palma,Signal Hill,0.4047,0.0948,0.4188,0.4913
+La Palma,Simi Valley,0.0934,0.1896,0.1571,0.0289
+La Palma,Solana Beach,0.0156,0,0.0524,0
+La Palma,South El Monte,0.1868,0.4739,0.1571,0.1156
+La Palma,South Gate,0.4358,0.5687,0.2618,0.4913
+La Palma,South Pasadena,0.0311,0.0948,0,0.0289
+La Palma,Stanton,0.3735,0.9479,0.3665,0.2023
+La Palma,Temecula,0.0778,0.0948,0.0524,0.0867
+La Palma,Temple City,0.0311,0,0.0524,0.0289
+La Palma,Thousand Oaks,0.1556,0.2844,0.1047,0.1445
+La Palma,Torrance,1.3074,0.5687,1.2042,1.5896
+La Palma,Tustin,0.8249,0.7583,0.733,0.896
+La Palma,Twentynine Palms,0,0,0,0
+La Palma,Unincorporated:Imperial,0,0,0,0
+La Palma,Unincorporated:Los Angeles,2.2101,2.0853,2.4084,2.1387
+La Palma,Unincorporated:Orange,0.358,0.3791,0.4712,0.289
+La Palma,Unincorporated:Riverside,0.1245,0,0.1571,0.1445
+La Palma,Unincorporated:San Bernardino,0.0467,0.0948,0,0.0578
+La Palma,Unincorporated:San Diego,0.1401,0,0.1571,0.1734
+La Palma,Unincorporated:Ventura,0.0156,0.0948,0,0
+La Palma,Upland,0.1089,0.0948,0.1571,0.0867
+La Palma,Vernon,0.4202,0.0948,0.5759,0.4335
+La Palma,Victorville,0.0778,0,0.1571,0.0578
+La Palma,Villa Park,0.0467,0,0,0.0867
+La Palma,Vista,0.0467,0.0948,0,0.0578
+La Palma,Walnut,0.0934,0.0948,0.1047,0.0867
+La Palma,West Covina,0.1401,0.3791,0.1571,0.0578
+La Palma,West Hollywood,0.1089,0,0.0524,0.1734
+La Palma,Westlake Village,0.0311,0,0.0524,0.0289
+La Palma,Westminster,0.9183,1.1374,0.733,0.9538
+La Palma,Westmorland,0,0,0,0
+La Palma,Whittier,0.8405,0.9479,0.733,0.8671
+La Palma,Wildomar,0.0311,0,0.0524,0.0289
+La Palma,Yorba Linda,0.2335,0.3791,0.2094,0.2023
+La Palma,Yucaipa,0.0156,0,0,0.0289
+La Palma,Yucca Valley,0.0623,0,0.1571,0.0289

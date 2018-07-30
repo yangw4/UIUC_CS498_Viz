@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html>
+    <head>
+    
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+        <title>Home-Based Work Trip Distribution in Orange County, CA</title>
+
+        <!-- Bootstrap CSS CDN -->
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+        <!-- Custom CSS -->
+        <link rel="stylesheet" href="/css/style.css">
+    </head>
+
+    <body>
+        <script src="https://d3js.org/d3.v4.min.js"></script>
+        <script src="https://d3js.org/d3-scale-chromatic.v1.min.js"></script>
+
+        <div class="wrapper">
+            <!-- Sidebar Holder -->
+            <nav id="sidebar">
+                <div class="sidebar-header">
+                    <h3><a href="index.html">Jurisdiction Navigator</a></h3>
+                </div>
+
+                <ul class="list-unstyled components">
+
+                    <li>
+                        <a href="index.html">About the Visualization</a>
+                    </li>
+
+                    <li class="active">
+                        <a href="#pageSubmenu" data-toggle="collapse" aria-expanded="false">Home Jurisdictions</a>
+                        <ul class="collapse list-unstyled" id="pageSubmenu">
+                            <li id="aliso_viejo" data-value="aliso_viejo"><a>Aliso Viejo</a></li>
+                            <li id="anaheim" data-value="anaheim"><a>Anaheim</a></li>
+                            <li id="brea" data-value="brea"><a>Brea</a></li>
+                            <li id="buena_park" data-value="buena_park"><a>Buena Park</a></li>
+                            <li id="costa_mesa" data-value="costa_mesa"><a>Costa Mesa</a></li>
+                            <li id="cypress" data-value="cypress"><a>Cypress</a></li>
+                            <li id="dana_point" data-value="dana_point"><a>Dana Point</a></li>
+                            <li id="fountain_valley" data-value="fountain_valley"><a>Fountain Valley</a></li>
+                            <li id="fullerton" data-value="fullerton"><a>Fullerton</a></li>
+                            <li id="garden_grove" data-value="garden_grove"><a>Garden Grove</a></li>
+                            <li id="huntington_beach" data-value="huntington_beach"><a>Huntington Beach</a></li>
+                            <li id="irvine" data-value="irvine"><a>Irvine</a></li>
+                            <li id="la_habra" data-value="la_habra"><a>La Habra</a></li>
+                            <li id="la_palma" data-value="la_palma"><a>La Palma</a></li>
+                            <li id="laguna_beach" data-value="laguna_beach"><a>Laguna Beach</a></li>
+                            <li id="laguna_hills" data-value="laguna_hills"><a>Laguna Hills</a></li>
+                            <li id="laguna_niguel" data-value="laguna_niguel"><a>Laguna Niguel</a></li>
+                            <li id="laguna_woods" data-value="laguna_woods"><a>Laguna Woods</a></li>
+                            <li id="lake_forest" data-value="lake_forest"><a>Lake Forest</a></li>
+                            <li id="los_alamitos" data-value="los_alamitos"><a>Los Alamitos</a></li>
+                            <li id="mission_viejo" data-value="mission_viejo"><a>Mission Viejo</a></li>
+                            <li id="newport_beach" data-value="newport_beach"><a>Newport Beach</a></li>
+                            <li id="orange" data-value="orange"><a>Orange</a></li>
+                            <li id="placentia" data-value="placentia"><a>Placentia</a></li>
+                            <li id="rancho_santa_margarita" data-value="rancho_santa_margarita"><a>Rancho Santa Margarita</a></li>
+                            <li id="san_clemente" data-value="san_clemente"><a>San Clemente</a></li>
+                            <li id="san_juan_capistrano" data-value="san_juan_capistrano"><a>San Juan Capistrano</a></li>
+                            <li id="santa_ana" data-value="santa_ana"><a>Santa Ana</a></li>
+                            <li id="seal_beach" data-value="seal_beach"><a>Seal Beach</a></li>
+                            <li id="stanton" data-value="stanton"><a>Stanton</a></li>
+                            <li id="tustin" data-value="tustin"><a>Tustin</a></li>
+                            <li id="unincorporated_orange" data-value="unincorporated_orange"><a>Unincorporated:Orange</a></li>
+                            <li id="villa_park" data-value="villa_park"><a>Villa Park</a></li>
+                            <li id="westminster" data-value="westminster"><a>Westminster</a></li>
+                            <li id="yorba_linda" data-value="yorba_linda"><a>Yorba Linda</a></li>
+                        </ul> <!-- end of dropdown home jurisdiction selector -->
+                    </li>
+                </ul>
+            </nav>
+
+
+            <!-- Page Content Holder -->
+            <div id="content">
+
+                <nav class="navbar navbar-default">
+                    <div class="container-fluid">
+                        <div class="navbar-header">
+                            <button type="button" id="sidebarCollapse" class="btn btn-info navbar-btn">
+                                <i class="glyphicon glyphicon-align-left"></i>
+                                <span>Toggle Navigator</span>
+                            </button>
+                        </div>
+                    </div>
+                </nav>
+
+                <h4 id="mapTitle">Home-Based Work Trip Distribution of Workers Living in Home Jurisdiction of Your Choice (Expand Home Jurisdiction Dropdown)</h4>
+                <div id="dropdown">
+                    <select></select>
+                </div>
+                <div id="map"></div>
+                <div class="line"></div>
+
+
+                <h4>Worker Income Category<sup><a href="#fn1" id="ref1">1</a></sup> Proportion at Work Location Jurisdiction of Your Choice (Click Map)</h4>
+                <div id="incomeDonut"></div>
+                <div class="line"></div>
+
+
+                <h4>Worker Industry Category<sup><a href="#fn2" id="ref2">2</a></sup> Proportion at Work Location Jurisdiction of Your Choice (Click Map)</h4>
+                <div id="industryDonut"></div>
+                <div class="line"></div>
+
+                <!-- footnotes -->
+                <sup id="fn1">1. <b>Low Income:</b> earnings $1250/month or less; <b>Medium Income:</b> earnings $1251/month to $3333/month; <b>High Income:</b> earnings greater than $3333/month<a href="#ref1" title="Jump back to footnote 1 in the text.">↩</a></sup>
+                <hr></hr>
+                <sup id="fn2">2. <b>Retail</b>: NAICS (North American Industry Classification System) code = 44; <b>Service</b>: NAICS code = 54, 55, 56, 61, 62, 71, 72, 81, 92; <b>Other</b>: NAICS code = 11, 21, 22, 23, 31, 42, 48, 51, 52, 53<a href="#ref2" title="Jump back to footnote 2 in the text.">↩</a></sup>
+
+            </div> <!-- end of content div -->
+
+        </div> <!-- end of wrapper div -->
+
+
+        <!-- jQuery CDN -->
+        <script src="https://code.jquery.com/jquery-1.12.0.min.js"></script>
+        <!-- Bootstrap Js CDN -->
+        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+
+        <script type="text/javascript">
+            $(document).ready(function () {
+                $('#sidebarCollapse').on('click', function () {
+                    $('#sidebar').toggleClass('active');
+                });
+            });
+        </script>
+
+        <!-- user defined JavaScript code -->
+        <script src="js/main.js"></script>
+
+    </body>
+
+</html>

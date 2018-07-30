@@ -1,0 +1,216 @@
+home_city,work_city,all_worker_ratio,low_income_worker_ratio,medium_income_worker_ratio,high_income_worker_ratio
+Los Alamitos,Adelanto,0,0,0,0
+Los Alamitos,Agoura Hills,0.0191,0,0,0.0349
+Los Alamitos,Alhambra,0.1718,0.3198,0.2089,0.1047
+Los Alamitos,Aliso Viejo,0.1145,0,0.2089,0.1047
+Los Alamitos,Anaheim,4.3146,4.9041,5.2228,3.6662
+Los Alamitos,Apple Valley,0,0,0,0
+Los Alamitos,Arcadia,0,0,0,0
+Los Alamitos,Artesia,0.2482,0.2132,0.0696,0.3492
+Los Alamitos,Azusa,0.0764,0.2132,0.0696,0.0349
+Los Alamitos,Baldwin Park,0.21,0.1066,0.2089,0.2444
+Los Alamitos,Banning,0,0,0,0
+Los Alamitos,Barstow,0,0,0,0
+Los Alamitos,Beaumont,0,0,0,0
+Los Alamitos,Bell,0.0764,0,0.2786,0
+Los Alamitos,Bell Gardens,0.1527,0.2132,0.1393,0.1397
+Los Alamitos,Bellflower,0.6109,0.4264,0.8357,0.5587
+Los Alamitos,Beverly Hills,0.0764,0,0.0696,0.1047
+Los Alamitos,Big Bear Lake,0,0,0,0
+Los Alamitos,Blythe,0,0,0,0
+Los Alamitos,Bradbury,0,0,0,0
+Los Alamitos,Brawley,0.0191,0,0,0.0349
+Los Alamitos,Brea,0.84,0.6397,0.6964,0.9777
+Los Alamitos,Buena Park,1.5273,2.7719,1.1838,1.2919
+Los Alamitos,Burbank,0.4773,0.4264,0.6267,0.419
+Los Alamitos,Calabasas,0.0382,0,0.1393,0
+Los Alamitos,Calexico,0,0,0,0
+Los Alamitos,Calimesa,0,0,0,0
+Los Alamitos,Calipatria,0,0,0,0
+Los Alamitos,Camarillo,0.0764,0.1066,0.0696,0.0698
+Los Alamitos,Canyon Lake,0,0,0,0
+Los Alamitos,Carlsbad,0.1718,0.3198,0.1393,0.1397
+Los Alamitos,Carson,1.2982,0.4264,0.9749,1.7458
+Los Alamitos,Cathedral City,0.0382,0.1066,0.0696,0
+Los Alamitos,Cerritos,2.0237,1.4925,2.4373,1.9902
+Los Alamitos,Chino,0.0382,0,0.0696,0.0349
+Los Alamitos,Chino Hills,0.0573,0.1066,0,0.0698
+Los Alamitos,Chula Vista,0.0955,0,0.2786,0.0349
+Los Alamitos,Claremont,0.0382,0,0,0.0698
+Los Alamitos,Coachella,0,0,0,0
+Los Alamitos,Colton,0.0573,0,0.1393,0.0349
+Los Alamitos,Commerce,0.8018,0.6397,0.9053,0.8031
+Los Alamitos,Compton,0.4773,0.6397,0.6267,0.3492
+Los Alamitos,Corona,0.4391,0.3198,0.766,0.3142
+Los Alamitos,Coronado,0.0191,0,0,0.0349
+Los Alamitos,Costa Mesa,1.5273,1.1727,2.0891,1.3617
+Los Alamitos,Covina,0.1145,0.2132,0.1393,0.0698
+Los Alamitos,Cudahy,0.0573,0.1066,0,0.0698
+Los Alamitos,Culver City,0.2482,0.3198,0.2786,0.2095
+Los Alamitos,Cypress,3.9137,4.1578,2.9248,4.3296
+Los Alamitos,Dana Point,0.0191,0,0,0.0349
+Los Alamitos,Del Mar,0,0,0,0
+Los Alamitos,Desert Hot Springs,0,0,0,0
+Los Alamitos,Diamond Bar,0.3055,0.2132,0.1393,0.419
+Los Alamitos,Downey,0.9546,0.8529,1.1142,0.9078
+Los Alamitos,Duarte,0.0573,0,0,0.1047
+Los Alamitos,Eastvale,0.0191,0,0,0.0349
+Los Alamitos,El Cajon,0.0764,0.2132,0.1393,0
+Los Alamitos,El Centro,0,0,0,0
+Los Alamitos,El Monte,0.0764,0,0.0696,0.1047
+Los Alamitos,El Segundo,0.8973,0.1066,0.3482,1.4316
+Los Alamitos,Encinitas,0.0764,0.1066,0.1393,0.0349
+Los Alamitos,Escondido,0.1336,0.1066,0.3482,0.0349
+Los Alamitos,Fillmore,0,0,0,0
+Los Alamitos,Fontana,0.1909,0.2132,0.0696,0.2444
+Los Alamitos,Fountain Valley,1.1646,0.6397,1.4624,1.1872
+Los Alamitos,Fullerton,1.5846,1.4925,1.3231,1.7458
+Los Alamitos,Garden Grove,2.3864,2.9851,2.8552,1.9553
+Los Alamitos,Gardena,0.2482,0.1066,0.2786,0.2793
+Los Alamitos,Glendale,0.4009,0.2132,0.4178,0.4539
+Los Alamitos,Glendora,0.1336,0.2132,0.2089,0.0698
+Los Alamitos,Grand Terrace,0,0,0,0
+Los Alamitos,Hawaiian Gardens,0.1718,0,0.2786,0.1746
+Los Alamitos,Hawthorne,0.1718,0.1066,0.1393,0.2095
+Los Alamitos,Hemet,0.0382,0,0.1393,0
+Los Alamitos,Hermosa Beach,0.0764,0.1066,0.0696,0.0698
+Los Alamitos,Hesperia,0.0764,0.1066,0.1393,0.0349
+Los Alamitos,Hidden Hills,0,0,0,0
+Los Alamitos,Highland,0,0,0,0
+Los Alamitos,Holtville,0,0,0,0
+Los Alamitos,Huntington Beach,3.6655,4.9041,3.0641,3.5615
+Los Alamitos,Huntington Park,0.3055,0.533,0.5571,0.1047
+Los Alamitos,Imperial,0,0,0,0
+Los Alamitos,Imperial Beach,0,0,0,0
+Los Alamitos,Indian Wells,0,0,0,0
+Los Alamitos,Indio,0.0573,0.2132,0,0.0349
+Los Alamitos,Industry,1.0118,1.1727,0.9053,1.0126
+Los Alamitos,Inglewood,0.2673,0.1066,0.2089,0.3492
+Los Alamitos,Irvine,4.1237,2.452,2.3677,5.5517
+Los Alamitos,Irwindale,0.0764,0,0.0696,0.1047
+Los Alamitos,Jurupa Valley,0.0955,0.2132,0.1393,0.0349
+Los Alamitos,La Canada Flintridge,0.0382,0,0.1393,0
+Los Alamitos,La Habra,0.2864,0.7463,0.1393,0.2095
+Los Alamitos,La Habra Heights,0.0191,0,0,0.0349
+Los Alamitos,La Mesa,0,0,0,0
+Los Alamitos,La Mirada,0.2864,0.2132,0.2089,0.3492
+Los Alamitos,La Palma,0.2482,0.3198,0.2089,0.2444
+Los Alamitos,La Puente,0.0764,0.1066,0.0696,0.0698
+Los Alamitos,La Quinta,0.0382,0.1066,0.0696,0
+Los Alamitos,La Verne,0.0382,0.1066,0.0696,0
+Los Alamitos,Laguna Beach,0.0191,0,0.0696,0
+Los Alamitos,Laguna Hills,0.2673,0.3198,0.3482,0.2095
+Los Alamitos,Laguna Niguel,0.0573,0,0.1393,0.0349
+Los Alamitos,Laguna Woods,0.0573,0.2132,0,0.0349
+Los Alamitos,Lake Elsinore,0.0764,0,0,0.1397
+Los Alamitos,Lake Forest,0.3436,0.4264,0.3482,0.3142
+Los Alamitos,Lakewood,1.0691,1.7058,0.766,1.0126
+Los Alamitos,Lancaster,0.1336,0.2132,0.0696,0.1397
+Los Alamitos,Lawndale,0.0764,0,0.2089,0.0349
+Los Alamitos,Lemon Grove,0.0382,0,0,0.0698
+Los Alamitos,Loma Linda,0.0382,0.1066,0,0.0349
+Los Alamitos,Lomita,0,0,0,0
+Los Alamitos,Long Beach,10.6911,10.661,8.3565,11.8715
+Los Alamitos,Los Alamitos,6.491,9.1684,8.2869,4.7137
+Los Alamitos,Los Angeles,9.2402,6.6098,7.9387,10.7542
+Los Alamitos,Lynwood,0.1336,0.1066,0.2089,0.1047
+Los Alamitos,Malibu,0.0191,0.1066,0,0
+Los Alamitos,Manhattan Beach,0.1145,0.2132,0.1393,0.0698
+Los Alamitos,Maywood,0.0573,0,0.1393,0.0349
+Los Alamitos,Menifee,0.0764,0.1066,0.1393,0.0349
+Los Alamitos,Mission Viejo,0.2291,0.2132,0.2786,0.2095
+Los Alamitos,Monrovia,0.0573,0,0.0696,0.0698
+Los Alamitos,Montclair,0.1527,0.1066,0.2786,0.1047
+Los Alamitos,Montebello,0.3818,0.4264,0.4875,0.3142
+Los Alamitos,Monterey Park,0.4582,0.1066,0.3482,0.6285
+Los Alamitos,Moorpark,0.0191,0,0,0.0349
+Los Alamitos,Moreno Valley,0.0573,0,0.2089,0
+Los Alamitos,Murrieta,0.0573,0,0.0696,0.0698
+Los Alamitos,National City,0.0573,0,0.1393,0.0349
+Los Alamitos,Needles,0,0,0,0
+Los Alamitos,Newport Beach,1.68,0.6397,2.3677,1.676
+Los Alamitos,Norco,0.0764,0.1066,0.1393,0.0349
+Los Alamitos,Norwalk,0.7446,0.9595,0.766,0.6634
+Los Alamitos,Oceanside,0.0955,0,0.2089,0.0698
+Los Alamitos,Ojai,0,0,0,0
+Los Alamitos,Ontario,0.5918,0.4264,0.9749,0.4539
+Los Alamitos,Orange,2.1191,2.2388,2.7159,1.7807
+Los Alamitos,Oxnard,0.0382,0,0,0.0698
+Los Alamitos,Palm Desert,0.0955,0.1066,0.1393,0.0698
+Los Alamitos,Palm Springs,0.0764,0.2132,0,0.0698
+Los Alamitos,Palmdale,0.1145,0.2132,0.1393,0.0698
+Los Alamitos,Palos Verdes Estates,0,0,0,0
+Los Alamitos,Paramount,0.4773,0.8529,0.4178,0.3841
+Los Alamitos,Pasadena,0.4009,0.3198,0.2089,0.5237
+Los Alamitos,Perris,0.0382,0.1066,0.0696,0
+Los Alamitos,Pico Rivera,0.4009,0.9595,0.2089,0.3142
+Los Alamitos,Placentia,0.1527,0.3198,0.2089,0.0698
+Los Alamitos,Pomona,0.1909,0,0.2786,0.2095
+Los Alamitos,Port Hueneme,0,0,0,0
+Los Alamitos,Poway,0.0382,0,0,0.0698
+Los Alamitos,Rancho Cucamonga,0.2673,0.3198,0.4178,0.1746
+Los Alamitos,Rancho Mirage,0,0,0,0
+Los Alamitos,Rancho Palos Verdes,0.0382,0,0.1393,0
+Los Alamitos,Rancho Santa Margarita,0.0955,0.1066,0.0696,0.1047
+Los Alamitos,Redlands,0.0955,0.1066,0,0.1397
+Los Alamitos,Redondo Beach,0.3818,0.3198,0.4178,0.3841
+Los Alamitos,Rialto,0.1336,0.2132,0.2089,0.0698
+Los Alamitos,Riverside,0.42,0.533,0.6964,0.2444
+Los Alamitos,Rolling Hills,0,0,0,0
+Los Alamitos,Rolling Hills Estates,0.0382,0.1066,0,0.0349
+Los Alamitos,Rosemead,0.21,0,0.2786,0.2444
+Los Alamitos,San Bernardino,0.2673,0.7463,0.0696,0.2095
+Los Alamitos,San Buenaventura,0.1527,0.1066,0.2089,0.1397
+Los Alamitos,San Clemente,0,0,0,0
+Los Alamitos,San Diego,1.0882,1.1727,1.1142,1.0475
+Los Alamitos,San Dimas,0.0764,0.2132,0.0696,0.0349
+Los Alamitos,San Fernando,0.0573,0.1066,0,0.0698
+Los Alamitos,San Gabriel,0.0382,0,0.0696,0.0349
+Los Alamitos,San Jacinto,0,0,0,0
+Los Alamitos,San Juan Capistrano,0.0955,0.1066,0,0.1397
+Los Alamitos,San Marcos,0.0955,0.1066,0.0696,0.1047
+Los Alamitos,San Marino,0.0382,0.1066,0,0.0349
+Los Alamitos,Santa Ana,3.5892,2.1322,4.039,3.8408
+Los Alamitos,Santa Clarita,0.1527,0.2132,0.2089,0.1047
+Los Alamitos,Santa Fe Springs,1.6418,0.9595,1.3231,2.0251
+Los Alamitos,Santa Monica,0.3246,0.1066,0.3482,0.3841
+Los Alamitos,Santa Paula,0,0,0,0
+Los Alamitos,Santee,0.0191,0,0.0696,0
+Los Alamitos,Seal Beach,1.7182,2.2388,1.6017,1.6061
+Los Alamitos,Sierra Madre,0,0,0,0
+Los Alamitos,Signal Hill,1.26,1.1727,1.1142,1.3617
+Los Alamitos,Simi Valley,0.0955,0.2132,0,0.1047
+Los Alamitos,Solana Beach,0.0191,0,0,0.0349
+Los Alamitos,South El Monte,0.0955,0.1066,0.2089,0.0349
+Los Alamitos,South Gate,0.3627,0.2132,0.6964,0.2444
+Los Alamitos,South Pasadena,0.0191,0.1066,0,0
+Los Alamitos,Stanton,0.6491,1.1727,0.3482,0.6285
+Los Alamitos,Temecula,0.1145,0.3198,0.1393,0.0349
+Los Alamitos,Temple City,0,0,0,0
+Los Alamitos,Thousand Oaks,0.1145,0.3198,0.2089,0
+Los Alamitos,Torrance,1.2027,0.9595,0.8357,1.4665
+Los Alamitos,Tustin,0.7446,0.6397,0.9053,0.6983
+Los Alamitos,Twentynine Palms,0,0,0,0
+Los Alamitos,Unincorporated:Imperial,0,0,0,0
+Los Alamitos,Unincorporated:Los Angeles,2.1764,1.7058,2.1588,2.3394
+Los Alamitos,Unincorporated:Orange,0.9927,1.1727,1.1838,0.838
+Los Alamitos,Unincorporated:Riverside,0.1336,0.3198,0.0696,0.1047
+Los Alamitos,Unincorporated:San Bernardino,0.0764,0.1066,0.1393,0.0349
+Los Alamitos,Unincorporated:San Diego,0.1145,0.1066,0.2786,0.0349
+Los Alamitos,Unincorporated:Ventura,0.0382,0,0.1393,0
+Los Alamitos,Upland,0.0573,0.1066,0,0.0698
+Los Alamitos,Vernon,0.4773,0.1066,0.3482,0.6634
+Los Alamitos,Victorville,0.1336,0,0.2089,0.1397
+Los Alamitos,Villa Park,0,0,0,0
+Los Alamitos,Vista,0.1527,0,0.3482,0.1047
+Los Alamitos,Walnut,0.0573,0,0.0696,0.0698
+Los Alamitos,West Covina,0.1336,0.1066,0.3482,0.0349
+Los Alamitos,West Hollywood,0.0955,0.3198,0.0696,0.0349
+Los Alamitos,Westlake Village,0,0,0,0
+Los Alamitos,Westminster,0.8973,1.5991,0.6964,0.7682
+Los Alamitos,Westmorland,0,0,0,0
+Los Alamitos,Whittier,0.3246,0.7463,0.2089,0.2444
+Los Alamitos,Wildomar,0,0,0,0
+Los Alamitos,Yorba Linda,0.2482,0.7463,0.2089,0.1047
+Los Alamitos,Yucaipa,0,0,0,0
+Los Alamitos,Yucca Valley,0.0191,0,0,0.0349

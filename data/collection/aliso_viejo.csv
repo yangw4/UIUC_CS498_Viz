@@ -1,0 +1,216 @@
+home_city,work_city,all_worker_ratio,low_income_worker_ratio,medium_income_worker_ratio,high_income_worker_ratio
+Aliso Viejo,Adelanto,0,0,0,0
+Aliso Viejo,Agoura Hills,0.0291,0,0.0432,0.0302
+Aliso Viejo,Alhambra,0.0484,0.0721,0.0864,0.0302
+Aliso Viejo,Aliso Viejo,7.43,11.648,6.073,7.021
+Aliso Viejo,Anaheim,3.3856,3.8226,3.7821,3.1557
+Aliso Viejo,Apple Valley,0.0387,0.0721,0,0.0453
+Aliso Viejo,Arcadia,0.1211,0.2164,0.1729,0.083
+Aliso Viejo,Artesia,0.0194,0.0361,0.0216,0.0151
+Aliso Viejo,Azusa,0.063,0.1442,0.0432,0.0528
+Aliso Viejo,Baldwin Park,0.0387,0,0.0648,0.0377
+Aliso Viejo,Banning,0,0,0,0
+Aliso Viejo,Barstow,0,0,0,0
+Aliso Viejo,Beaumont,0.0048,0.0361,0,0
+Aliso Viejo,Bell,0.0339,0,0.0864,0.0226
+Aliso Viejo,Bell Gardens,0.0097,0,0.0216,0.0075
+Aliso Viejo,Bellflower,0.0775,0.0721,0.1081,0.0679
+Aliso Viejo,Beverly Hills,0.1695,0.1442,0.1513,0.1812
+Aliso Viejo,Big Bear Lake,0,0,0,0
+Aliso Viejo,Blythe,0,0,0,0
+Aliso Viejo,Bradbury,0,0,0,0
+Aliso Viejo,Brawley,0,0,0,0
+Aliso Viejo,Brea,0.2373,0.2164,0.1945,0.2567
+Aliso Viejo,Buena Park,0.2422,0.2885,0.281,0.2189
+Aliso Viejo,Burbank,0.3439,0.7212,0.2377,0.302
+Aliso Viejo,Calabasas,0.0533,0.1442,0.0864,0.0226
+Aliso Viejo,Calexico,0.0048,0.0361,0,0
+Aliso Viejo,Calimesa,0,0,0,0
+Aliso Viejo,Calipatria,0,0,0,0
+Aliso Viejo,Camarillo,0.0242,0,0.0432,0.0226
+Aliso Viejo,Canyon Lake,0,0,0,0
+Aliso Viejo,Carlsbad,0.2955,0.2885,0.281,0.302
+Aliso Viejo,Carson,0.1937,0.1803,0.0648,0.2416
+Aliso Viejo,Cathedral City,0.0097,0.0361,0.0216,0
+Aliso Viejo,Cerritos,0.247,0.2885,0.1513,0.2718
+Aliso Viejo,Chino,0.155,0.1082,0.1081,0.1812
+Aliso Viejo,Chino Hills,0.0484,0.0361,0.0216,0.0604
+Aliso Viejo,Chula Vista,0.1114,0.1442,0.1081,0.1057
+Aliso Viejo,Claremont,0.0436,0.1082,0.0432,0.0302
+Aliso Viejo,Coachella,0.0048,0.0361,0,0
+Aliso Viejo,Colton,0.0291,0.0361,0.0648,0.0151
+Aliso Viejo,Commerce,0.1211,0.2164,0.0432,0.1283
+Aliso Viejo,Compton,0.0436,0.0361,0.0432,0.0453
+Aliso Viejo,Corona,0.4117,0.577,0.3458,0.4001
+Aliso Viejo,Coronado,0.0097,0,0.0216,0.0075
+Aliso Viejo,Costa Mesa,4.1994,3.498,4.1279,4.3711
+Aliso Viejo,Covina,0.0775,0.0721,0.0864,0.0755
+Aliso Viejo,Cudahy,0,0,0,0
+Aliso Viejo,Culver City,0.2712,0.577,0.2593,0.2114
+Aliso Viejo,Cypress,0.2712,0.0361,0.2377,0.3322
+Aliso Viejo,Dana Point,0.9009,1.4425,1.7506,0.4907
+Aliso Viejo,Del Mar,0.0145,0,0,0.0226
+Aliso Viejo,Desert Hot Springs,0,0,0,0
+Aliso Viejo,Diamond Bar,0.1695,0.2164,0.0864,0.1887
+Aliso Viejo,Downey,0.1211,0.2164,0.1513,0.0906
+Aliso Viejo,Duarte,0.0291,0,0.0864,0.0151
+Aliso Viejo,Eastvale,0.0484,0.1082,0.0216,0.0453
+Aliso Viejo,El Cajon,0.092,0.1803,0.0864,0.0755
+Aliso Viejo,El Centro,0.0048,0,0,0.0075
+Aliso Viejo,El Monte,0.0387,0.0361,0.0216,0.0453
+Aliso Viejo,El Segundo,0.8234,0.1442,0.3242,1.14
+Aliso Viejo,Encinitas,0.092,0.1442,0.1513,0.0604
+Aliso Viejo,Escondido,0.1792,0.3606,0.281,0.1057
+Aliso Viejo,Fillmore,0,0,0,0
+Aliso Viejo,Fontana,0.1308,0.0721,0.1729,0.1283
+Aliso Viejo,Fountain Valley,1.1092,0.7934,0.8213,1.2759
+Aliso Viejo,Fullerton,0.4553,0.6491,0.389,0.4379
+Aliso Viejo,Garden Grove,0.804,0.8655,1.0374,0.7096
+Aliso Viejo,Gardena,0.092,0.1442,0.1081,0.0755
+Aliso Viejo,Glendale,0.2228,0.0721,0.2593,0.2416
+Aliso Viejo,Glendora,0.0339,0.1082,0.0432,0.0151
+Aliso Viejo,Grand Terrace,0,0,0,0
+Aliso Viejo,Hawaiian Gardens,0.0194,0,0.0432,0.0151
+Aliso Viejo,Hawthorne,0.0727,0.0361,0.0216,0.0981
+Aliso Viejo,Hemet,0.0436,0.1442,0.0432,0.0226
+Aliso Viejo,Hermosa Beach,0.0242,0.0721,0.0216,0.0151
+Aliso Viejo,Hesperia,0.0339,0.0361,0.0864,0.0151
+Aliso Viejo,Hidden Hills,0,0,0,0
+Aliso Viejo,Highland,0.0048,0,0,0.0075
+Aliso Viejo,Holtville,0,0,0,0
+Aliso Viejo,Huntington Beach,1.918,2.0195,2.118,1.827
+Aliso Viejo,Huntington Park,0.0145,0,0.0432,0.0075
+Aliso Viejo,Imperial,0,0,0,0
+Aliso Viejo,Imperial Beach,0,0,0,0
+Aliso Viejo,Indian Wells,0.0145,0.0361,0.0216,0.0075
+Aliso Viejo,Indio,0.0387,0.0361,0.0216,0.0453
+Aliso Viejo,Industry,0.1937,0.1803,0.2377,0.1812
+Aliso Viejo,Inglewood,0.0727,0.0361,0.0864,0.0755
+Aliso Viejo,Irvine,19.1998,10.9629,13.4428,22.9352
+Aliso Viejo,Irwindale,0.0484,0,0.0648,0.0528
+Aliso Viejo,Jurupa Valley,0.1598,0.1803,0.0864,0.1812
+Aliso Viejo,La Canada Flintridge,0.0097,0,0.0216,0.0075
+Aliso Viejo,La Habra,0.0823,0.1082,0.0432,0.0906
+Aliso Viejo,La Habra Heights,0.0048,0.0361,0,0
+Aliso Viejo,La Mesa,0.0387,0.0361,0.1081,0.0151
+Aliso Viejo,La Mirada,0.1066,0.0721,0.0648,0.1283
+Aliso Viejo,La Palma,0.0581,0.0361,0.0216,0.0755
+Aliso Viejo,La Puente,0.0097,0,0,0.0151
+Aliso Viejo,La Quinta,0.0436,0.1082,0.0216,0.0377
+Aliso Viejo,La Verne,0.0291,0.0721,0.0648,0.0075
+Aliso Viejo,Laguna Beach,1.5354,2.7047,2.6583,0.8984
+Aliso Viejo,Laguna Hills,2.7802,2.5965,4.3873,2.2573
+Aliso Viejo,Laguna Niguel,2.4993,4.7241,3.2635,1.7666
+Aliso Viejo,Laguna Woods,0.7847,1.154,1.2751,0.536
+Aliso Viejo,Lake Elsinore,0.0436,0.1082,0.0432,0.0302
+Aliso Viejo,Lake Forest,3.5213,2.5243,3.9767,3.5709
+Aliso Viejo,Lakewood,0.092,0.1442,0.0864,0.083
+Aliso Viejo,Lancaster,0.0823,0.1803,0.0432,0.0755
+Aliso Viejo,Lawndale,0.0145,0,0,0.0226
+Aliso Viejo,Lemon Grove,0.0145,0,0.0216,0.0151
+Aliso Viejo,Loma Linda,0.0339,0,0.0432,0.0377
+Aliso Viejo,Lomita,0.0097,0.0361,0,0.0075
+Aliso Viejo,Long Beach,0.9832,0.7573,1.059,1.0041
+Aliso Viejo,Los Alamitos,0.1792,0.1082,0.1513,0.2038
+Aliso Viejo,Los Angeles,4.7757,4.7962,4.4521,4.8845
+Aliso Viejo,Lynwood,0.0339,0,0,0.0528
+Aliso Viejo,Malibu,0.0145,0.0361,0.0216,0.0075
+Aliso Viejo,Manhattan Beach,0.0823,0.0721,0.1081,0.0755
+Aliso Viejo,Maywood,0.0097,0.0721,0,0
+Aliso Viejo,Menifee,0.0387,0.0721,0.0216,0.0377
+Aliso Viejo,Mission Viejo,3.8313,5.3011,4.1928,3.3973
+Aliso Viejo,Monrovia,0.0484,0.0361,0.0432,0.0528
+Aliso Viejo,Montclair,0.0533,0.0721,0,0.0679
+Aliso Viejo,Montebello,0.0436,0.1082,0,0.0453
+Aliso Viejo,Monterey Park,0.092,0.1442,0,0.1132
+Aliso Viejo,Moorpark,0.0194,0,0.0432,0.0151
+Aliso Viejo,Moreno Valley,0.0533,0.1442,0.0648,0.0302
+Aliso Viejo,Murrieta,0.0823,0.1442,0.1513,0.0453
+Aliso Viejo,National City,0.0291,0,0.0432,0.0302
+Aliso Viejo,Needles,0,0,0,0
+Aliso Viejo,Newport Beach,5.7251,3.498,5.4679,6.2811
+Aliso Viejo,Norco,0.0436,0.0721,0.0432,0.0377
+Aliso Viejo,Norwalk,0.1308,0,0.1945,0.1359
+Aliso Viejo,Oceanside,0.1017,0.1442,0.2161,0.0528
+Aliso Viejo,Ojai,0,0,0,0
+Aliso Viejo,Ontario,0.402,0.3967,0.4322,0.3926
+Aliso Viejo,Orange,2.7415,2.4162,3.2635,2.6272
+Aliso Viejo,Oxnard,0.1162,0.1442,0.1729,0.0906
+Aliso Viejo,Palm Desert,0.0872,0,0.1945,0.0679
+Aliso Viejo,Palm Springs,0.0775,0.0361,0.0864,0.083
+Aliso Viejo,Palmdale,0.063,0.0721,0.0432,0.0679
+Aliso Viejo,Palos Verdes Estates,0.0097,0.0361,0,0.0075
+Aliso Viejo,Paramount,0.0727,0.1442,0.0216,0.0755
+Aliso Viejo,Pasadena,0.3826,0.4327,0.3458,0.385
+Aliso Viejo,Perris,0.0242,0.0361,0.0432,0.0151
+Aliso Viejo,Pico Rivera,0.0678,0.0361,0.0432,0.083
+Aliso Viejo,Placentia,0.1986,0.2164,0.2593,0.1736
+Aliso Viejo,Pomona,0.1017,0.0721,0.1081,0.1057
+Aliso Viejo,Port Hueneme,0.0097,0,0,0.0151
+Aliso Viejo,Poway,0.0678,0.1082,0,0.083
+Aliso Viejo,Rancho Cucamonga,0.1986,0.3606,0.2377,0.151
+Aliso Viejo,Rancho Mirage,0.0145,0,0.0432,0.0075
+Aliso Viejo,Rancho Palos Verdes,0.0194,0.0361,0,0.0226
+Aliso Viejo,Rancho Santa Margarita,1.0704,1.6589,1.1022,0.9361
+Aliso Viejo,Redlands,0.092,0.0721,0.0432,0.1132
+Aliso Viejo,Redondo Beach,0.1066,0.1442,0.1729,0.0755
+Aliso Viejo,Rialto,0.0581,0.0721,0.0864,0.0453
+Aliso Viejo,Riverside,0.4892,0.7573,0.6268,0.385
+Aliso Viejo,Rolling Hills,0,0,0,0
+Aliso Viejo,Rolling Hills Estates,0.0291,0,0,0.0453
+Aliso Viejo,Rosemead,0.0436,0.0721,0.0432,0.0377
+Aliso Viejo,San Bernardino,0.1841,0.1803,0.2161,0.1736
+Aliso Viejo,San Buenaventura,0.0533,0.1082,0.0432,0.0453
+Aliso Viejo,San Clemente,1.6759,1.8392,2.4854,1.3589
+Aliso Viejo,San Diego,1.9277,2.0555,1.8154,1.9402
+Aliso Viejo,San Dimas,0.063,0.0361,0.1297,0.0453
+Aliso Viejo,San Fernando,0.0097,0,0,0.0151
+Aliso Viejo,San Gabriel,0.0048,0.0361,0,0
+Aliso Viejo,San Jacinto,0,0,0,0
+Aliso Viejo,San Juan Capistrano,1.5693,2.4883,1.9667,1.2381
+Aliso Viejo,San Marcos,0.1308,0.1082,0.1945,0.1132
+Aliso Viejo,San Marino,0.0242,0.0721,0.0216,0.0151
+Aliso Viejo,Santa Ana,5.7832,3.7144,4.8195,6.5529
+Aliso Viejo,Santa Clarita,0.1841,0.2885,0.2161,0.151
+Aliso Viejo,Santa Fe Springs,0.2325,0.1442,0.2161,0.2567
+Aliso Viejo,Santa Monica,0.2276,0.3967,0.2377,0.1887
+Aliso Viejo,Santa Paula,0.0097,0.0361,0,0.0075
+Aliso Viejo,Santee,0.0194,0,0.0432,0.0151
+Aliso Viejo,Seal Beach,0.1841,0.1442,0.1945,0.1887
+Aliso Viejo,Sierra Madre,0.0048,0,0,0.0075
+Aliso Viejo,Signal Hill,0.1114,0.1803,0.0864,0.1057
+Aliso Viejo,Simi Valley,0.0678,0.0721,0.0864,0.0604
+Aliso Viejo,Solana Beach,0.0339,0.1082,0.0216,0.0226
+Aliso Viejo,South El Monte,0.0436,0.0721,0.0432,0.0377
+Aliso Viejo,South Gate,0.0775,0.1082,0.0432,0.083
+Aliso Viejo,South Pasadena,0.0194,0.0361,0,0.0226
+Aliso Viejo,Stanton,0.0775,0.1082,0.0864,0.0679
+Aliso Viejo,Temecula,0.1889,0.2164,0.2161,0.1736
+Aliso Viejo,Temple City,0,0,0,0
+Aliso Viejo,Thousand Oaks,0.1259,0.1442,0.1729,0.1057
+Aliso Viejo,Torrance,0.4117,0.3967,0.6268,0.3397
+Aliso Viejo,Tustin,2.2183,2.1637,2.118,2.2648
+Aliso Viejo,Twentynine Palms,0,0,0,0
+Aliso Viejo,Unincorporated:Imperial,0.0194,0,0.0432,0.0151
+Aliso Viejo,Unincorporated:Los Angeles,0.4601,0.3606,0.5187,0.4605
+Aliso Viejo,Unincorporated:Orange,1.2496,1.4064,1.4264,1.1551
+Aliso Viejo,Unincorporated:Riverside,0.1695,0.3606,0.1729,0.1283
+Aliso Viejo,Unincorporated:San Bernardino,0.1066,0.0721,0.1513,0.0981
+Aliso Viejo,Unincorporated:San Diego,0.2276,0.1803,0.3026,0.2114
+Aliso Viejo,Unincorporated:Ventura,0.0484,0.0361,0.1297,0.0226
+Aliso Viejo,Upland,0.1162,0.1442,0.2593,0.0604
+Aliso Viejo,Vernon,0.1356,0.1442,0.1945,0.1132
+Aliso Viejo,Victorville,0.0339,0,0.0864,0.0226
+Aliso Viejo,Villa Park,0.0533,0.0721,0.0432,0.0528
+Aliso Viejo,Vista,0.0727,0.1082,0.0432,0.0755
+Aliso Viejo,Walnut,0.0339,0.0361,0.0432,0.0302
+Aliso Viejo,West Covina,0.0823,0.1082,0.1729,0.0453
+Aliso Viejo,West Hollywood,0.1017,0.0721,0.1729,0.083
+Aliso Viejo,Westlake Village,0.0436,0,0.0432,0.0528
+Aliso Viejo,Westminster,0.2858,0.577,0.3458,0.2038
+Aliso Viejo,Westmorland,0,0,0,0
+Aliso Viejo,Whittier,0.0533,0.1442,0.1081,0.0151
+Aliso Viejo,Wildomar,0.0194,0,0,0.0302
+Aliso Viejo,Yorba Linda,0.1647,0.1442,0.1513,0.1736
+Aliso Viejo,Yucaipa,0.0048,0,0.0216,0
+Aliso Viejo,Yucca Valley,0.0048,0,0.0216,0

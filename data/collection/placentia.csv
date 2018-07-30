@@ -1,0 +1,216 @@
+home_city,work_city,all_worker_ratio,low_income_worker_ratio,medium_income_worker_ratio,high_income_worker_ratio
+Placentia,Adelanto,0.0038,0.023,0,0
+Placentia,Agoura Hills,0.0153,0.023,0.0129,0.0143
+Placentia,Alhambra,0.1836,0.0919,0.2315,0.1855
+Placentia,Aliso Viejo,0.2983,0.3215,0.1929,0.3496
+Placentia,Anaheim,10.5982,11.0243,13.7457,8.7192
+Placentia,Apple Valley,0.0076,0,0.0129,0.0071
+Placentia,Arcadia,0.2792,0.3675,0.3472,0.2141
+Placentia,Artesia,0.0688,0.023,0.1157,0.0571
+Placentia,Azusa,0.1606,0.2067,0.1157,0.1712
+Placentia,Baldwin Park,0.2907,0.3445,0.2829,0.2783
+Placentia,Banning,0.0038,0.023,0,0
+Placentia,Barstow,0.0229,0,0.0643,0.0071
+Placentia,Beaumont,0.0115,0.0459,0,0.0071
+Placentia,Bell,0.13,0.1378,0.2057,0.0856
+Placentia,Bell Gardens,0.0688,0.2756,0.0129,0.0357
+Placentia,Bellflower,0.283,0.2297,0.2057,0.3425
+Placentia,Beverly Hills,0.1912,0.1378,0.2057,0.1998
+Placentia,Big Bear Lake,0.0115,0.023,0.0257,0
+Placentia,Blythe,0,0,0,0
+Placentia,Bradbury,0,0,0,0
+Placentia,Brawley,0,0,0,0
+Placentia,Brea,3.8553,3.8585,3.8318,3.8673
+Placentia,Buena Park,1.0021,1.0565,1.1444,0.9062
+Placentia,Burbank,0.6349,0.9187,0.4115,0.6707
+Placentia,Calabasas,0.0382,0.0689,0,0.0499
+Placentia,Calexico,0.0038,0,0.0129,0
+Placentia,Calimesa,0,0,0,0
+Placentia,Calipatria,0.0038,0,0,0.0071
+Placentia,Camarillo,0.0382,0,0.0129,0.0642
+Placentia,Canyon Lake,0.0191,0.0459,0.0129,0.0143
+Placentia,Carlsbad,0.1912,0.2067,0.2443,0.157
+Placentia,Carson,0.7573,0.5972,0.6172,0.8848
+Placentia,Cathedral City,0.0076,0.023,0.0129,0
+Placentia,Cerritos,0.6961,0.5512,0.8487,0.6564
+Placentia,Chino,0.5584,0.4364,0.5915,0.578
+Placentia,Chino Hills,0.218,0.4134,0.2315,0.1498
+Placentia,Chula Vista,0.0612,0.1378,0.0772,0.0285
+Placentia,Claremont,0.1645,0.1608,0.1543,0.1712
+Placentia,Coachella,0.0038,0,0.0129,0
+Placentia,Colton,0.0765,0.0919,0.0643,0.0785
+Placentia,Commerce,0.3557,0.2986,0.3472,0.3782
+Placentia,Compton,0.2601,0.2986,0.3343,0.2069
+Placentia,Corona,1.0212,1.378,1.183,0.8205
+Placentia,Coronado,0.0153,0.023,0.0129,0.0143
+Placentia,Costa Mesa,2.0424,2.0211,2.1602,1.9836
+Placentia,Covina,0.2295,0.1378,0.2829,0.2283
+Placentia,Cudahy,0.0268,0.0459,0.0257,0.0214
+Placentia,Culver City,0.3633,0.735,0.2957,0.2854
+Placentia,Cypress,0.6005,0.3904,0.7329,0.5922
+Placentia,Dana Point,0.1109,0.1608,0.1157,0.0928
+Placentia,Del Mar,0.0076,0,0.0129,0.0071
+Placentia,Desert Hot Springs,0,0,0,0
+Placentia,Diamond Bar,0.5546,0.3445,0.45,0.6778
+Placentia,Downey,0.5469,0.6431,0.4629,0.5637
+Placentia,Duarte,0.13,0.1378,0.0772,0.157
+Placentia,Eastvale,0.0841,0.2526,0.0514,0.0499
+Placentia,El Cajon,0.0535,0.0689,0.0386,0.0571
+Placentia,El Centro,0.0115,0.023,0,0.0143
+Placentia,El Monte,0.2677,0.2986,0.3858,0.1927
+Placentia,El Segundo,0.8835,0.2986,0.2057,1.4413
+Placentia,Encinitas,0.0535,0.023,0.1157,0.0285
+Placentia,Escondido,0.0841,0.1148,0.1157,0.0571
+Placentia,Fillmore,0.0038,0,0.0129,0
+Placentia,Fontana,0.459,0.4134,0.3858,0.5137
+Placentia,Fountain Valley,0.5928,0.4823,0.6043,0.6208
+Placentia,Fullerton,5.0945,6.0404,5.2334,4.7235
+Placentia,Garden Grove,1.2239,1.5847,1.4916,0.9633
+Placentia,Gardena,0.2027,0.1148,0.2957,0.1784
+Placentia,Glendale,0.4819,0.3445,0.4243,0.5565
+Placentia,Glendora,0.2218,0.2526,0.27,0.1855
+Placentia,Grand Terrace,0.0076,0,0.0129,0.0071
+Placentia,Hawaiian Gardens,0.0382,0.0919,0.0514,0.0143
+Placentia,Hawthorne,0.2333,0.2067,0.1414,0.2925
+Placentia,Hemet,0.0382,0.0459,0.0643,0.0214
+Placentia,Hermosa Beach,0.0535,0.0919,0.0257,0.0571
+Placentia,Hesperia,0.0306,0,0.09,0.0071
+Placentia,Hidden Hills,0,0,0,0
+Placentia,Highland,0.0038,0,0.0129,0
+Placentia,Holtville,0,0,0,0
+Placentia,Huntington Beach,1.3004,1.2402,1.0544,1.4556
+Placentia,Huntington Park,0.1186,0.1837,0.1157,0.0999
+Placentia,Imperial,0,0,0,0
+Placentia,Imperial Beach,0,0,0,0
+Placentia,Indian Wells,0.0038,0.023,0,0
+Placentia,Indio,0.0038,0,0.0129,0
+Placentia,Industry,0.8682,0.689,1.0801,0.8063
+Placentia,Inglewood,0.1836,0.1837,0.2443,0.1498
+Placentia,Irvine,5.3737,3.6518,4.0633,6.6357
+Placentia,Irwindale,0.1645,0.0919,0.1672,0.1855
+Placentia,Jurupa Valley,0.2295,0.1837,0.27,0.2212
+Placentia,La Canada Flintridge,0.0497,0.0459,0.0514,0.0499
+Placentia,La Habra,0.5661,0.9417,0.5786,0.4424
+Placentia,La Habra Heights,0.0115,0,0.0129,0.0143
+Placentia,La Mesa,0.0306,0.0689,0.0386,0.0143
+Placentia,La Mirada,0.4475,0.2986,0.4758,0.4781
+Placentia,La Palma,0.1645,0.0919,0.1286,0.2069
+Placentia,La Puente,0.0421,0.0919,0.0514,0.0214
+Placentia,La Quinta,0.0191,0.023,0.0386,0.0071
+Placentia,La Verne,0.1453,0.1608,0.1286,0.1498
+Placentia,Laguna Beach,0.1224,0.1378,0.1286,0.1142
+Placentia,Laguna Hills,0.2601,0.2067,0.4115,0.1927
+Placentia,Laguna Niguel,0.1645,0.1378,0.2572,0.1213
+Placentia,Laguna Woods,0.0459,0.0689,0.0386,0.0428
+Placentia,Lake Elsinore,0.0803,0.0689,0.09,0.0785
+Placentia,Lake Forest,0.7458,0.689,0.6043,0.842
+Placentia,Lakewood,0.2907,0.6201,0.27,0.1998
+Placentia,Lancaster,0.0841,0.0919,0.0772,0.0856
+Placentia,Lawndale,0.0038,0.023,0,0
+Placentia,Lemon Grove,0.0076,0,0,0.0143
+Placentia,Loma Linda,0.0612,0.0689,0.0386,0.0714
+Placentia,Lomita,0.0191,0.023,0.0257,0.0143
+Placentia,Long Beach,1.9659,1.4929,1.6845,2.269
+Placentia,Los Alamitos,0.2945,0.2067,0.2443,0.3496
+Placentia,Los Angeles,9.4087,6.5457,6.6864,11.8088
+Placentia,Lynwood,0.1262,0.023,0.0643,0.1927
+Placentia,Malibu,0.0076,0.023,0,0.0071
+Placentia,Manhattan Beach,0.1339,0.2526,0.1414,0.0928
+Placentia,Maywood,0.0229,0.1148,0,0.0071
+Placentia,Menifee,0.0459,0.0919,0.0643,0.0214
+Placentia,Mission Viejo,0.4819,0.5053,0.6686,0.371
+Placentia,Monrovia,0.218,0.3675,0.2057,0.1784
+Placentia,Montclair,0.1721,0.2526,0.1414,0.1641
+Placentia,Montebello,0.2371,0.2067,0.2186,0.2569
+Placentia,Monterey Park,0.3557,0.1837,0.3343,0.421
+Placentia,Moorpark,0.0076,0,0,0.0143
+Placentia,Moreno Valley,0.0994,0.1837,0.1029,0.0714
+Placentia,Murrieta,0.1224,0.2297,0.1929,0.0499
+Placentia,National City,0.0421,0.0689,0.0514,0.0285
+Placentia,Needles,0,0,0,0
+Placentia,Newport Beach,1.3807,0.7579,1.273,1.634
+Placentia,Norco,0.1377,0.2756,0.1029,0.1142
+Placentia,Norwalk,0.4245,0.5972,0.3215,0.4281
+Placentia,Oceanside,0.0574,0.0689,0.09,0.0357
+Placentia,Ojai,0.0038,0,0.0129,0
+Placentia,Ontario,1.0518,1.3091,1.2344,0.8705
+Placentia,Orange,4.8841,3.8126,5.1434,5.0731
+Placentia,Oxnard,0.0918,0.2067,0.1414,0.0285
+Placentia,Palm Desert,0.0459,0.0919,0.0514,0.0285
+Placentia,Palm Springs,0.0497,0.0459,0.0643,0.0428
+Placentia,Palmdale,0.1377,0.1148,0.0772,0.1784
+Placentia,Palos Verdes Estates,0.0076,0,0,0.0143
+Placentia,Paramount,0.2792,0.1837,0.1929,0.3568
+Placentia,Pasadena,0.7611,0.8498,0.5401,0.8562
+Placentia,Perris,0.0841,0.1608,0.0643,0.0714
+Placentia,Pico Rivera,0.218,0.1837,0.2315,0.2212
+Placentia,Placentia,5.3278,8.9802,5.6834,3.9957
+Placentia,Pomona,0.5508,0.5512,0.6301,0.5066
+Placentia,Port Hueneme,0.0038,0.023,0,0
+Placentia,Poway,0.0191,0,0.0257,0.0214
+Placentia,Rancho Cucamonga,0.6617,0.7809,0.5915,0.6636
+Placentia,Rancho Mirage,0.0153,0,0.0386,0.0071
+Placentia,Rancho Palos Verdes,0.0306,0,0.0514,0.0285
+Placentia,Rancho Santa Margarita,0.1912,0.2297,0.27,0.1356
+Placentia,Redlands,0.0803,0.1608,0.0257,0.0856
+Placentia,Redondo Beach,0.2065,0.1608,0.1029,0.2783
+Placentia,Rialto,0.1759,0.2067,0.2315,0.1356
+Placentia,Riverside,1.3845,1.2173,1.3501,1.4556
+Placentia,Rolling Hills,0,0,0,0
+Placentia,Rolling Hills Estates,0.0191,0.0689,0,0.0143
+Placentia,Rosemead,0.153,0.1608,0.0643,0.1998
+Placentia,San Bernardino,0.2983,0.2986,0.3086,0.2925
+Placentia,San Buenaventura,0.0574,0.1148,0.0643,0.0357
+Placentia,San Clemente,0.153,0.1148,0.2315,0.1213
+Placentia,San Diego,0.8988,1.1943,0.9258,0.792
+Placentia,San Dimas,0.3366,0.2756,0.3215,0.3639
+Placentia,San Fernando,0.0038,0,0.0129,0
+Placentia,San Gabriel,0.0688,0.023,0.1029,0.0642
+Placentia,San Jacinto,0.0076,0,0,0.0143
+Placentia,San Juan Capistrano,0.1224,0.1608,0.1029,0.1213
+Placentia,San Marcos,0.0727,0.1148,0.0772,0.0571
+Placentia,San Marino,0.0306,0,0.0643,0.0214
+Placentia,Santa Ana,5.1059,3.4221,5.0148,5.6796
+Placentia,Santa Clarita,0.1339,0.1608,0.18,0.0999
+Placentia,Santa Fe Springs,0.8797,0.735,0.6558,1.0489
+Placentia,Santa Monica,0.1759,0.1148,0.18,0.1927
+Placentia,Santa Paula,0,0,0,0
+Placentia,Santee,0.0229,0.023,0.0257,0.0214
+Placentia,Seal Beach,0.2218,0.2756,0.1029,0.2711
+Placentia,Sierra Madre,0.0115,0,0.0257,0.0071
+Placentia,Signal Hill,0.153,0.2297,0.0643,0.1784
+Placentia,Simi Valley,0.0956,0.1378,0.09,0.0856
+Placentia,Solana Beach,0.0076,0,0.0257,0
+Placentia,South El Monte,0.1606,0.1837,0.2186,0.1213
+Placentia,South Gate,0.153,0.1148,0.1672,0.157
+Placentia,South Pasadena,0.0459,0.0689,0.0257,0.0499
+Placentia,Stanton,0.1683,0.1608,0.2829,0.107
+Placentia,Temecula,0.2295,0.4823,0.1672,0.1855
+Placentia,Temple City,0.0421,0.0919,0.0643,0.0143
+Placentia,Thousand Oaks,0.1339,0.1378,0.2057,0.0928
+Placentia,Torrance,0.9485,0.6201,0.8358,1.1131
+Placentia,Tustin,1.3042,1.424,1.363,1.2344
+Placentia,Twentynine Palms,0.0115,0,0,0.0214
+Placentia,Unincorporated:Imperial,0.0038,0.023,0,0
+Placentia,Unincorporated:Los Angeles,1.7899,1.6537,1.8388,1.8052
+Placentia,Unincorporated:Orange,0.3327,0.3675,0.5015,0.2283
+Placentia,Unincorporated:Riverside,0.2639,0.2526,0.36,0.2141
+Placentia,Unincorporated:San Bernardino,0.3098,0.3675,0.1929,0.3568
+Placentia,Unincorporated:San Diego,0.1224,0.1608,0.1414,0.0999
+Placentia,Unincorporated:Ventura,0.065,0.0689,0.1286,0.0285
+Placentia,Upland,0.3213,0.2756,0.3472,0.3211
+Placentia,Vernon,0.3557,0.1378,0.2315,0.4923
+Placentia,Victorville,0.0727,0.1608,0.0643,0.0499
+Placentia,Villa Park,0.088,0.0459,0.1672,0.0571
+Placentia,Vista,0.0612,0.0459,0.0772,0.0571
+Placentia,Walnut,0.2486,0.2297,0.2572,0.2497
+Placentia,West Covina,0.3136,0.5282,0.3729,0.2141
+Placentia,West Hollywood,0.1262,0.1608,0.0772,0.1427
+Placentia,Westlake Village,0.0153,0,0.0129,0.0214
+Placentia,Westminster,0.4131,0.9646,0.4629,0.2141
+Placentia,Westmorland,0,0,0,0
+Placentia,Whittier,0.436,0.3215,0.4115,0.4852
+Placentia,Wildomar,0.0535,0.0689,0.0129,0.0714
+Placentia,Yorba Linda,1.4037,2.1589,1.9802,0.8491
+Placentia,Yucaipa,0.0076,0.023,0.0129,0
+Placentia,Yucca Valley,0.0076,0.023,0,0.0071

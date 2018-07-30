@@ -1,0 +1,216 @@
+home_city,work_city,all_worker_ratio,low_income_worker_ratio,medium_income_worker_ratio,high_income_worker_ratio
+Costa Mesa,Adelanto,0.0023,0,0,0.0044
+Costa Mesa,Agoura Hills,0.018,0.0136,0.028,0.0132
+Costa Mesa,Alhambra,0.0721,0.1084,0.0979,0.0441
+Costa Mesa,Aliso Viejo,0.8046,0.4472,0.7973,0.9255
+Costa Mesa,Anaheim,3.6648,4.2954,4.1964,3.1247
+Costa Mesa,Apple Valley,0.0338,0.0136,0.0769,0.0132
+Costa Mesa,Arcadia,0.1014,0.1626,0.1609,0.0441
+Costa Mesa,Artesia,0.0428,0.0407,0.035,0.0485
+Costa Mesa,Azusa,0.0856,0.0542,0.1049,0.0837
+Costa Mesa,Baldwin Park,0.0631,0.0407,0.035,0.0881
+Costa Mesa,Banning,0.0023,0,0,0.0044
+Costa Mesa,Barstow,0.0158,0,0.014,0.022
+Costa Mesa,Beaumont,0.009,0.0407,0.007,0
+Costa Mesa,Bell,0.0518,0.0542,0.0909,0.0264
+Costa Mesa,Bell Gardens,0.009,0,0.021,0.0044
+Costa Mesa,Bellflower,0.1059,0.122,0.1119,0.097
+Costa Mesa,Beverly Hills,0.2074,0.1491,0.2098,0.2248
+Costa Mesa,Big Bear Lake,0.018,0.0136,0,0.0309
+Costa Mesa,Blythe,0,0,0,0
+Costa Mesa,Bradbury,0.0023,0,0.007,0
+Costa Mesa,Brawley,0.0135,0.0271,0.007,0.0132
+Costa Mesa,Brea,0.5973,0.542,0.6155,0.6038
+Costa Mesa,Buena Park,0.311,0.2981,0.3357,0.2997
+Costa Mesa,Burbank,0.3787,0.5149,0.3147,0.3746
+Costa Mesa,Calabasas,0.0811,0.1355,0.049,0.0837
+Costa Mesa,Calexico,0.0113,0.0407,0.014,0
+Costa Mesa,Calimesa,0,0,0,0
+Costa Mesa,Calipatria,0,0,0,0
+Costa Mesa,Camarillo,0.0902,0.0813,0.1049,0.0837
+Costa Mesa,Canyon Lake,0.0045,0,0,0.0088
+Costa Mesa,Carlsbad,0.2344,0.393,0.2238,0.1895
+Costa Mesa,Carson,0.2637,0.1897,0.2448,0.2997
+Costa Mesa,Cathedral City,0.0248,0.0271,0.014,0.0309
+Costa Mesa,Cerritos,0.3877,0.3252,0.2868,0.4716
+Costa Mesa,Chino,0.1465,0.1762,0.1329,0.1454
+Costa Mesa,Chino Hills,0.1059,0.1491,0.0979,0.097
+Costa Mesa,Chula Vista,0.0766,0.1491,0.1049,0.0353
+Costa Mesa,Claremont,0.0518,0.122,0.056,0.0264
+Costa Mesa,Coachella,0.0045,0.0136,0.007,0
+Costa Mesa,Colton,0.027,0,0.035,0.0309
+Costa Mesa,Commerce,0.1916,0.1762,0.2168,0.1807
+Costa Mesa,Compton,0.1149,0.1762,0.0979,0.1058
+Costa Mesa,Corona,0.4057,0.3388,0.4406,0.4055
+Costa Mesa,Coronado,0.009,0.0136,0.007,0.0088
+Costa Mesa,Costa Mesa,14.9094,17.981,17.0583,12.5562
+Costa Mesa,Covina,0.1104,0.1626,0.1469,0.0705
+Costa Mesa,Cudahy,0.0045,0,0,0.0088
+Costa Mesa,Culver City,0.2389,0.393,0.2448,0.1851
+Costa Mesa,Cypress,0.4282,0.4065,0.2308,0.5597
+Costa Mesa,Dana Point,0.1983,0.3659,0.1958,0.1454
+Costa Mesa,Del Mar,0,0,0,0
+Costa Mesa,Desert Hot Springs,0.0113,0.0136,0.007,0.0132
+Costa Mesa,Diamond Bar,0.0766,0.0813,0.0699,0.0793
+Costa Mesa,Downey,0.1758,0.1626,0.1609,0.1895
+Costa Mesa,Duarte,0.0428,0.0407,0.007,0.0661
+Costa Mesa,Eastvale,0.027,0.0678,0.021,0.0176
+Costa Mesa,El Cajon,0.0609,0.0678,0.056,0.0617
+Costa Mesa,El Centro,0.0135,0,0.028,0.0088
+Costa Mesa,El Monte,0.0834,0.0813,0.1189,0.0617
+Costa Mesa,El Segundo,0.4913,0.1491,0.1958,0.7889
+Costa Mesa,Encinitas,0.0766,0.0949,0.0979,0.0573
+Costa Mesa,Escondido,0.151,0.1084,0.1469,0.1675
+Costa Mesa,Fillmore,0.0045,0,0.007,0.0044
+Costa Mesa,Fontana,0.151,0.271,0.1049,0.141
+Costa Mesa,Fountain Valley,1.9902,2.1816,1.8464,2.0185
+Costa Mesa,Fullerton,0.7167,0.7724,0.5595,0.7977
+Costa Mesa,Garden Grove,1.2622,1.626,1.4268,1.0401
+Costa Mesa,Gardena,0.0789,0.122,0.1329,0.0309
+Costa Mesa,Glendale,0.2862,0.3117,0.2658,0.2909
+Costa Mesa,Glendora,0.0856,0.1626,0.0629,0.0749
+Costa Mesa,Grand Terrace,0.0045,0,0,0.0088
+Costa Mesa,Hawaiian Gardens,0.0406,0.0271,0.042,0.0441
+Costa Mesa,Hawthorne,0.1217,0.122,0.1259,0.119
+Costa Mesa,Hemet,0.0293,0.1084,0.007,0.0176
+Costa Mesa,Hermosa Beach,0.0563,0.0813,0.0629,0.0441
+Costa Mesa,Hesperia,0.0248,0.0678,0.035,0.0044
+Costa Mesa,Hidden Hills,0.0023,0,0,0.0044
+Costa Mesa,Highland,0.0135,0.0407,0.007,0.0088
+Costa Mesa,Holtville,0.0023,0.0136,0,0
+Costa Mesa,Huntington Beach,4.3928,5.5827,5.0776,3.5743
+Costa Mesa,Huntington Park,0.0541,0.0542,0.0699,0.0441
+Costa Mesa,Imperial,0.0045,0.0136,0.007,0
+Costa Mesa,Imperial Beach,0.0045,0.0271,0,0
+Costa Mesa,Indian Wells,0.0248,0.0271,0.049,0.0088
+Costa Mesa,Indio,0.027,0.0271,0.028,0.0264
+Costa Mesa,Industry,0.3065,0.4065,0.2448,0.3129
+Costa Mesa,Inglewood,0.0856,0.0678,0.0909,0.0881
+Costa Mesa,Irvine,15.137,8.1436,11.5121,19.6959
+Costa Mesa,Irwindale,0.0586,0.0271,0.0769,0.0573
+Costa Mesa,Jurupa Valley,0.1217,0.1626,0.1609,0.0837
+Costa Mesa,La Canada Flintridge,0.0135,0.0271,0.028,0
+Costa Mesa,La Habra,0.1488,0.1491,0.2028,0.1146
+Costa Mesa,La Habra Heights,0,0,0,0
+Costa Mesa,La Mesa,0.0451,0.0678,0.056,0.0309
+Costa Mesa,La Mirada,0.133,0.1491,0.1539,0.1146
+Costa Mesa,La Palma,0.0766,0.0136,0.049,0.1146
+Costa Mesa,La Puente,0.0225,0.0407,0.028,0.0132
+Costa Mesa,La Quinta,0.0248,0.0542,0.042,0.0044
+Costa Mesa,La Verne,0.0428,0.0407,0.028,0.0529
+Costa Mesa,Laguna Beach,0.5657,0.5691,0.8323,0.3967
+Costa Mesa,Laguna Hills,0.7235,0.5149,0.8393,0.7184
+Costa Mesa,Laguna Niguel,0.3832,0.4472,0.3917,0.357
+Costa Mesa,Laguna Woods,0.1555,0.1355,0.2098,0.1278
+Costa Mesa,Lake Elsinore,0.0338,0.0813,0.021,0.0264
+Costa Mesa,Lake Forest,1.4876,1.1924,1.4617,1.5998
+Costa Mesa,Lakewood,0.1668,0.4607,0.1609,0.0749
+Costa Mesa,Lancaster,0.0631,0.1355,0.0629,0.0397
+Costa Mesa,Lawndale,0.0135,0.0136,0.014,0.0132
+Costa Mesa,Lemon Grove,0.0113,0.0136,0.007,0.0132
+Costa Mesa,Loma Linda,0.0158,0.0271,0,0.022
+Costa Mesa,Lomita,0.0113,0.0136,0.007,0.0132
+Costa Mesa,Long Beach,1.5236,1.5718,1.2239,1.6968
+Costa Mesa,Los Alamitos,0.1713,0.2033,0.0909,0.2115
+Costa Mesa,Los Angeles,5.256,5.0949,4.8398,5.5707
+Costa Mesa,Lynwood,0.0203,0.0271,0,0.0309
+Costa Mesa,Malibu,0.0068,0,0.014,0.0044
+Costa Mesa,Manhattan Beach,0.0992,0.122,0.1049,0.0881
+Costa Mesa,Maywood,0.0293,0.0813,0.042,0.0044
+Costa Mesa,Menifee,0.0361,0.0136,0.042,0.0397
+Costa Mesa,Mission Viejo,0.8249,0.8672,0.9372,0.7404
+Costa Mesa,Monrovia,0.0992,0.122,0.1399,0.0661
+Costa Mesa,Montclair,0.0856,0.1762,0.0909,0.0529
+Costa Mesa,Montebello,0.0721,0.0949,0.049,0.0793
+Costa Mesa,Monterey Park,0.0699,0.0678,0.049,0.0837
+Costa Mesa,Moorpark,0.0158,0.0136,0.007,0.022
+Costa Mesa,Moreno Valley,0.0563,0.1491,0.049,0.0309
+Costa Mesa,Murrieta,0.0811,0.122,0.0979,0.0573
+Costa Mesa,National City,0.0248,0.0136,0.042,0.0176
+Costa Mesa,Needles,0,0,0,0
+Costa Mesa,Newport Beach,10.7014,10.9485,12.1066,9.7356
+Costa Mesa,Norco,0.0699,0.1626,0.0839,0.0309
+Costa Mesa,Norwalk,0.1848,0.1626,0.1888,0.1895
+Costa Mesa,Oceanside,0.1014,0.2168,0.1189,0.0529
+Costa Mesa,Ojai,0,0,0,0
+Costa Mesa,Ontario,0.4575,0.5149,0.3777,0.4892
+Costa Mesa,Orange,3.2501,3.0488,3.2242,3.3319
+Costa Mesa,Oxnard,0.1172,0.122,0.2098,0.0573
+Costa Mesa,Palm Desert,0.0721,0.0949,0.1049,0.0441
+Costa Mesa,Palm Springs,0.0496,0.0813,0.049,0.0397
+Costa Mesa,Palmdale,0.0676,0.0813,0.0839,0.0529
+Costa Mesa,Palos Verdes Estates,0.0023,0,0,0.0044
+Costa Mesa,Paramount,0.0676,0.0678,0.0629,0.0705
+Costa Mesa,Pasadena,0.3494,0.393,0.3427,0.3394
+Costa Mesa,Perris,0.0451,0.0813,0.0629,0.022
+Costa Mesa,Pico Rivera,0.0496,0.0949,0.028,0.0485
+Costa Mesa,Placentia,0.2592,0.2439,0.2518,0.2688
+Costa Mesa,Pomona,0.169,0.1355,0.1679,0.1807
+Costa Mesa,Port Hueneme,0.0113,0.0136,0.007,0.0132
+Costa Mesa,Poway,0.0518,0.0407,0.035,0.0661
+Costa Mesa,Rancho Cucamonga,0.2795,0.4878,0.2588,0.2248
+Costa Mesa,Rancho Mirage,0.027,0.0542,0.021,0.022
+Costa Mesa,Rancho Palos Verdes,0.018,0.0271,0.014,0.0176
+Costa Mesa,Rancho Santa Margarita,0.2479,0.2439,0.2308,0.26
+Costa Mesa,Redlands,0.0766,0.0678,0.0769,0.0793
+Costa Mesa,Redondo Beach,0.1262,0.1084,0.0979,0.1498
+Costa Mesa,Rialto,0.0676,0.0949,0.0839,0.0485
+Costa Mesa,Riverside,0.5094,0.664,0.4546,0.4936
+Costa Mesa,Rolling Hills,0,0,0,0
+Costa Mesa,Rolling Hills Estates,0.0338,0.0136,0.028,0.0441
+Costa Mesa,Rosemead,0.0338,0.0271,0.028,0.0397
+Costa Mesa,San Bernardino,0.2479,0.3252,0.2028,0.2512
+Costa Mesa,San Buenaventura,0.0654,0.0813,0.0769,0.0529
+Costa Mesa,San Clemente,0.3606,0.3252,0.4686,0.3041
+Costa Mesa,San Diego,1.4673,1.6125,1.2729,1.5425
+Costa Mesa,San Dimas,0.1037,0.0136,0.0979,0.1366
+Costa Mesa,San Fernando,0.018,0,0.021,0.022
+Costa Mesa,San Gabriel,0.027,0,0.056,0.0176
+Costa Mesa,San Jacinto,0.0135,0.0678,0,0.0044
+Costa Mesa,San Juan Capistrano,0.2254,0.1897,0.2448,0.2248
+Costa Mesa,San Marcos,0.0856,0.122,0.0699,0.0837
+Costa Mesa,San Marino,0.0203,0.0136,0,0.0353
+Costa Mesa,Santa Ana,8.0599,7.3442,7.8263,8.4398
+Costa Mesa,Santa Clarita,0.1758,0.1897,0.2448,0.1278
+Costa Mesa,Santa Fe Springs,0.3426,0.2033,0.2308,0.4584
+Costa Mesa,Santa Monica,0.3313,0.3388,0.2728,0.3658
+Costa Mesa,Santa Paula,0.009,0.0136,0.014,0.0044
+Costa Mesa,Santee,0.027,0.0271,0.021,0.0309
+Costa Mesa,Seal Beach,0.2705,0.1355,0.0979,0.4231
+Costa Mesa,Sierra Madre,0.0068,0,0,0.0132
+Costa Mesa,Signal Hill,0.1555,0.0813,0.1049,0.2115
+Costa Mesa,Simi Valley,0.1217,0.2304,0.1049,0.097
+Costa Mesa,Solana Beach,0.0316,0.0542,0.021,0.0309
+Costa Mesa,South El Monte,0.0383,0.0271,0.0699,0.022
+Costa Mesa,South Gate,0.0631,0.1355,0.049,0.0485
+Costa Mesa,South Pasadena,0.0338,0.0678,0.014,0.0353
+Costa Mesa,Stanton,0.1082,0.1355,0.1748,0.0573
+Costa Mesa,Temecula,0.1803,0.3388,0.2658,0.0749
+Costa Mesa,Temple City,0.018,0.0136,0.042,0.0044
+Costa Mesa,Thousand Oaks,0.1781,0.1897,0.2098,0.1543
+Costa Mesa,Torrance,0.5477,0.542,0.4476,0.6126
+Costa Mesa,Tustin,2.1051,2.0596,2.0842,2.1331
+Costa Mesa,Twentynine Palms,0,0,0,0
+Costa Mesa,Unincorporated:Imperial,0.0068,0.0136,0.007,0.0044
+Costa Mesa,Unincorporated:Los Angeles,0.7122,0.6504,0.6854,0.7492
+Costa Mesa,Unincorporated:Orange,0.6018,0.6775,0.7763,0.4672
+Costa Mesa,Unincorporated:Riverside,0.1623,0.1897,0.2168,0.119
+Costa Mesa,Unincorporated:San Bernardino,0.1285,0.1491,0.1329,0.119
+Costa Mesa,Unincorporated:San Diego,0.1375,0.0678,0.1958,0.1234
+Costa Mesa,Unincorporated:Ventura,0.0541,0.0542,0.0769,0.0397
+Costa Mesa,Upland,0.0766,0.1084,0.0699,0.0705
+Costa Mesa,Vernon,0.0947,0.1084,0.0839,0.097
+Costa Mesa,Victorville,0.0744,0.1626,0.056,0.0573
+Costa Mesa,Villa Park,0.0451,0.0136,0.0629,0.0441
+Costa Mesa,Vista,0.1037,0.0678,0.1189,0.1058
+Costa Mesa,Walnut,0.0428,0.0271,0.049,0.0441
+Costa Mesa,West Covina,0.1397,0.2168,0.1329,0.119
+Costa Mesa,West Hollywood,0.0586,0.0542,0.0909,0.0397
+Costa Mesa,Westlake Village,0.0248,0,0.014,0.0397
+Costa Mesa,Westminster,0.5792,0.8672,0.6015,0.4716
+Costa Mesa,Westmorland,0,0,0,0
+Costa Mesa,Whittier,0.0969,0.2033,0.1049,0.0573
+Costa Mesa,Wildomar,0.0338,0.0407,0.042,0.0264
+Costa Mesa,Yorba Linda,0.2412,0.2033,0.2588,0.2424
+Costa Mesa,Yucaipa,0.009,0,0.014,0.0088
+Costa Mesa,Yucca Valley,0,0,0,0

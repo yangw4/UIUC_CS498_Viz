@@ -1,0 +1,216 @@
+home_city,work_city,all_worker_ratio,low_income_worker_ratio,medium_income_worker_ratio,high_income_worker_ratio
+Laguna Beach,Adelanto,0.0133,0,0,0.0206
+Laguna Beach,Agoura Hills,0.04,0.0906,0,0.0412
+Laguna Beach,Alhambra,0.08,0.0906,0.0651,0.0824
+Laguna Beach,Aliso Viejo,2.0011,2.0833,1.6927,2.0799
+Laguna Beach,Anaheim,2.6814,2.6268,3.3203,2.4918
+Laguna Beach,Apple Valley,0,0,0,0
+Laguna Beach,Arcadia,0.08,0.0906,0,0.103
+Laguna Beach,Artesia,0.0133,0.0906,0,0
+Laguna Beach,Azusa,0.08,0.0906,0.0651,0.0824
+Laguna Beach,Baldwin Park,0.04,0,0,0.0618
+Laguna Beach,Banning,0.0133,0,0.0651,0
+Laguna Beach,Barstow,0,0,0,0
+Laguna Beach,Beaumont,0.0267,0,0.0651,0.0206
+Laguna Beach,Bell,0.0267,0.0906,0,0.0206
+Laguna Beach,Bell Gardens,0.0133,0,0,0.0206
+Laguna Beach,Bellflower,0.0534,0.0906,0,0.0618
+Laguna Beach,Beverly Hills,0.2535,0.2717,0.1302,0.2883
+Laguna Beach,Big Bear Lake,0.04,0.0906,0,0.0412
+Laguna Beach,Blythe,0,0,0,0
+Laguna Beach,Bradbury,0,0,0,0
+Laguna Beach,Brawley,0,0,0,0
+Laguna Beach,Brea,0.5203,0.5435,0.4557,0.5354
+Laguna Beach,Buena Park,0.2535,0.2717,0.4557,0.1853
+Laguna Beach,Burbank,0.4669,0.9964,0.3255,0.3913
+Laguna Beach,Calabasas,0.0267,0.0906,0,0.0206
+Laguna Beach,Calexico,0.0133,0,0.0651,0
+Laguna Beach,Calimesa,0,0,0,0
+Laguna Beach,Calipatria,0,0,0,0
+Laguna Beach,Camarillo,0.0934,0.1812,0.1302,0.0618
+Laguna Beach,Canyon Lake,0,0,0,0
+Laguna Beach,Carlsbad,0.4536,0.3623,0.2604,0.5354
+Laguna Beach,Carson,0.1467,0.0906,0.0651,0.1853
+Laguna Beach,Cathedral City,0.0133,0,0,0.0206
+Laguna Beach,Cerritos,0.2935,0,0.3255,0.3501
+Laguna Beach,Chino,0.2268,0.2717,0.1953,0.2265
+Laguna Beach,Chino Hills,0.08,0,0,0.1236
+Laguna Beach,Chula Vista,0.1201,0.2717,0.1953,0.0618
+Laguna Beach,Claremont,0.0534,0.0906,0,0.0618
+Laguna Beach,Coachella,0,0,0,0
+Laguna Beach,Colton,0.0534,0.0906,0.0651,0.0412
+Laguna Beach,Commerce,0.1334,0.0906,0.0651,0.1647
+Laguna Beach,Compton,0.08,0,0.1302,0.0824
+Laguna Beach,Corona,0.6137,0.7246,0.4557,0.6384
+Laguna Beach,Coronado,0,0,0,0
+Laguna Beach,Costa Mesa,4.1756,4.3478,4.1016,4.1598
+Laguna Beach,Covina,0.0667,0.0906,0.1953,0.0206
+Laguna Beach,Cudahy,0,0,0,0
+Laguna Beach,Culver City,0.2401,0.3623,0.3255,0.1853
+Laguna Beach,Cypress,0.4936,0.0906,0.1302,0.7002
+Laguna Beach,Dana Point,1.294,2.9891,1.4974,0.8443
+Laguna Beach,Del Mar,0.0267,0,0,0.0412
+Laguna Beach,Desert Hot Springs,0.0133,0,0,0.0206
+Laguna Beach,Diamond Bar,0.08,0.0906,0,0.103
+Laguna Beach,Downey,0.1467,0.3623,0.1302,0.103
+Laguna Beach,Duarte,0.04,0,0,0.0618
+Laguna Beach,Eastvale,0.1067,0.0906,0.1953,0.0824
+Laguna Beach,El Cajon,0.0534,0,0.0651,0.0618
+Laguna Beach,El Centro,0.0133,0.0906,0,0
+Laguna Beach,El Monte,0.1334,0.0906,0.0651,0.1647
+Laguna Beach,El Segundo,0.9472,0.0906,0.1302,1.4003
+Laguna Beach,Encinitas,0.2401,0.4529,0.4557,0.1236
+Laguna Beach,Escondido,0.1734,0.1812,0.1302,0.1853
+Laguna Beach,Fillmore,0,0,0,0
+Laguna Beach,Fontana,0.1601,0.3623,0.2604,0.0824
+Laguna Beach,Fountain Valley,0.7337,0.6341,0.8464,0.7208
+Laguna Beach,Fullerton,0.5336,0.5435,0.4557,0.556
+Laguna Beach,Garden Grove,0.7471,1.087,0.7161,0.6796
+Laguna Beach,Gardena,0.0667,0.0906,0.1302,0.0412
+Laguna Beach,Glendale,0.3469,0.3623,0.5859,0.2677
+Laguna Beach,Glendora,0.04,0.0906,0,0.0412
+Laguna Beach,Grand Terrace,0.0267,0,0,0.0412
+Laguna Beach,Hawaiian Gardens,0,0,0,0
+Laguna Beach,Hawthorne,0.1334,0.0906,0.0651,0.1647
+Laguna Beach,Hemet,0.0267,0.0906,0,0.0206
+Laguna Beach,Hermosa Beach,0.0267,0,0.0651,0.0206
+Laguna Beach,Hesperia,0.0534,0.0906,0,0.0618
+Laguna Beach,Hidden Hills,0,0,0,0
+Laguna Beach,Highland,0.0133,0.0906,0,0
+Laguna Beach,Holtville,0,0,0,0
+Laguna Beach,Huntington Beach,1.5875,1.1775,2.1484,1.5033
+Laguna Beach,Huntington Park,0.0133,0,0,0.0206
+Laguna Beach,Imperial,0,0,0,0
+Laguna Beach,Imperial Beach,0,0,0,0
+Laguna Beach,Indian Wells,0,0,0,0
+Laguna Beach,Indio,0,0,0,0
+Laguna Beach,Industry,0.2401,0.0906,0.3906,0.2265
+Laguna Beach,Inglewood,0.0534,0,0,0.0824
+Laguna Beach,Irvine,17.6761,9.6014,12.3698,21.1903
+Laguna Beach,Irwindale,0.0133,0.0906,0,0
+Laguna Beach,Jurupa Valley,0.1467,0.0906,0.0651,0.1853
+Laguna Beach,La Canada Flintridge,0.0534,0.0906,0.1302,0.0206
+Laguna Beach,La Habra,0.1334,0.2717,0.1302,0.103
+Laguna Beach,La Habra Heights,0,0,0,0
+Laguna Beach,La Mesa,0.0534,0.0906,0.1953,0
+Laguna Beach,La Mirada,0.2535,0,0.4557,0.2471
+Laguna Beach,La Palma,0.08,0.0906,0.0651,0.0824
+Laguna Beach,La Puente,0.0133,0,0,0.0206
+Laguna Beach,La Quinta,0,0,0,0
+Laguna Beach,La Verne,0.0267,0,0,0.0412
+Laguna Beach,Laguna Beach,11.7663,19.2029,17.1875,8.3608
+Laguna Beach,Laguna Hills,1.4808,1.721,1.6927,1.3591
+Laguna Beach,Laguna Niguel,1.0672,1.9022,1.0417,0.8855
+Laguna Beach,Laguna Woods,0.3869,0.9964,0.5859,0.1853
+Laguna Beach,Lake Elsinore,0.04,0.0906,0,0.0412
+Laguna Beach,Lake Forest,2.2812,1.5399,1.9531,2.5535
+Laguna Beach,Lakewood,0.0934,0.2717,0.1953,0.0206
+Laguna Beach,Lancaster,0.0534,0.0906,0.0651,0.0412
+Laguna Beach,Lawndale,0.0133,0,0.0651,0
+Laguna Beach,Lemon Grove,0.0267,0,0,0.0412
+Laguna Beach,Loma Linda,0.0133,0,0,0.0206
+Laguna Beach,Lomita,0,0,0,0
+Laguna Beach,Long Beach,0.9605,1.087,0.8464,0.9679
+Laguna Beach,Los Alamitos,0.1467,0,0.3255,0.1236
+Laguna Beach,Los Angeles,5.8831,6.6123,5.3385,5.8896
+Laguna Beach,Lynwood,0.0267,0,0.0651,0.0206
+Laguna Beach,Malibu,0,0,0,0
+Laguna Beach,Manhattan Beach,0.1067,0.2717,0,0.103
+Laguna Beach,Maywood,0.0133,0,0.0651,0
+Laguna Beach,Menifee,0.0267,0,0.0651,0.0206
+Laguna Beach,Mission Viejo,2.508,3.9855,2.6693,2.1211
+Laguna Beach,Monrovia,0.0934,0.0906,0.1302,0.0824
+Laguna Beach,Montclair,0.0267,0.0906,0,0.0206
+Laguna Beach,Montebello,0.0534,0.0906,0.1302,0.0206
+Laguna Beach,Monterey Park,0.0934,0,0.0651,0.1236
+Laguna Beach,Moorpark,0.04,0,0,0.0618
+Laguna Beach,Moreno Valley,0.1067,0.1812,0.1953,0.0618
+Laguna Beach,Murrieta,0.0934,0.1812,0.0651,0.0824
+Laguna Beach,National City,0.0534,0,0.1302,0.0412
+Laguna Beach,Needles,0,0,0,0
+Laguna Beach,Newport Beach,6.7236,3.8949,6.1849,7.5371
+Laguna Beach,Norco,0.0534,0,0.1953,0.0206
+Laguna Beach,Norwalk,0.1334,0.0906,0.1953,0.1236
+Laguna Beach,Oceanside,0.1868,0.1812,0.4557,0.103
+Laguna Beach,Ojai,0,0,0,0
+Laguna Beach,Ontario,0.6003,0.6341,0.4557,0.6384
+Laguna Beach,Orange,2.428,1.3587,1.9531,2.8213
+Laguna Beach,Oxnard,0.1067,0.2717,0.2604,0.0206
+Laguna Beach,Palm Desert,0.1334,0.1812,0.1302,0.1236
+Laguna Beach,Palm Springs,0.0667,0,0,0.103
+Laguna Beach,Palmdale,0.1201,0.3623,0.1953,0.0412
+Laguna Beach,Palos Verdes Estates,0.0133,0.0906,0,0
+Laguna Beach,Paramount,0.04,0,0,0.0618
+Laguna Beach,Pasadena,0.2401,0.1812,0.1953,0.2677
+Laguna Beach,Perris,0.0934,0.0906,0.0651,0.103
+Laguna Beach,Pico Rivera,0.0534,0,0.0651,0.0618
+Laguna Beach,Placentia,0.1601,0.0906,0.1302,0.1853
+Laguna Beach,Pomona,0.1334,0.1812,0.1953,0.103
+Laguna Beach,Port Hueneme,0,0,0,0
+Laguna Beach,Poway,0.0934,0.0906,0.0651,0.103
+Laguna Beach,Rancho Cucamonga,0.2535,0.3623,0.3255,0.2059
+Laguna Beach,Rancho Mirage,0.04,0,0.1302,0.0206
+Laguna Beach,Rancho Palos Verdes,0.0133,0,0,0.0206
+Laguna Beach,Rancho Santa Margarita,0.6003,0.1812,0.5208,0.7208
+Laguna Beach,Redlands,0.0534,0,0.0651,0.0618
+Laguna Beach,Redondo Beach,0.0667,0,0.1302,0.0618
+Laguna Beach,Rialto,0.0267,0,0.0651,0.0206
+Laguna Beach,Riverside,0.587,0.7246,0.4557,0.5972
+Laguna Beach,Rolling Hills,0,0,0,0
+Laguna Beach,Rolling Hills Estates,0.04,0.0906,0.0651,0.0206
+Laguna Beach,Rosemead,0.08,0,0.0651,0.103
+Laguna Beach,San Bernardino,0.1734,0.4529,0,0.1647
+Laguna Beach,San Buenaventura,0.0267,0,0,0.0412
+Laguna Beach,San Clemente,1.5875,1.087,1.5625,1.7092
+Laguna Beach,San Diego,2.1612,2.808,2.0182,2.0593
+Laguna Beach,San Dimas,0.2801,0.1812,0.3906,0.2677
+Laguna Beach,San Fernando,0,0,0,0
+Laguna Beach,San Gabriel,0,0,0,0
+Laguna Beach,San Jacinto,0.0133,0.0906,0,0
+Laguna Beach,San Juan Capistrano,1.0939,0.9058,1.3021,1.0708
+Laguna Beach,San Marcos,0.1601,0.1812,0.1953,0.1442
+Laguna Beach,San Marino,0.0133,0,0,0.0206
+Laguna Beach,Santa Ana,5.0027,4.1667,4.9479,5.21
+Laguna Beach,Santa Clarita,0.2535,0.5435,0.5208,0.103
+Laguna Beach,Santa Fe Springs,0.3068,0.1812,0.0651,0.4119
+Laguna Beach,Santa Monica,0.3202,0.3623,0.3255,0.3089
+Laguna Beach,Santa Paula,0,0,0,0
+Laguna Beach,Santee,0.0133,0,0,0.0206
+Laguna Beach,Seal Beach,0.2535,0.1812,0.3906,0.2265
+Laguna Beach,Sierra Madre,0.0133,0,0,0.0206
+Laguna Beach,Signal Hill,0.2268,0.0906,0.2604,0.2471
+Laguna Beach,Simi Valley,0.0534,0.0906,0,0.0618
+Laguna Beach,Solana Beach,0.0534,0.1812,0.1302,0
+Laguna Beach,South El Monte,0.0267,0.0906,0,0.0206
+Laguna Beach,South Gate,0.0534,0,0.0651,0.0618
+Laguna Beach,South Pasadena,0.0267,0,0,0.0412
+Laguna Beach,Stanton,0.1067,0,0,0.1647
+Laguna Beach,Temecula,0.2001,0.1812,0.3255,0.1647
+Laguna Beach,Temple City,0.0267,0.0906,0,0.0206
+Laguna Beach,Thousand Oaks,0.2801,0.2717,0.3906,0.2471
+Laguna Beach,Torrance,0.547,0.1812,0.7161,0.5766
+Laguna Beach,Tustin,1.7209,1.1775,1.8229,1.8122
+Laguna Beach,Twentynine Palms,0,0,0,0
+Laguna Beach,Unincorporated:Imperial,0,0,0,0
+Laguna Beach,Unincorporated:Los Angeles,0.6937,0.9058,0.5859,0.6796
+Laguna Beach,Unincorporated:Orange,0.9872,1.087,1.3021,0.8649
+Laguna Beach,Unincorporated:Riverside,0.2001,0.1812,0.1953,0.2059
+Laguna Beach,Unincorporated:San Bernardino,0.1601,0.1812,0.0651,0.1853
+Laguna Beach,Unincorporated:San Diego,0.2401,0.0906,0.5208,0.1853
+Laguna Beach,Unincorporated:Ventura,0.0934,0.1812,0.0651,0.0824
+Laguna Beach,Upland,0.1734,0.0906,0.2604,0.1647
+Laguna Beach,Vernon,0.08,0.1812,0.1302,0.0412
+Laguna Beach,Victorville,0.1201,0.2717,0.0651,0.103
+Laguna Beach,Villa Park,0.04,0,0.0651,0.0412
+Laguna Beach,Vista,0.08,0.2717,0,0.0618
+Laguna Beach,Walnut,0.04,0,0.0651,0.0412
+Laguna Beach,West Covina,0.04,0,0.0651,0.0412
+Laguna Beach,West Hollywood,0.1067,0,0.0651,0.1442
+Laguna Beach,Westlake Village,0.0667,0,0,0.103
+Laguna Beach,Westminster,0.2668,0.5435,0.1302,0.2471
+Laguna Beach,Westmorland,0,0,0,0
+Laguna Beach,Whittier,0.1067,0.2717,0.1302,0.0618
+Laguna Beach,Wildomar,0.04,0.0906,0,0.0412
+Laguna Beach,Yorba Linda,0.2801,0.4529,0.3255,0.2265
+Laguna Beach,Yucaipa,0,0,0,0
+Laguna Beach,Yucca Valley,0,0,0,0

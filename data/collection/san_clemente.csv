@@ -1,0 +1,216 @@
+home_city,work_city,all_worker_ratio,low_income_worker_ratio,medium_income_worker_ratio,high_income_worker_ratio
+San Clemente,Adelanto,0.0134,0,0,0.0237
+San Clemente,Agoura Hills,0.0224,0.0263,0.0511,0.0079
+San Clemente,Alhambra,0.0671,0.0525,0.1022,0.0552
+San Clemente,Aliso Viejo,1.5297,1.1289,1.3283,1.7435
+San Clemente,Anaheim,1.8115,1.4439,1.6178,2.0117
+San Clemente,Apple Valley,0.0268,0.0788,0.017,0.0158
+San Clemente,Arcadia,0.1118,0.105,0.1362,0.1026
+San Clemente,Artesia,0.0179,0,0.0341,0.0158
+San Clemente,Azusa,0.0626,0.0788,0.0341,0.071
+San Clemente,Baldwin Park,0.0492,0.0525,0.0341,0.0552
+San Clemente,Banning,0.0134,0,0.0341,0.0079
+San Clemente,Barstow,0.0089,0,0.017,0.0079
+San Clemente,Beaumont,0.0268,0.0525,0,0.0316
+San Clemente,Bell,0.0403,0.0263,0.017,0.0552
+San Clemente,Bell Gardens,0.0268,0,0.0511,0.0237
+San Clemente,Bellflower,0.0537,0.0263,0.0341,0.071
+San Clemente,Beverly Hills,0.2058,0.2625,0.0681,0.2524
+San Clemente,Big Bear Lake,0.0045,0,0.017,0
+San Clemente,Blythe,0.0045,0,0,0.0079
+San Clemente,Bradbury,0,0,0,0
+San Clemente,Brawley,0.0045,0,0,0.0079
+San Clemente,Brea,0.4383,0.4201,0.4087,0.4576
+San Clemente,Buena Park,0.2192,0.3938,0.1703,0.1893
+San Clemente,Burbank,0.2863,0.6038,0.1362,0.2603
+San Clemente,Calabasas,0.0581,0.0525,0.0511,0.0631
+San Clemente,Calexico,0.0089,0,0.0341,0
+San Clemente,Calimesa,0,0,0,0
+San Clemente,Calipatria,0,0,0,0
+San Clemente,Camarillo,0.076,0.0525,0.1192,0.0631
+San Clemente,Canyon Lake,0,0,0,0
+San Clemente,Carlsbad,0.8006,0.5776,0.6982,0.9151
+San Clemente,Carson,0.2415,0.2363,0.1873,0.2682
+San Clemente,Cathedral City,0.0179,0.0263,0.017,0.0158
+San Clemente,Cerritos,0.322,0.2625,0.2044,0.3944
+San Clemente,Chino,0.1834,0.1575,0.1873,0.1893
+San Clemente,Chino Hills,0.0626,0.0788,0.1022,0.0394
+San Clemente,Chula Vista,0.1252,0.21,0.1703,0.0789
+San Clemente,Claremont,0.0716,0.1313,0.0511,0.0631
+San Clemente,Coachella,0,0,0,0
+San Clemente,Colton,0.0268,0.0788,0.017,0.0158
+San Clemente,Commerce,0.1476,0.105,0.1022,0.1814
+San Clemente,Compton,0.0716,0.0525,0.0681,0.0789
+San Clemente,Corona,0.4741,0.315,0.5279,0.497
+San Clemente,Coronado,0.0089,0,0.017,0.0079
+San Clemente,Costa Mesa,2.5406,2.2578,1.8563,2.9426
+San Clemente,Covina,0.0447,0.0788,0.0511,0.0316
+San Clemente,Cudahy,0,0,0,0
+San Clemente,Culver City,0.2863,0.3413,0.2725,0.2761
+San Clemente,Cypress,0.2594,0.1575,0.1192,0.355
+San Clemente,Dana Point,3.6096,5.6183,5.8072,1.988
+San Clemente,Del Mar,0.0134,0,0,0.0237
+San Clemente,Desert Hot Springs,0,0,0,0
+San Clemente,Diamond Bar,0.1163,0.0788,0.0681,0.1499
+San Clemente,Downey,0.1744,0.105,0.1533,0.2051
+San Clemente,Duarte,0.0403,0,0.0511,0.0473
+San Clemente,Eastvale,0.076,0.0263,0.1192,0.071
+San Clemente,El Cajon,0.1029,0.21,0.0511,0.0947
+San Clemente,El Centro,0.0179,0.0525,0.0341,0
+San Clemente,El Monte,0.0626,0.0525,0.0681,0.0631
+San Clemente,El Segundo,0.7022,0.0788,0.2044,1.1202
+San Clemente,Encinitas,0.1521,0.1575,0.2554,0.1026
+San Clemente,Escondido,0.1968,0.4201,0.1703,0.142
+San Clemente,Fillmore,0,0,0,0
+San Clemente,Fontana,0.1968,0.2888,0.2214,0.1578
+San Clemente,Fountain Valley,0.6665,0.4988,0.545,0.7731
+San Clemente,Fullerton,0.5278,0.4463,0.5279,0.5522
+San Clemente,Garden Grove,0.4383,0.5251,0.4598,0.4023
+San Clemente,Gardena,0.085,0.1313,0.1022,0.0631
+San Clemente,Glendale,0.2505,0.1575,0.2895,0.2603
+San Clemente,Glendora,0.0313,0.0263,0.017,0.0394
+San Clemente,Grand Terrace,0.0089,0.0263,0.017,0
+San Clemente,Hawaiian Gardens,0,0,0,0
+San Clemente,Hawthorne,0.1163,0,0.1873,0.1183
+San Clemente,Hemet,0.0626,0.0788,0.0511,0.0631
+San Clemente,Hermosa Beach,0.0447,0,0.0851,0.0394
+San Clemente,Hesperia,0.0224,0,0.0511,0.0158
+San Clemente,Hidden Hills,0,0,0,0
+San Clemente,Highland,0.0268,0,0.017,0.0394
+San Clemente,Holtville,0,0,0,0
+San Clemente,Huntington Beach,1.1048,0.8664,0.9366,1.2543
+San Clemente,Huntington Park,0.0134,0,0.017,0.0158
+San Clemente,Imperial,0,0,0,0
+San Clemente,Imperial Beach,0,0,0,0
+San Clemente,Indian Wells,0.0045,0,0,0.0079
+San Clemente,Indio,0.0224,0.0263,0.017,0.0237
+San Clemente,Industry,0.2728,0.2888,0.1703,0.3156
+San Clemente,Inglewood,0.085,0.0263,0.0681,0.1104
+San Clemente,Irvine,11.5937,5.9596,6.3181,15.7305
+San Clemente,Irwindale,0.0716,0.0263,0.0341,0.1026
+San Clemente,Jurupa Valley,0.1387,0.1575,0.1533,0.1262
+San Clemente,La Canada Flintridge,0.0492,0.105,0.0341,0.0394
+San Clemente,La Habra,0.076,0.0263,0.0681,0.0947
+San Clemente,La Habra Heights,0.0089,0,0.017,0.0079
+San Clemente,La Mesa,0.0447,0.105,0.0511,0.0237
+San Clemente,La Mirada,0.1118,0.1313,0.0851,0.1183
+San Clemente,La Palma,0.0671,0.0263,0,0.1104
+San Clemente,La Puente,0,0,0,0
+San Clemente,La Quinta,0.0313,0.0525,0.0681,0.0079
+San Clemente,La Verne,0.085,0.105,0.0681,0.0868
+San Clemente,Laguna Beach,1.2256,1.9953,1.5838,0.8283
+San Clemente,Laguna Hills,1.8473,1.4965,2.1969,1.7908
+San Clemente,Laguna Niguel,2.1157,3.0192,2.7759,1.5383
+San Clemente,Laguna Woods,0.2594,0.2625,0.3917,0.1972
+San Clemente,Lake Elsinore,0.1073,0.1313,0.0681,0.1183
+San Clemente,Lake Forest,2.1201,1.864,1.6519,2.414
+San Clemente,Lakewood,0.0805,0.105,0.1192,0.0552
+San Clemente,Lancaster,0.076,0.105,0.0511,0.0789
+San Clemente,Lawndale,0.0224,0.0263,0.0681,0
+San Clemente,Lemon Grove,0.0134,0.0263,0.0341,0
+San Clemente,Loma Linda,0.0358,0.0525,0,0.0473
+San Clemente,Lomita,0.0134,0.0263,0,0.0158
+San Clemente,Long Beach,1.1182,1.1027,1.0048,1.1754
+San Clemente,Los Alamitos,0.1163,0.105,0.1022,0.1262
+San Clemente,Los Angeles,5.2109,4.4894,3.8828,6.0429
+San Clemente,Lynwood,0.0358,0.0263,0.017,0.0473
+San Clemente,Malibu,0,0,0,0
+San Clemente,Manhattan Beach,0.1208,0.1838,0.1022,0.1104
+San Clemente,Maywood,0.0089,0,0.017,0.0079
+San Clemente,Menifee,0.0671,0.0525,0.1533,0.0316
+San Clemente,Mission Viejo,4.5668,4.2268,4.9557,4.4888
+San Clemente,Monrovia,0.0984,0.1313,0.1192,0.0789
+San Clemente,Montclair,0.0805,0.1313,0.1192,0.0473
+San Clemente,Montebello,0.085,0.0788,0.1703,0.0473
+San Clemente,Monterey Park,0.0716,0.105,0.0511,0.071
+San Clemente,Moorpark,0.0224,0,0.0341,0.0237
+San Clemente,Moreno Valley,0.0984,0.0788,0.2044,0.0552
+San Clemente,Murrieta,0.2281,0.4988,0.2044,0.1578
+San Clemente,National City,0.0313,0,0.0511,0.0316
+San Clemente,Needles,0,0,0,0
+San Clemente,Newport Beach,3.3502,2.8091,2.282,4.0076
+San Clemente,Norco,0.0492,0.0788,0.0341,0.0473
+San Clemente,Norwalk,0.1163,0.1575,0.1873,0.071
+San Clemente,Oceanside,0.3891,0.3413,0.4768,0.3629
+San Clemente,Ojai,0,0,0,0
+San Clemente,Ontario,0.5054,0.4726,0.6301,0.4576
+San Clemente,Orange,1.892,1.2077,1.2943,2.3746
+San Clemente,Oxnard,0.0805,0.0788,0.1192,0.0631
+San Clemente,Palm Desert,0.1163,0.1575,0.1192,0.1026
+San Clemente,Palm Springs,0.0447,0.0263,0.0681,0.0394
+San Clemente,Palmdale,0.0984,0.21,0.0851,0.071
+San Clemente,Palos Verdes Estates,0.0045,0.0263,0,0
+San Clemente,Paramount,0.0447,0.0525,0.017,0.0552
+San Clemente,Pasadena,0.4875,0.4988,0.3917,0.5286
+San Clemente,Perris,0.0895,0.1313,0.2044,0.0237
+San Clemente,Pico Rivera,0.0671,0.0525,0.0341,0.0868
+San Clemente,Placentia,0.1118,0.1575,0.1703,0.071
+San Clemente,Pomona,0.1566,0.1575,0.1873,0.142
+San Clemente,Port Hueneme,0,0,0,0
+San Clemente,Poway,0.0581,0.0788,0.0341,0.0631
+San Clemente,Rancho Cucamonga,0.3534,0.4988,0.4087,0.284
+San Clemente,Rancho Mirage,0.0403,0.105,0.0511,0.0158
+San Clemente,Rancho Palos Verdes,0.0313,0.0263,0.0851,0.0079
+San Clemente,Rancho Santa Margarita,1.0824,1.0764,1.4305,0.923
+San Clemente,Redlands,0.1476,0.315,0.1022,0.1183
+San Clemente,Redondo Beach,0.1208,0.0788,0.1022,0.142
+San Clemente,Rialto,0.085,0.105,0.1022,0.071
+San Clemente,Riverside,0.5994,0.5251,0.5279,0.6548
+San Clemente,Rolling Hills,0,0,0,0
+San Clemente,Rolling Hills Estates,0.0224,0.0525,0,0.0237
+San Clemente,Rosemead,0.076,0.0788,0.0511,0.0868
+San Clemente,San Bernardino,0.2773,0.21,0.3406,0.2682
+San Clemente,San Buenaventura,0.0805,0.1313,0.1022,0.0552
+San Clemente,San Clemente,17.8199,24.4684,24.2166,12.8589
+San Clemente,San Diego,2.3572,2.0478,2.1117,2.5639
+San Clemente,San Dimas,0.2236,0.1313,0.2044,0.2603
+San Clemente,San Fernando,0.0045,0,0,0.0079
+San Clemente,San Gabriel,0,0,0,0
+San Clemente,San Jacinto,0.0045,0,0.017,0
+San Clemente,San Juan Capistrano,4.8844,6.1959,5.9094,4.0155
+San Clemente,San Marcos,0.2192,0.4201,0.2214,0.1578
+San Clemente,San Marino,0.0089,0,0,0.0158
+San Clemente,Santa Ana,3.5738,2.4941,2.5715,4.3626
+San Clemente,Santa Clarita,0.1744,0.2625,0.1873,0.142
+San Clemente,Santa Fe Springs,0.322,0.105,0.1362,0.4733
+San Clemente,Santa Monica,0.3936,0.3413,0.3917,0.4102
+San Clemente,Santa Paula,0.0045,0,0.017,0
+San Clemente,Santee,0.0403,0.0788,0.0511,0.0237
+San Clemente,Seal Beach,0.1208,0.0788,0.1022,0.142
+San Clemente,Sierra Madre,0.0089,0,0,0.0158
+San Clemente,Signal Hill,0.085,0.0525,0.0681,0.1026
+San Clemente,Simi Valley,0.0581,0.0263,0.1192,0.0394
+San Clemente,Solana Beach,0.0537,0.0263,0.0851,0.0473
+San Clemente,South El Monte,0,0,0,0
+San Clemente,South Gate,0.0403,0.0263,0.017,0.0552
+San Clemente,South Pasadena,0.0403,0,0.0851,0.0316
+San Clemente,Stanton,0.0492,0.0525,0.0511,0.0473
+San Clemente,Temecula,0.3265,0.3938,0.3406,0.2998
+San Clemente,Temple City,0.0179,0.0525,0.0341,0
+San Clemente,Thousand Oaks,0.1923,0.315,0.1022,0.1972
+San Clemente,Torrance,0.3847,0.5251,0.2384,0.4102
+San Clemente,Tustin,1.2435,0.7876,1.0048,1.491
+San Clemente,Twentynine Palms,0.0089,0.0263,0,0.0079
+San Clemente,Unincorporated:Imperial,0.0268,0,0.0511,0.0237
+San Clemente,Unincorporated:Los Angeles,0.5681,0.6563,0.6301,0.5128
+San Clemente,Unincorporated:Orange,1.6281,1.1814,2.0266,1.5778
+San Clemente,Unincorporated:Riverside,0.1744,0.1313,0.3576,0.1026
+San Clemente,Unincorporated:San Bernardino,0.1521,0.1313,0.2384,0.1183
+San Clemente,Unincorporated:San Diego,0.4204,0.3676,0.3747,0.4576
+San Clemente,Unincorporated:Ventura,0.085,0.1313,0.0851,0.071
+San Clemente,Upland,0.1387,0.1575,0.1192,0.142
+San Clemente,Vernon,0.085,0.0525,0.0851,0.0947
+San Clemente,Victorville,0.1029,0.1838,0.0851,0.0868
+San Clemente,Villa Park,0.0268,0,0,0.0473
+San Clemente,Vista,0.2818,0.1575,0.3065,0.3077
+San Clemente,Walnut,0.0447,0.1313,0.0511,0.0158
+San Clemente,West Covina,0.0984,0.1575,0.1192,0.071
+San Clemente,West Hollywood,0.1118,0.21,0.1022,0.0868
+San Clemente,Westlake Village,0.0313,0,0.017,0.0473
+San Clemente,Westminster,0.1208,0.0263,0.1022,0.1578
+San Clemente,Westmorland,0,0,0,0
+San Clemente,Whittier,0.1431,0.21,0.0851,0.1499
+San Clemente,Wildomar,0.0313,0.0263,0.0341,0.0316
+San Clemente,Yorba Linda,0.1968,0.1313,0.2214,0.2051
+San Clemente,Yucaipa,0.0134,0.0263,0.0341,0
+San Clemente,Yucca Valley,0.0045,0,0,0.0079

@@ -1,0 +1,216 @@
+home_city,work_city,all_worker_ratio,low_income_worker_ratio,medium_income_worker_ratio,high_income_worker_ratio
+Buena Park,Adelanto,0.0057,0,0.0079,0.0062
+Buena Park,Agoura Hills,0.0257,0.0481,0.0237,0.0187
+Buena Park,Alhambra,0.1516,0.2082,0.1107,0.1618
+Buena Park,Aliso Viejo,0.1688,0.0801,0.1107,0.2489
+Buena Park,Anaheim,10.0601,11.5009,12.0345,7.9465
+Buena Park,Apple Valley,0.0143,0.0481,0.0079,0.0062
+Buena Park,Arcadia,0.143,0.1442,0.1423,0.1431
+Buena Park,Artesia,0.3204,0.4645,0.3558,0.2365
+Buena Park,Azusa,0.1144,0.1281,0.1265,0.0996
+Buena Park,Baldwin Park,0.2117,0.0961,0.1898,0.2738
+Buena Park,Banning,0.02,0,0.0316,0.0187
+Buena Park,Barstow,0.0057,0.032,0,0
+Buena Park,Beaumont,0.0114,0.016,0.0079,0.0124
+Buena Park,Bell,0.1487,0.1602,0.166,0.1307
+Buena Park,Bell Gardens,0.1344,0.1602,0.1581,0.1058
+Buena Park,Bellflower,0.472,0.6888,0.34,0.4916
+Buena Park,Beverly Hills,0.163,0.1121,0.1186,0.2178
+Buena Park,Big Bear Lake,0.0143,0.032,0.0158,0.0062
+Buena Park,Blythe,0.0086,0,0,0.0187
+Buena Park,Bradbury,0,0,0,0
+Buena Park,Brawley,0.0086,0.032,0.0079,0
+Buena Park,Brea,1.6476,1.5377,2.0242,1.3939
+Buena Park,Buena Park,6.5904,10.1714,7.9228,4.1506
+Buena Park,Burbank,0.5807,0.7689,0.4507,0.6098
+Buena Park,Calabasas,0.0372,0.032,0.0237,0.0498
+Buena Park,Calexico,0.0057,0.032,0,0
+Buena Park,Calimesa,0,0,0,0
+Buena Park,Calipatria,0,0,0,0
+Buena Park,Camarillo,0.0543,0.0961,0.0791,0.0187
+Buena Park,Canyon Lake,0.0029,0,0.0079,0
+Buena Park,Carlsbad,0.1602,0.1442,0.1581,0.168
+Buena Park,Carson,0.964,0.6728,0.767,1.2321
+Buena Park,Cathedral City,0.0172,0.032,0.0237,0.0062
+Buena Park,Cerritos,2.0166,1.6659,2.3958,1.8544
+Buena Park,Chino,0.1945,0.2403,0.1265,0.2302
+Buena Park,Chino Hills,0.0715,0.1602,0.0712,0.0373
+Buena Park,Chula Vista,0.0515,0.016,0.0395,0.0747
+Buena Park,Claremont,0.02,0.016,0.0316,0.0124
+Buena Park,Coachella,0.0057,0,0.0158,0
+Buena Park,Colton,0.0543,0.016,0.0237,0.0933
+Buena Park,Commerce,0.6608,0.7368,0.593,0.6845
+Buena Park,Compton,0.5349,0.5446,0.6088,0.4729
+Buena Park,Corona,0.4376,0.5286,0.5693,0.2987
+Buena Park,Coronado,0.0114,0.016,0.0079,0.0124
+Buena Park,Costa Mesa,1.9451,1.794,2.0321,1.9353
+Buena Park,Covina,0.0801,0.0801,0.1186,0.0498
+Buena Park,Cudahy,0.0229,0.016,0.0237,0.0249
+Buena Park,Culver City,0.3089,0.5126,0.1977,0.3174
+Buena Park,Cypress,1.8907,1.762,1.8581,1.9664
+Buena Park,Dana Point,0.0601,0.0801,0.0633,0.0498
+Buena Park,Del Mar,0.0086,0.016,0,0.0124
+Buena Park,Desert Hot Springs,0.0029,0,0,0.0062
+Buena Park,Diamond Bar,0.2031,0.2082,0.1977,0.2054
+Buena Park,Downey,0.9125,0.8169,0.8698,0.9832
+Buena Park,Duarte,0.083,0.0641,0.0553,0.112
+Buena Park,Eastvale,0.02,0.032,0.0237,0.0124
+Buena Park,El Cajon,0.0572,0.0641,0.0316,0.0747
+Buena Park,El Centro,0.0086,0,0.0079,0.0124
+Buena Park,El Monte,0.1716,0.1602,0.1581,0.1867
+Buena Park,El Segundo,0.7981,0.0801,0.1581,1.5806
+Buena Park,Encinitas,0.0601,0.1281,0.0474,0.0436
+Buena Park,Escondido,0.1058,0.1281,0.1186,0.0871
+Buena Park,Fillmore,0.0029,0,0.0079,0
+Buena Park,Fontana,0.1745,0.1762,0.1186,0.2178
+Buena Park,Fountain Valley,0.9926,0.849,0.854,1.1574
+Buena Park,Fullerton,3.4153,4.3248,3.6135,2.906
+Buena Park,Garden Grove,2.6201,3.2356,2.973,2.1033
+Buena Park,Gardena,0.2517,0.1922,0.2847,0.2489
+Buena Park,Glendale,0.3518,0.3364,0.3163,0.3858
+Buena Park,Glendora,0.0658,0.0961,0.0395,0.0747
+Buena Park,Grand Terrace,0.0057,0,0.0158,0
+Buena Park,Hawaiian Gardens,0.2145,0.2723,0.3163,0.112
+Buena Park,Hawthorne,0.2403,0.0961,0.174,0.3485
+Buena Park,Hemet,0.0429,0.0641,0.0712,0.0124
+Buena Park,Hermosa Beach,0.0572,0.0641,0.0474,0.0622
+Buena Park,Hesperia,0.0315,0.0961,0.0237,0.0124
+Buena Park,Hidden Hills,0,0,0,0
+Buena Park,Highland,0.0229,0.016,0.0395,0.0124
+Buena Park,Holtville,0,0,0,0
+Buena Park,Huntington Beach,2.2912,2.2425,2.4195,2.2091
+Buena Park,Huntington Park,0.163,0.2723,0.2609,0.0436
+Buena Park,Imperial,0.0086,0,0.0079,0.0124
+Buena Park,Imperial Beach,0.0029,0.016,0,0
+Buena Park,Indian Wells,0.0057,0.016,0,0.0062
+Buena Park,Indio,0.0257,0,0.0158,0.0436
+Buena Park,Industry,1.0183,0.7849,1.0595,1.0765
+Buena Park,Inglewood,0.2088,0.2243,0.087,0.2987
+Buena Park,Irvine,4.5624,2.9793,3.7242,5.837
+Buena Park,Irwindale,0.0772,0.0481,0.0553,0.1058
+Buena Park,Jurupa Valley,0.1316,0.1602,0.1265,0.1245
+Buena Park,La Canada Flintridge,0.0114,0,0.0158,0.0124
+Buena Park,La Habra,0.6808,0.9931,0.8381,0.4356
+Buena Park,La Habra Heights,0.0057,0.016,0,0.0062
+Buena Park,La Mesa,0.0286,0.032,0.0237,0.0311
+Buena Park,La Mirada,1.2243,1.0091,1.2256,1.3068
+Buena Park,La Palma,0.7838,0.7689,0.8065,0.7716
+Buena Park,La Puente,0.0601,0.0641,0.0633,0.056
+Buena Park,La Quinta,0.0029,0,0.0079,0
+Buena Park,La Verne,0.0658,0.0641,0.0237,0.0996
+Buena Park,Laguna Beach,0.04,0.032,0.0395,0.0436
+Buena Park,Laguna Hills,0.2317,0.4004,0.2372,0.1618
+Buena Park,Laguna Niguel,0.143,0.1281,0.1898,0.112
+Buena Park,Laguna Woods,0.0429,0.0961,0.0316,0.0311
+Buena Park,Lake Elsinore,0.0629,0.0481,0.1186,0.0249
+Buena Park,Lake Forest,0.3576,0.2403,0.3716,0.392
+Buena Park,Lakewood,0.655,0.9771,0.6247,0.5538
+Buena Park,Lancaster,0.083,0.1281,0.087,0.0622
+Buena Park,Lawndale,0.0572,0.032,0.0553,0.0685
+Buena Park,Lemon Grove,0.0114,0.016,0.0079,0.0124
+Buena Park,Loma Linda,0.0257,0,0.0316,0.0311
+Buena Park,Lomita,0.02,0.032,0.0316,0.0062
+Buena Park,Long Beach,3.7243,3.2997,3.0995,4.3808
+Buena Park,Los Alamitos,0.861,0.7528,0.9014,0.8712
+Buena Park,Los Angeles,9.3793,6.8397,7.2824,12.0162
+Buena Park,Lynwood,0.2403,0.1442,0.1186,0.3734
+Buena Park,Malibu,0.0029,0,0,0.0062
+Buena Park,Manhattan Beach,0.143,0.2082,0.1423,0.1182
+Buena Park,Maywood,0.0429,0.0961,0.0474,0.0187
+Buena Park,Menifee,0.0257,0.0481,0.0237,0.0187
+Buena Park,Mission Viejo,0.246,0.2082,0.1977,0.2987
+Buena Park,Monrovia,0.1087,0.1281,0.1028,0.1058
+Buena Park,Montclair,0.0658,0.0641,0.0712,0.0622
+Buena Park,Montebello,0.2775,0.3043,0.2293,0.3049
+Buena Park,Monterey Park,0.3003,0.2403,0.1819,0.4169
+Buena Park,Moorpark,0.02,0.016,0.0237,0.0187
+Buena Park,Moreno Valley,0.1001,0.0961,0.0791,0.1182
+Buena Park,Murrieta,0.0629,0.0641,0.0949,0.0373
+Buena Park,National City,0.0286,0,0.0633,0.0124
+Buena Park,Needles,0,0,0,0
+Buena Park,Newport Beach,1.3158,1.2174,1.4233,1.2694
+Buena Park,Norco,0.0658,0.0641,0.1107,0.0311
+Buena Park,Norwalk,0.8982,1.1052,0.8223,0.8774
+Buena Park,Oceanside,0.0686,0.1281,0.1028,0.0187
+Buena Park,Ojai,0.0029,0.016,0,0
+Buena Park,Ontario,0.5549,0.5446,0.593,0.5289
+Buena Park,Orange,3.4783,3.0915,3.9298,3.2732
+Buena Park,Oxnard,0.1087,0.1442,0.0949,0.1058
+Buena Park,Palm Desert,0.0572,0.0801,0.087,0.0249
+Buena Park,Palm Springs,0.0286,0.016,0.0395,0.0249
+Buena Park,Palmdale,0.1173,0.1602,0.0633,0.1431
+Buena Park,Palos Verdes Estates,0.0057,0,0,0.0124
+Buena Park,Paramount,0.5034,0.4165,0.427,0.5974
+Buena Park,Pasadena,0.4891,0.4004,0.3163,0.6596
+Buena Park,Perris,0.0315,0.0481,0.0158,0.0373
+Buena Park,Pico Rivera,0.286,0.3524,0.2451,0.2925
+Buena Park,Placentia,0.6035,0.4645,0.6167,0.6472
+Buena Park,Pomona,0.2603,0.2403,0.1977,0.3174
+Buena Park,Port Hueneme,0,0,0,0
+Buena Park,Poway,0.0286,0.016,0.0237,0.0373
+Buena Park,Rancho Cucamonga,0.2889,0.4645,0.2688,0.2365
+Buena Park,Rancho Mirage,0.0029,0,0.0079,0
+Buena Park,Rancho Palos Verdes,0.0515,0.0801,0.0395,0.0498
+Buena Park,Rancho Santa Margarita,0.0973,0.0961,0.1186,0.0809
+Buena Park,Redlands,0.0772,0.0961,0.0712,0.0747
+Buena Park,Redondo Beach,0.2031,0.1442,0.087,0.3174
+Buena Park,Rialto,0.0915,0.0961,0.1107,0.0747
+Buena Park,Riverside,0.532,0.849,0.4744,0.4543
+Buena Park,Rolling Hills,0.0029,0.016,0,0
+Buena Park,Rolling Hills Estates,0.02,0.016,0.0079,0.0311
+Buena Park,Rosemead,0.1058,0.1281,0.0791,0.1182
+Buena Park,San Bernardino,0.2574,0.2403,0.2767,0.2489
+Buena Park,San Buenaventura,0.0572,0.0801,0.0633,0.0436
+Buena Park,San Clemente,0.0944,0.0641,0.0949,0.1058
+Buena Park,San Diego,1.0297,0.8329,0.8302,1.2632
+Buena Park,San Dimas,0.1058,0.032,0.1028,0.1369
+Buena Park,San Fernando,0.0143,0.016,0,0.0249
+Buena Park,San Gabriel,0.0343,0,0.0553,0.0311
+Buena Park,San Jacinto,0.0029,0,0,0.0062
+Buena Park,San Juan Capistrano,0.0658,0.032,0.0712,0.0747
+Buena Park,San Marcos,0.0973,0.1281,0.087,0.0933
+Buena Park,San Marino,0.0114,0.032,0,0.0124
+Buena Park,Santa Ana,4.6224,3.4919,5.1712,4.6297
+Buena Park,Santa Clarita,0.1688,0.1762,0.166,0.168
+Buena Park,Santa Fe Springs,1.9537,0.865,1.9768,2.3584
+Buena Park,Santa Monica,0.3175,0.2563,0.2056,0.4294
+Buena Park,Santa Paula,0.0086,0,0.0079,0.0124
+Buena Park,Santee,0.0315,0.0641,0.0237,0.0249
+Buena Park,Seal Beach,0.4033,0.3364,0.2767,0.5289
+Buena Park,Sierra Madre,0.0029,0,0,0.0062
+Buena Park,Signal Hill,0.389,0.2563,0.3795,0.448
+Buena Park,Simi Valley,0.0744,0.1121,0.0712,0.0622
+Buena Park,Solana Beach,0.0114,0.0481,0.0079,0
+Buena Park,South El Monte,0.1316,0.1922,0.1819,0.0685
+Buena Park,South Gate,0.3862,0.3204,0.4349,0.3734
+Buena Park,South Pasadena,0.02,0.032,0.0079,0.0249
+Buena Park,Stanton,0.7208,1.3936,0.854,0.3547
+Buena Park,Temecula,0.1344,0.2243,0.1502,0.0871
+Buena Park,Temple City,0.0229,0.032,0.0237,0.0187
+Buena Park,Thousand Oaks,0.1602,0.2082,0.1107,0.1805
+Buena Park,Torrance,1.27,0.7368,0.9488,1.7299
+Buena Park,Tustin,1.0297,1.0091,1.02,1.0454
+Buena Park,Twentynine Palms,0,0,0,0
+Buena Park,Unincorporated:Imperial,0.0086,0.032,0,0.0062
+Buena Park,Unincorporated:Los Angeles,2.0023,2.0503,1.8344,2.1157
+Buena Park,Unincorporated:Orange,0.2689,0.3364,0.3716,0.1618
+Buena Park,Unincorporated:Riverside,0.1259,0.1922,0.1581,0.0747
+Buena Park,Unincorporated:San Bernardino,0.1259,0.0961,0.1186,0.1431
+Buena Park,Unincorporated:San Diego,0.1373,0.0961,0.1819,0.1182
+Buena Park,Unincorporated:Ventura,0.0715,0.1121,0.1107,0.0249
+Buena Park,Upland,0.1287,0.2563,0.0791,0.1182
+Buena Park,Vernon,0.4405,0.2082,0.3954,0.5663
+Buena Park,Victorville,0.0772,0.1602,0.0395,0.0747
+Buena Park,Villa Park,0.0515,0.032,0.1028,0.0187
+Buena Park,Vista,0.0515,0.0801,0.0553,0.0373
+Buena Park,Walnut,0.0658,0.1121,0.0633,0.0498
+Buena Park,West Covina,0.2174,0.3524,0.1977,0.1805
+Buena Park,West Hollywood,0.0915,0.0641,0.1028,0.0933
+Buena Park,Westlake Village,0.0458,0,0.0633,0.0498
+Buena Park,Westminster,0.8209,1.2654,0.9567,0.5414
+Buena Park,Westmorland,0,0,0,0
+Buena Park,Whittier,0.5835,0.7849,0.68,0.4294
+Buena Park,Wildomar,0.0029,0,0,0.0062
+Buena Park,Yorba Linda,0.3833,0.5446,0.4981,0.2302
+Buena Park,Yucaipa,0.0143,0.016,0.0158,0.0124
+Buena Park,Yucca Valley,0.0086,0.032,0,0.0062

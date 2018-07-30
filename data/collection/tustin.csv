@@ -1,0 +1,216 @@
+home_city,work_city,all_worker_ratio,low_income_worker_ratio,medium_income_worker_ratio,high_income_worker_ratio
+Tustin,Adelanto,0.0148,0,0.0279,0.0113
+Tustin,Agoura Hills,0.0236,0.0558,0.0186,0.0169
+Tustin,Alhambra,0.0768,0.1117,0.0929,0.0564
+Tustin,Aliso Viejo,0.8979,0.6329,0.6595,1.1231
+Tustin,Anaheim,5.5913,5.901,6.9577,4.6673
+Tustin,Apple Valley,0.0236,0.0558,0.0372,0.0056
+Tustin,Arcadia,0.1152,0.1303,0.1393,0.0959
+Tustin,Artesia,0.0236,0.0558,0.0279,0.0113
+Tustin,Azusa,0.0679,0.1675,0.0372,0.0564
+Tustin,Baldwin Park,0.065,0.0186,0.0464,0.0903
+Tustin,Banning,0.0089,0.0372,0.0093,0
+Tustin,Barstow,0.0118,0.0372,0.0093,0.0056
+Tustin,Beaumont,0.0148,0.0186,0.0186,0.0113
+Tustin,Bell,0.062,0.0372,0.0836,0.0564
+Tustin,Bell Gardens,0.0207,0.0186,0.0279,0.0169
+Tustin,Bellflower,0.1093,0.1862,0.065,0.1129
+Tustin,Beverly Hills,0.1831,0.1675,0.1115,0.2314
+Tustin,Big Bear Lake,0.0177,0,0.0186,0.0226
+Tustin,Blythe,0.0089,0,0,0.0169
+Tustin,Bradbury,0,0,0,0
+Tustin,Brawley,0.003,0,0,0.0056
+Tustin,Brea,1.0988,1.0983,1.2912,0.982
+Tustin,Buena Park,0.5612,0.6515,0.7431,0.4233
+Tustin,Burbank,0.3544,0.5212,0.1765,0.412
+Tustin,Calabasas,0.0414,0.0745,0.0093,0.0508
+Tustin,Calexico,0.0059,0.0186,0,0.0056
+Tustin,Calimesa,0,0,0,0
+Tustin,Calipatria,0.003,0,0,0.0056
+Tustin,Camarillo,0.0561,0.1303,0.0557,0.0339
+Tustin,Canyon Lake,0,0,0,0
+Tustin,Carlsbad,0.3544,0.3909,0.3251,0.3612
+Tustin,Carson,0.2333,0.2234,0.2229,0.2427
+Tustin,Cathedral City,0.0266,0.0372,0.0186,0.0282
+Tustin,Cerritos,0.4253,0.4281,0.4738,0.3951
+Tustin,Chino,0.2895,0.242,0.288,0.3048
+Tustin,Chino Hills,0.2363,0.2978,0.418,0.1072
+Tustin,Chula Vista,0.0975,0.2606,0.0743,0.0621
+Tustin,Claremont,0.0384,0.0931,0.0557,0.0113
+Tustin,Coachella,0.0059,0.0186,0.0093,0
+Tustin,Colton,0.0502,0.0745,0.0464,0.0451
+Tustin,Commerce,0.1654,0.1303,0.2229,0.1411
+Tustin,Compton,0.1181,0.1117,0.1208,0.1185
+Tustin,Corona,0.9599,1.2658,0.9289,0.8861
+Tustin,Coronado,0.0177,0.0558,0.0093,0.0113
+Tustin,Costa Mesa,4.463,4.3373,5.0163,4.165
+Tustin,Covina,0.1004,0.1117,0.0929,0.1016
+Tustin,Cudahy,0.003,0,0,0.0056
+Tustin,Culver City,0.189,0.4281,0.1115,0.1637
+Tustin,Cypress,0.5435,0.4281,0.3344,0.7055
+Tustin,Dana Point,0.2363,0.1675,0.3809,0.1693
+Tustin,Del Mar,0.0059,0,0,0.0113
+Tustin,Desert Hot Springs,0.0059,0,0,0.0113
+Tustin,Diamond Bar,0.2717,0.2234,0.2601,0.2935
+Tustin,Downey,0.1388,0.0931,0.0929,0.1806
+Tustin,Duarte,0.0266,0.0186,0.0372,0.0226
+Tustin,Eastvale,0.0945,0.1303,0.0929,0.0847
+Tustin,El Cajon,0.0561,0.0745,0.0372,0.0621
+Tustin,El Centro,0.0236,0.0372,0.0372,0.0113
+Tustin,El Monte,0.0916,0.0931,0.1022,0.0847
+Tustin,El Segundo,0.6853,0.1862,0.1301,1.1739
+Tustin,Encinitas,0.0975,0.1489,0.1208,0.0677
+Tustin,Escondido,0.1034,0.1303,0.0743,0.1129
+Tustin,Fillmore,0.003,0,0,0.0056
+Tustin,Fontana,0.1802,0.1862,0.1301,0.2088
+Tustin,Fountain Valley,1.2258,1.2658,1.2076,1.2247
+Tustin,Fullerton,1.3173,1.694,1.3655,1.1739
+Tustin,Garden Grove,1.4591,1.694,1.9136,1.1118
+Tustin,Gardena,0.0827,0.1303,0.1301,0.0395
+Tustin,Glendale,0.254,0.2792,0.2415,0.254
+Tustin,Glendora,0.0679,0.0931,0.0743,0.0564
+Tustin,Grand Terrace,0.0207,0.0186,0.0372,0.0113
+Tustin,Hawaiian Gardens,0.0177,0,0.0464,0.0056
+Tustin,Hawthorne,0.0768,0.0372,0.0464,0.1072
+Tustin,Hemet,0.065,0.1489,0.0929,0.0226
+Tustin,Hermosa Beach,0.0266,0.0745,0.0279,0.0113
+Tustin,Hesperia,0.0325,0.1117,0.0186,0.0169
+Tustin,Hidden Hills,0,0,0,0
+Tustin,Highland,0.0089,0.0186,0.0093,0.0056
+Tustin,Holtville,0,0,0,0
+Tustin,Huntington Beach,1.9849,2.2338,2.1458,1.8116
+Tustin,Huntington Park,0.0561,0.1489,0.0464,0.0339
+Tustin,Imperial,0,0,0,0
+Tustin,Imperial Beach,0,0,0,0
+Tustin,Indian Wells,0.0059,0.0186,0,0.0056
+Tustin,Indio,0.0266,0.0186,0.0093,0.0395
+Tustin,Industry,0.3751,0.2978,0.4923,0.3273
+Tustin,Inglewood,0.065,0.0558,0.065,0.0677
+Tustin,Irvine,18.8238,12.8444,15.2253,22.823
+Tustin,Irwindale,0.0532,0.0745,0.0372,0.0564
+Tustin,Jurupa Valley,0.1477,0.1489,0.1301,0.158
+Tustin,La Canada Flintridge,0.0148,0.0558,0.0093,0.0056
+Tustin,La Habra,0.2747,0.5026,0.3158,0.1806
+Tustin,La Habra Heights,0.003,0,0.0093,0
+Tustin,La Mesa,0.0354,0.0931,0.0186,0.0282
+Tustin,La Mirada,0.2865,0.242,0.3623,0.254
+Tustin,La Palma,0.1861,0.1862,0.1301,0.2201
+Tustin,La Puente,0.0118,0.0186,0.0186,0.0056
+Tustin,La Quinta,0.0148,0.0372,0.0093,0.0113
+Tustin,La Verne,0.0414,0.0372,0.0557,0.0339
+Tustin,Laguna Beach,0.3131,0.3909,0.418,0.2257
+Tustin,Laguna Hills,1.019,1.1169,1.0961,0.9425
+Tustin,Laguna Niguel,0.4962,0.484,0.5667,0.4571
+Tustin,Laguna Woods,0.1477,0.1117,0.2508,0.0959
+Tustin,Lake Elsinore,0.0975,0.2048,0.1115,0.0564
+Tustin,Lake Forest,2.1975,1.6009,2.5824,2.1446
+Tustin,Lakewood,0.1211,0.2792,0.1208,0.0734
+Tustin,Lancaster,0.0473,0.0931,0.0372,0.0395
+Tustin,Lawndale,0.0118,0,0.0372,0
+Tustin,Lemon Grove,0.0177,0.0186,0.0279,0.0113
+Tustin,Loma Linda,0.0236,0,0.0279,0.0282
+Tustin,Lomita,0.003,0,0,0.0056
+Tustin,Long Beach,1.1667,1.0052,1.0497,1.2868
+Tustin,Los Alamitos,0.2097,0.242,0.2229,0.1919
+Tustin,Los Angeles,4.5753,4.5421,3.6693,5.1357
+Tustin,Lynwood,0.0443,0.0186,0.0372,0.0564
+Tustin,Malibu,0.003,0,0.0093,0
+Tustin,Manhattan Beach,0.0827,0.0745,0.0929,0.079
+Tustin,Maywood,0.003,0.0186,0,0
+Tustin,Menifee,0.0295,0.0558,0.0557,0.0056
+Tustin,Mission Viejo,1.276,1.4334,1.5885,1.0384
+Tustin,Monrovia,0.0886,0.1303,0.0557,0.0959
+Tustin,Montclair,0.0561,0.0558,0.065,0.0508
+Tustin,Montebello,0.0768,0.1489,0.0557,0.0677
+Tustin,Monterey Park,0.0857,0.0558,0.0464,0.1185
+Tustin,Moorpark,0.0266,0.0558,0.0372,0.0113
+Tustin,Moreno Valley,0.1388,0.1862,0.2044,0.0847
+Tustin,Murrieta,0.0857,0.0745,0.1393,0.0564
+Tustin,National City,0.0325,0.0186,0.0836,0.0056
+Tustin,Needles,0,0,0,0
+Tustin,Newport Beach,4.0288,2.9039,3.8644,4.4698
+Tustin,Norco,0.1093,0.0931,0.1486,0.0903
+Tustin,Norwalk,0.1093,0.0745,0.1022,0.1242
+Tustin,Oceanside,0.1241,0.3165,0.1301,0.0621
+Tustin,Ojai,0.003,0,0,0.0056
+Tustin,Ontario,0.6291,0.8935,0.6967,0.5079
+Tustin,Orange,5.3284,5.3611,5.4343,5.2542
+Tustin,Oxnard,0.0975,0.1303,0.1301,0.0677
+Tustin,Palm Desert,0.0857,0.0931,0.1208,0.0621
+Tustin,Palm Springs,0.065,0.0558,0.065,0.0677
+Tustin,Palmdale,0.0591,0.0931,0.0372,0.0621
+Tustin,Palos Verdes Estates,0.0089,0.0558,0,0
+Tustin,Paramount,0.0945,0.0372,0.0743,0.1242
+Tustin,Pasadena,0.4312,0.5212,0.5016,0.3612
+Tustin,Perris,0.0354,0.1117,0.0186,0.0226
+Tustin,Pico Rivera,0.0857,0.0372,0.0557,0.1185
+Tustin,Placentia,0.4519,0.5398,0.3809,0.4684
+Tustin,Pomona,0.2333,0.2606,0.2415,0.2201
+Tustin,Port Hueneme,0.0059,0.0186,0.0093,0
+Tustin,Poway,0.0414,0.0372,0.0557,0.0339
+Tustin,Rancho Cucamonga,0.3249,0.4095,0.3902,0.2596
+Tustin,Rancho Mirage,0.0266,0,0.0557,0.0169
+Tustin,Rancho Palos Verdes,0.0207,0.0558,0.0186,0.0113
+Tustin,Rancho Santa Margarita,0.4844,0.484,0.4459,0.5079
+Tustin,Redlands,0.0886,0.0931,0.1022,0.079
+Tustin,Redondo Beach,0.1034,0.1303,0.065,0.1185
+Tustin,Rialto,0.062,0.0931,0.1022,0.0282
+Tustin,Riverside,0.8123,0.8377,1.0497,0.6603
+Tustin,Rolling Hills,0,0,0,0
+Tustin,Rolling Hills Estates,0.0266,0.0745,0,0.0282
+Tustin,Rosemead,0.0473,0.0372,0.065,0.0395
+Tustin,San Bernardino,0.2452,0.2792,0.1858,0.2709
+Tustin,San Buenaventura,0.0561,0.1303,0.0464,0.0395
+Tustin,San Clemente,0.5346,0.5585,0.4923,0.5531
+Tustin,San Diego,1.787,1.4706,1.5606,2.0204
+Tustin,San Dimas,0.1359,0.2234,0.1393,0.1072
+Tustin,San Fernando,0.0059,0,0.0093,0.0056
+Tustin,San Gabriel,0.0118,0.0372,0.0186,0
+Tustin,San Jacinto,0.0089,0.0186,0.0093,0.0056
+Tustin,San Juan Capistrano,0.3426,0.3165,0.3344,0.3556
+Tustin,San Marcos,0.1093,0.2234,0.0929,0.0847
+Tustin,San Marino,0.0089,0,0.0186,0.0056
+Tustin,Santa Ana,10.5033,9.3075,11.4166,10.311
+Tustin,Santa Clarita,0.1713,0.242,0.2229,0.1185
+Tustin,Santa Fe Springs,0.4815,0.2978,0.3065,0.6434
+Tustin,Santa Monica,0.2806,0.3909,0.2137,0.2878
+Tustin,Santa Paula,0.0118,0.0186,0.0186,0.0056
+Tustin,Santee,0.0354,0.0558,0.065,0.0113
+Tustin,Seal Beach,0.2304,0.3909,0.1208,0.2483
+Tustin,Sierra Madre,0.003,0,0,0.0056
+Tustin,Signal Hill,0.1211,0.1489,0.1022,0.1242
+Tustin,Simi Valley,0.0679,0.1117,0.0743,0.0508
+Tustin,Solana Beach,0.0148,0.0372,0.0279,0
+Tustin,South El Monte,0.0354,0.0372,0.0372,0.0339
+Tustin,South Gate,0.0679,0.0372,0.0836,0.0677
+Tustin,South Pasadena,0.0148,0.0186,0.0372,0
+Tustin,Stanton,0.2363,0.5026,0.2508,0.1467
+Tustin,Temecula,0.1625,0.2792,0.1858,0.1129
+Tustin,Temple City,0.0295,0.0558,0.0372,0.0169
+Tustin,Thousand Oaks,0.1418,0.2048,0.0929,0.1524
+Tustin,Torrance,0.4696,0.3537,0.4273,0.5305
+Tustin,Tustin,6.3445,9.624,6.9577,4.9777
+Tustin,Twentynine Palms,0,0,0,0
+Tustin,Unincorporated:Imperial,0.0089,0.0186,0.0186,0
+Tustin,Unincorporated:Los Angeles,0.6882,0.5771,0.7431,0.6885
+Tustin,Unincorporated:Orange,0.9422,1.2844,1.0497,0.7732
+Tustin,Unincorporated:Riverside,0.1743,0.2792,0.1486,0.158
+Tustin,Unincorporated:San Bernardino,0.1329,0.1675,0.0929,0.1467
+Tustin,Unincorporated:San Diego,0.1565,0.1117,0.1951,0.1467
+Tustin,Unincorporated:Ventura,0.062,0.0372,0.0743,0.0621
+Tustin,Upland,0.127,0.1862,0.1301,0.1072
+Tustin,Vernon,0.1034,0.0745,0.0836,0.1242
+Tustin,Victorville,0.0768,0.1489,0.0464,0.0734
+Tustin,Villa Park,0.065,0.1862,0.0836,0.0169
+Tustin,Vista,0.1211,0.0931,0.1301,0.1242
+Tustin,Walnut,0.0325,0.0372,0.0372,0.0282
+Tustin,West Covina,0.1181,0.1489,0.1672,0.079
+Tustin,West Hollywood,0.0709,0.0745,0.065,0.0734
+Tustin,Westlake Village,0.0325,0.0372,0,0.0508
+Tustin,Westminster,0.4933,0.9494,0.5759,0.3048
+Tustin,Westmorland,0,0,0,0
+Tustin,Whittier,0.13,0.2048,0.0836,0.1354
+Tustin,Wildomar,0.0207,0.0186,0.0186,0.0226
+Tustin,Yorba Linda,0.384,0.5398,0.3716,0.3443
+Tustin,Yucaipa,0.0177,0.0186,0.0279,0.0113
+Tustin,Yucca Valley,0.0118,0.0372,0,0.0113

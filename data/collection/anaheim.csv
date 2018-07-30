@@ -1,0 +1,216 @@
+home_city,work_city,all_worker_ratio,low_income_worker_ratio,medium_income_worker_ratio,high_income_worker_ratio
+Anaheim,Adelanto,0.0105,0,0.0134,0.0126
+Anaheim,Agoura Hills,0.0264,0.0385,0.0268,0.0205
+Anaheim,Alhambra,0.1549,0.1751,0.171,0.1306
+Anaheim,Aliso Viejo,0.2748,0.1541,0.2079,0.3917
+Anaheim,Anaheim,16.0391,19.7205,18.5065,12.0709
+Anaheim,Apple Valley,0.0382,0.0876,0.0419,0.0126
+Anaheim,Arcadia,0.1575,0.2382,0.1945,0.0865
+Anaheim,Artesia,0.1015,0.1786,0.1023,0.0661
+Anaheim,Azusa,0.1081,0.1436,0.1157,0.085
+Anaheim,Baldwin Park,0.1555,0.1226,0.1174,0.2061
+Anaheim,Banning,0.0033,0,0.005,0.0031
+Anaheim,Barstow,0.0165,0.0245,0.0268,0.0031
+Anaheim,Beaumont,0.0152,0.021,0.0151,0.0126
+Anaheim,Bell,0.1384,0.1366,0.1794,0.1007
+Anaheim,Bell Gardens,0.0685,0.0595,0.0989,0.044
+Anaheim,Bellflower,0.2985,0.3538,0.2482,0.3209
+Anaheim,Beverly Hills,0.1937,0.1471,0.213,0.1966
+Anaheim,Big Bear Lake,0.0224,0.0595,0.0168,0.011
+Anaheim,Blythe,0.0026,0,0.0034,0.0031
+Anaheim,Bradbury,0.002,0,0.0034,0.0016
+Anaheim,Brawley,0.0072,0.0245,0.005,0.0016
+Anaheim,Brea,1.7424,1.6148,1.7541,1.7887
+Anaheim,Buena Park,1.6593,2.515,1.7608,1.1799
+Anaheim,Burbank,0.4883,0.5745,0.3857,0.5459
+Anaheim,Calabasas,0.056,0.0595,0.057,0.0535
+Anaheim,Calexico,0.0059,0.021,0.0034,0.0016
+Anaheim,Calimesa,0.0007,0,0,0.0016
+Anaheim,Calipatria,0.0033,0,0,0.0079
+Anaheim,Camarillo,0.0461,0.056,0.0436,0.044
+Anaheim,Canyon Lake,0.0066,0,0.0151,0.0016
+Anaheim,Carlsbad,0.1773,0.2032,0.1526,0.1888
+Anaheim,Carson,0.5397,0.5009,0.4779,0.6151
+Anaheim,Cathedral City,0.0132,0.0105,0.0201,0.0079
+Anaheim,Cerritos,0.8732,0.8652,0.8267,0.9203
+Anaheim,Chino,0.4356,0.3923,0.379,0.5081
+Anaheim,Chino Hills,0.1944,0.2137,0.2281,0.1542
+Anaheim,Chula Vista,0.0903,0.0946,0.0939,0.085
+Anaheim,Claremont,0.0738,0.0525,0.0922,0.0661
+Anaheim,Coachella,0.0046,0.0035,0.0084,0.0016
+Anaheim,Colton,0.0725,0.0806,0.0671,0.0739
+Anaheim,Commerce,0.4026,0.4484,0.3991,0.3854
+Anaheim,Compton,0.2926,0.4589,0.2935,0.2171
+Anaheim,Corona,1.034,0.9142,1.028,1.0934
+Anaheim,Coronado,0.0066,0.0105,0.0101,0.0016
+Anaheim,Costa Mesa,2.4567,2.2943,2.6059,2.3896
+Anaheim,Covina,0.2043,0.3573,0.1945,0.1447
+Anaheim,Cudahy,0.0231,0.0455,0.0134,0.022
+Anaheim,Culver City,0.2616,0.4764,0.2096,0.214
+Anaheim,Cypress,1.0076,0.7811,0.8921,1.2176
+Anaheim,Dana Point,0.1028,0.1471,0.109,0.0771
+Anaheim,Del Mar,0.0053,0.0035,0.0084,0.0031
+Anaheim,Desert Hot Springs,0.002,0.007,0.0017,0
+Anaheim,Diamond Bar,0.3038,0.3468,0.2281,0.3555
+Anaheim,Downey,0.5615,0.5885,0.5668,0.5443
+Anaheim,Duarte,0.0481,0.0385,0.047,0.0535
+Anaheim,Eastvale,0.0672,0.1191,0.0604,0.0503
+Anaheim,El Cajon,0.0527,0.042,0.0486,0.0614
+Anaheim,El Centro,0.004,0.007,0.0017,0.0047
+Anaheim,El Monte,0.1786,0.2277,0.2063,0.1306
+Anaheim,El Segundo,0.4705,0.2137,0.1828,0.8558
+Anaheim,Encinitas,0.0382,0.0525,0.0352,0.0346
+Anaheim,Escondido,0.1285,0.1086,0.1274,0.1384
+Anaheim,Fillmore,0.004,0.007,0.0067,0
+Anaheim,Fontana,0.2596,0.2312,0.2063,0.3225
+Anaheim,Fountain Valley,0.9568,0.7005,1.028,1.0053
+Anaheim,Fullerton,3.2139,3.5027,3.4343,2.8773
+Anaheim,Garden Grove,2.6366,3.3101,2.9329,2.0561
+Anaheim,Gardena,0.1713,0.1436,0.1828,0.173
+Anaheim,Glendale,0.4237,0.4203,0.4092,0.4389
+Anaheim,Glendora,0.0982,0.0946,0.1006,0.0975
+Anaheim,Grand Terrace,0.0092,0.007,0.005,0.0142
+Anaheim,Hawaiian Gardens,0.0988,0.063,0.1342,0.0818
+Anaheim,Hawthorne,0.1865,0.1506,0.104,0.28
+Anaheim,Hemet,0.0435,0.0736,0.0503,0.0236
+Anaheim,Hermosa Beach,0.0369,0.0876,0.0352,0.0157
+Anaheim,Hesperia,0.0277,0.035,0.0335,0.0189
+Anaheim,Hidden Hills,0.0007,0,0,0.0016
+Anaheim,Highland,0.0105,0.014,0.0117,0.0079
+Anaheim,Holtville,0.0007,0,0.0017,0
+Anaheim,Huntington Beach,2.006,1.958,2.2085,1.8375
+Anaheim,Huntington Park,0.1028,0.1506,0.1107,0.0739
+Anaheim,Imperial,0.0033,0,0,0.0079
+Anaheim,Imperial Beach,0.0033,0.007,0,0.0047
+Anaheim,Indian Wells,0.0079,0.014,0.0067,0.0063
+Anaheim,Indio,0.0224,0.042,0.0252,0.011
+Anaheim,Industry,0.7078,0.6445,0.659,0.7819
+Anaheim,Inglewood,0.139,0.1401,0.1358,0.1416
+Anaheim,Irvine,6.9938,3.8635,5.8206,9.5004
+Anaheim,Irwindale,0.0824,0.042,0.0939,0.0897
+Anaheim,Jurupa Valley,0.2096,0.1646,0.2264,0.214
+Anaheim,La Canada Flintridge,0.0191,0.0525,0.0184,0.0047
+Anaheim,La Habra,0.5344,0.6585,0.54,0.4735
+Anaheim,La Habra Heights,0.0079,0.0105,0.0084,0.0063
+Anaheim,La Mesa,0.029,0.0385,0.0335,0.0205
+Anaheim,La Mirada,0.4929,0.4484,0.4695,0.5349
+Anaheim,La Palma,0.257,0.1751,0.2616,0.2895
+Anaheim,La Puente,0.058,0.1051,0.052,0.0425
+Anaheim,La Quinta,0.0138,0.0105,0.0151,0.0142
+Anaheim,La Verne,0.0764,0.1051,0.0688,0.0708
+Anaheim,Laguna Beach,0.1133,0.1506,0.0973,0.1117
+Anaheim,Laguna Hills,0.4297,0.5429,0.4561,0.354
+Anaheim,Laguna Niguel,0.2306,0.1997,0.2616,0.2155
+Anaheim,Laguna Woods,0.0738,0.1016,0.0755,0.0598
+Anaheim,Lake Elsinore,0.0738,0.0911,0.0822,0.0582
+Anaheim,Lake Forest,1.0583,0.7846,1.1269,1.1169
+Anaheim,Lakewood,0.2959,0.5359,0.2918,0.1919
+Anaheim,Lancaster,0.1015,0.1156,0.109,0.0881
+Anaheim,Lawndale,0.0244,0.0385,0.0184,0.0236
+Anaheim,Lemon Grove,0.0072,0.0035,0.0101,0.0063
+Anaheim,Loma Linda,0.0507,0.014,0.0486,0.0692
+Anaheim,Lomita,0.0185,0.0385,0.0134,0.0142
+Anaheim,Long Beach,2.1035,1.9125,1.7373,2.5328
+Anaheim,Los Alamitos,0.3914,0.2102,0.3991,0.4657
+Anaheim,Los Angeles,7.1863,6.6132,6.0604,8.4998
+Anaheim,Lynwood,0.087,0.0701,0.0771,0.1038
+Anaheim,Malibu,0.0112,0.0315,0.005,0.0079
+Anaheim,Manhattan Beach,0.0969,0.1366,0.0872,0.0881
+Anaheim,Maywood,0.0283,0.056,0.0252,0.0189
+Anaheim,Menifee,0.0527,0.0841,0.0587,0.033
+Anaheim,Mission Viejo,0.5601,0.5569,0.6557,0.472
+Anaheim,Monrovia,0.1173,0.1121,0.1157,0.1211
+Anaheim,Montclair,0.1437,0.2172,0.1627,0.0928
+Anaheim,Montebello,0.1904,0.2172,0.1828,0.1856
+Anaheim,Monterey Park,0.1904,0.1226,0.1459,0.2627
+Anaheim,Moorpark,0.0224,0.0175,0.0302,0.0173
+Anaheim,Moreno Valley,0.168,0.3188,0.1576,0.1101
+Anaheim,Murrieta,0.0975,0.1261,0.1241,0.0598
+Anaheim,National City,0.0395,0.0736,0.0386,0.0252
+Anaheim,Needles,0.0007,0.0035,0,0
+Anaheim,Newport Beach,1.9005,1.4571,1.9788,2.0262
+Anaheim,Norco,0.1694,0.2172,0.1358,0.1793
+Anaheim,Norwalk,0.4501,0.578,0.3941,0.4452
+Anaheim,Oceanside,0.0962,0.1716,0.1107,0.0488
+Anaheim,Ojai,0.0026,0,0.0017,0.0047
+Anaheim,Ontario,0.8942,1.0333,0.8854,0.8401
+Anaheim,Orange,5.7299,5.1455,5.9615,5.7751
+Anaheim,Oxnard,0.1094,0.1541,0.1174,0.0818
+Anaheim,Palm Desert,0.0554,0.1016,0.0637,0.0267
+Anaheim,Palm Springs,0.0382,0.0315,0.0419,0.0378
+Anaheim,Palmdale,0.1127,0.1611,0.1056,0.0975
+Anaheim,Palos Verdes Estates,0.0079,0.0105,0.0067,0.0079
+Anaheim,Paramount,0.2241,0.1471,0.2247,0.258
+Anaheim,Pasadena,0.489,0.4238,0.441,0.5632
+Anaheim,Perris,0.0837,0.1016,0.0872,0.0724
+Anaheim,Pico Rivera,0.2102,0.2102,0.2314,0.1904
+Anaheim,Placentia,1.1835,1.1349,1.1889,1.2003
+Anaheim,Pomona,0.3796,0.3748,0.3337,0.4248
+Anaheim,Port Hueneme,0.0033,0.007,0.005,0
+Anaheim,Poway,0.0323,0.0175,0.0386,0.033
+Anaheim,Rancho Cucamonga,0.4705,0.606,0.4561,0.4232
+Anaheim,Rancho Mirage,0.0191,0.007,0.0268,0.0173
+Anaheim,Rancho Palos Verdes,0.0277,0.035,0.0335,0.0189
+Anaheim,Rancho Santa Margarita,0.2306,0.2662,0.2146,0.2297
+Anaheim,Redlands,0.0929,0.1016,0.0704,0.1101
+Anaheim,Redondo Beach,0.1397,0.1226,0.0788,0.2045
+Anaheim,Rialto,0.1035,0.1086,0.1174,0.0881
+Anaheim,Riverside,1.0129,0.9913,0.9592,1.0729
+Anaheim,Rolling Hills,0.0007,0,0.0017,0
+Anaheim,Rolling Hills Estates,0.0395,0.0666,0.0402,0.0267
+Anaheim,Rosemead,0.1015,0.1121,0.0788,0.118
+Anaheim,San Bernardino,0.3684,0.3748,0.3639,0.3697
+Anaheim,San Buenaventura,0.0613,0.0876,0.057,0.0535
+Anaheim,San Clemente,0.1872,0.1366,0.2113,0.1872
+Anaheim,San Diego,1.0662,0.9773,0.9558,1.2098
+Anaheim,San Dimas,0.1483,0.1086,0.1425,0.1715
+Anaheim,San Fernando,0.027,0.0245,0.0235,0.0315
+Anaheim,San Gabriel,0.0428,0.0771,0.0436,0.0267
+Anaheim,San Jacinto,0.0072,0.021,0.0084,0
+Anaheim,San Juan Capistrano,0.118,0.1436,0.1073,0.1164
+Anaheim,San Marcos,0.0659,0.0981,0.0755,0.0425
+Anaheim,San Marino,0.0079,0.0035,0.0117,0.0063
+Anaheim,Santa Ana,6.6881,4.9074,6.6792,7.4961
+Anaheim,Santa Clarita,0.2003,0.2942,0.2029,0.1557
+Anaheim,Santa Fe Springs,0.9529,0.4834,0.8888,1.2239
+Anaheim,Santa Monica,0.2913,0.2837,0.2264,0.3555
+Anaheim,Santa Paula,0.0086,0.014,0.0117,0.0031
+Anaheim,Santee,0.025,0.035,0.0218,0.0236
+Anaheim,Seal Beach,0.2333,0.1856,0.1694,0.3146
+Anaheim,Sierra Madre,0.0105,0,0.0034,0.022
+Anaheim,Signal Hill,0.2201,0.2242,0.1861,0.2501
+Anaheim,Simi Valley,0.0731,0.1086,0.0688,0.0614
+Anaheim,Solana Beach,0.0125,0.0105,0.0134,0.0126
+Anaheim,South El Monte,0.1008,0.0701,0.1157,0.1007
+Anaheim,South Gate,0.1977,0.1891,0.2063,0.1935
+Anaheim,South Pasadena,0.0329,0.035,0.0453,0.0205
+Anaheim,Stanton,0.4712,0.6865,0.5702,0.2816
+Anaheim,Temecula,0.1904,0.2697,0.1895,0.1557
+Anaheim,Temple City,0.0303,0.0771,0.0319,0.0079
+Anaheim,Thousand Oaks,0.116,0.1716,0.0906,0.1148
+Anaheim,Torrance,0.8554,0.7846,0.7446,0.9911
+Anaheim,Tustin,1.4807,1.4852,1.5595,1.4048
+Anaheim,Twentynine Palms,0.004,0.007,0.005,0.0016
+Anaheim,Unincorporated:Imperial,0.0092,0.0315,0.0067,0.0016
+Anaheim,Unincorporated:Los Angeles,1.32,1.2575,1.246,1.4174
+Anaheim,Unincorporated:Orange,0.4198,0.5499,0.436,0.3461
+Anaheim,Unincorporated:Riverside,0.2346,0.2837,0.2515,0.1966
+Anaheim,Unincorporated:San Bernardino,0.2168,0.2242,0.1928,0.236
+Anaheim,Unincorporated:San Diego,0.1549,0.1401,0.1492,0.1668
+Anaheim,Unincorporated:Ventura,0.0554,0.0806,0.0721,0.0283
+Anaheim,Upland,0.1759,0.1997,0.1811,0.1605
+Anaheim,Vernon,0.2399,0.1086,0.2465,0.2926
+Anaheim,Victorville,0.0718,0.1086,0.0654,0.0614
+Anaheim,Villa Park,0.0771,0.049,0.0855,0.0818
+Anaheim,Vista,0.0738,0.056,0.062,0.0928
+Anaheim,Walnut,0.1035,0.0946,0.0956,0.1148
+Anaheim,West Covina,0.2583,0.4624,0.2515,0.173
+Anaheim,West Hollywood,0.0995,0.0841,0.1492,0.0598
+Anaheim,Westlake Village,0.0336,0.007,0.0268,0.0519
+Anaheim,Westminster,0.7835,1.0999,0.8552,0.5742
+Anaheim,Westmorland,0,0,0,0
+Anaheim,Whittier,0.3222,0.4028,0.3387,0.2706
+Anaheim,Wildomar,0.0138,0.014,0.0117,0.0157
+Anaheim,Yorba Linda,0.7143,0.8126,0.7479,0.6387
+Anaheim,Yucaipa,0.0145,0.028,0.0151,0.0079
+Anaheim,Yucca Valley,0.0204,0.035,0.0184,0.0157

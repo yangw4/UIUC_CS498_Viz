@@ -1,0 +1,216 @@
+home_city,work_city,all_worker_ratio,low_income_worker_ratio,medium_income_worker_ratio,high_income_worker_ratio
+Lake Forest,Adelanto,0.0055,0,0.0102,0.0048
+Lake Forest,Agoura Hills,0.0194,0.0362,0.0205,0.0144
+Lake Forest,Alhambra,0.0388,0.0181,0.0512,0.0385
+Lake Forest,Aliso Viejo,1.8595,1.4283,1.8031,2.0008
+Lake Forest,Anaheim,3.5223,3.2182,3.7804,3.4821
+Lake Forest,Apple Valley,0.0249,0.0542,0.0512,0.0048
+Lake Forest,Arcadia,0.0887,0.217,0.041,0.077
+Lake Forest,Artesia,0.0277,0.0723,0.0205,0.0192
+Lake Forest,Azusa,0.0859,0.1446,0.041,0.0914
+Lake Forest,Baldwin Park,0.0637,0.0904,0.041,0.0673
+Lake Forest,Banning,0.0139,0.0362,0.0102,0.0096
+Lake Forest,Barstow,0.0194,0.0362,0.0205,0.0144
+Lake Forest,Beaumont,0.0166,0.0362,0.0102,0.0144
+Lake Forest,Bell,0.0388,0.0542,0.082,0.0144
+Lake Forest,Bell Gardens,0.0139,0.0362,0.0102,0.0096
+Lake Forest,Bellflower,0.0748,0.0904,0.1434,0.0385
+Lake Forest,Beverly Hills,0.1358,0.1446,0.1332,0.1347
+Lake Forest,Big Bear Lake,0.0139,0.0181,0.0307,0.0048
+Lake Forest,Blythe,0.0055,0.0181,0.0102,0
+Lake Forest,Bradbury,0,0,0,0
+Lake Forest,Brawley,0,0,0,0
+Lake Forest,Brea,0.6402,0.7955,0.5737,0.6301
+Lake Forest,Buena Park,0.3824,0.6328,0.5327,0.2453
+Lake Forest,Burbank,0.3686,0.6328,0.2766,0.3415
+Lake Forest,Calabasas,0.0748,0.1627,0.0717,0.0529
+Lake Forest,Calexico,0,0,0,0
+Lake Forest,Calimesa,0.0055,0.0181,0,0.0048
+Lake Forest,Calipatria,0,0,0,0
+Lake Forest,Camarillo,0.0582,0.0542,0.041,0.0673
+Lake Forest,Canyon Lake,0.0055,0,0,0.0096
+Lake Forest,Carlsbad,0.3547,0.5424,0.3483,0.3078
+Lake Forest,Carson,0.2411,0.2712,0.2254,0.2405
+Lake Forest,Cathedral City,0.0194,0.0362,0.0307,0.0096
+Lake Forest,Cerritos,0.3242,0.3797,0.2151,0.3607
+Lake Forest,Chino,0.3797,0.4701,0.4918,0.303
+Lake Forest,Chino Hills,0.1718,0.235,0.2459,0.1202
+Lake Forest,Chula Vista,0.0859,0.1085,0.1024,0.0721
+Lake Forest,Claremont,0.0443,0.0542,0.0307,0.0481
+Lake Forest,Coachella,0.0111,0.0181,0.0205,0.0048
+Lake Forest,Colton,0.0333,0.0181,0.0512,0.0289
+Lake Forest,Commerce,0.1552,0.1627,0.2049,0.1299
+Lake Forest,Compton,0.0887,0.1266,0.082,0.0818
+Lake Forest,Corona,0.9395,1.1571,1.1782,0.7695
+Lake Forest,Coronado,0.0055,0.0362,0,0
+Lake Forest,Costa Mesa,3.6664,3.5437,3.1349,3.9486
+Lake Forest,Covina,0.0721,0.1266,0.082,0.0529
+Lake Forest,Cudahy,0.0028,0.0181,0,0
+Lake Forest,Culver City,0.158,0.3616,0.1127,0.125
+Lake Forest,Cypress,0.4933,0.3254,0.3791,0.5916
+Lake Forest,Dana Point,0.5155,0.8136,0.6044,0.3944
+Lake Forest,Del Mar,0.0111,0,0.0205,0.0096
+Lake Forest,Desert Hot Springs,0,0,0,0
+Lake Forest,Diamond Bar,0.2162,0.1627,0.1639,0.2549
+Lake Forest,Downey,0.1801,0.1989,0.2356,0.1491
+Lake Forest,Duarte,0.0333,0.0181,0.0307,0.0385
+Lake Forest,Eastvale,0.0859,0.1266,0.1639,0.0385
+Lake Forest,El Cajon,0.0693,0.0904,0.0205,0.0866
+Lake Forest,El Centro,0.0028,0,0.0102,0
+Lake Forest,El Monte,0.0748,0.0362,0.0922,0.077
+Lake Forest,El Segundo,0.6374,0.1989,0.1742,0.9715
+Lake Forest,Encinitas,0.0693,0.1266,0.0922,0.0433
+Lake Forest,Escondido,0.1552,0.235,0.1434,0.1395
+Lake Forest,Fillmore,0.0028,0,0.0102,0
+Lake Forest,Fontana,0.2078,0.1989,0.2151,0.2068
+Lake Forest,Fountain Valley,1.0365,1.0848,0.9733,1.0533
+Lake Forest,Fullerton,0.8868,1.139,1.004,0.7647
+Lake Forest,Garden Grove,0.9949,1.0667,0.8708,1.0341
+Lake Forest,Gardena,0.0831,0.1266,0.0922,0.0673
+Lake Forest,Glendale,0.2799,0.1989,0.2766,0.303
+Lake Forest,Glendora,0.0471,0.0542,0.0205,0.0577
+Lake Forest,Grand Terrace,0.0083,0.0181,0,0.0096
+Lake Forest,Hawaiian Gardens,0.0055,0.0181,0.0102,0
+Lake Forest,Hawthorne,0.0804,0.0723,0.0717,0.0866
+Lake Forest,Hemet,0.0527,0.1085,0.0615,0.0337
+Lake Forest,Hermosa Beach,0.0139,0.0362,0,0.0144
+Lake Forest,Hesperia,0.0222,0.0362,0.0307,0.0144
+Lake Forest,Hidden Hills,0,0,0,0
+Lake Forest,Highland,0.0194,0.0542,0.041,0
+Lake Forest,Holtville,0,0,0,0
+Lake Forest,Huntington Beach,1.6656,1.9707,1.5982,1.616
+Lake Forest,Huntington Park,0.0194,0.0181,0,0.0289
+Lake Forest,Imperial,0.0055,0,0,0.0096
+Lake Forest,Imperial Beach,0,0,0,0
+Lake Forest,Indian Wells,0,0,0,0
+Lake Forest,Indio,0.0277,0.0362,0.0512,0.0144
+Lake Forest,Industry,0.3797,0.3797,0.3278,0.404
+Lake Forest,Inglewood,0.0665,0.0181,0.0717,0.077
+Lake Forest,Irvine,20.2029,12.3486,14.3121,25.0577
+Lake Forest,Irwindale,0.0582,0.0362,0.041,0.0721
+Lake Forest,Jurupa Valley,0.1469,0.1808,0.2356,0.0962
+Lake Forest,La Canada Flintridge,0.0083,0.0362,0.0102,0
+Lake Forest,La Habra,0.1968,0.3978,0.2869,0.101
+Lake Forest,La Habra Heights,0.0028,0,0,0.0048
+Lake Forest,La Mesa,0.0416,0.0723,0.0512,0.0289
+Lake Forest,La Mirada,0.2106,0.217,0.1229,0.2501
+Lake Forest,La Palma,0.0915,0.0542,0.041,0.125
+Lake Forest,La Puente,0.0166,0.0181,0.0205,0.0144
+Lake Forest,La Quinta,0.0139,0.0181,0.041,0
+Lake Forest,La Verne,0.036,0.0904,0.0102,0.0337
+Lake Forest,Laguna Beach,0.5986,0.904,0.7786,0.4329
+Lake Forest,Laguna Hills,2.7436,3.5798,4.3131,1.7843
+Lake Forest,Laguna Niguel,1.2,1.4102,1.8236,0.8513
+Lake Forest,Laguna Woods,0.521,0.9402,0.7786,0.2886
+Lake Forest,Lake Elsinore,0.1358,0.1808,0.3073,0.0433
+Lake Forest,Lake Forest,8.8433,10.7214,10.2244,7.6953
+Lake Forest,Lakewood,0.1109,0.2531,0.1127,0.0721
+Lake Forest,Lancaster,0.0471,0.0542,0.0512,0.0433
+Lake Forest,Lawndale,0.0055,0.0181,0,0.0048
+Lake Forest,Lemon Grove,0.0139,0.0181,0.0205,0.0096
+Lake Forest,Loma Linda,0.0305,0.0181,0.0307,0.0337
+Lake Forest,Lomita,0.0111,0.0181,0.0102,0.0096
+Lake Forest,Long Beach,1.0753,0.9402,0.8606,1.212
+Lake Forest,Los Alamitos,0.1552,0.1989,0.082,0.178
+Lake Forest,Los Angeles,4.2983,4.3392,3.7291,4.5546
+Lake Forest,Lynwood,0.0305,0.0181,0.0205,0.0385
+Lake Forest,Malibu,0.0111,0.0542,0,0.0048
+Lake Forest,Manhattan Beach,0.0721,0.1085,0.0615,0.0673
+Lake Forest,Maywood,0.0194,0.0181,0.0512,0.0048
+Lake Forest,Menifee,0.0333,0.0362,0.041,0.0289
+Lake Forest,Mission Viejo,5.0022,7.8105,7.1509,3.2464
+Lake Forest,Monrovia,0.0554,0.1446,0.041,0.0385
+Lake Forest,Montclair,0.0582,0.0723,0.0717,0.0481
+Lake Forest,Montebello,0.0748,0.0542,0.041,0.0962
+Lake Forest,Monterey Park,0.097,0.1266,0.0922,0.0914
+Lake Forest,Moorpark,0.0111,0.0181,0.0102,0.0096
+Lake Forest,Moreno Valley,0.1025,0.1808,0.1639,0.0529
+Lake Forest,Murrieta,0.0721,0.217,0.1024,0.0192
+Lake Forest,National City,0.0388,0.0904,0.041,0.024
+Lake Forest,Needles,0,0,0,0
+Lake Forest,Newport Beach,3.5196,2.4589,3.0222,4.0352
+Lake Forest,Norco,0.0942,0.1266,0.1024,0.0818
+Lake Forest,Norwalk,0.1386,0.1085,0.1332,0.1491
+Lake Forest,Oceanside,0.1164,0.1446,0.1434,0.0962
+Lake Forest,Ojai,0.0083,0,0.0102,0.0096
+Lake Forest,Ontario,0.6152,0.7051,0.7171,0.5435
+Lake Forest,Orange,3.0484,2.495,3.0325,3.2032
+Lake Forest,Oxnard,0.1081,0.1446,0.1742,0.0673
+Lake Forest,Palm Desert,0.1192,0.1446,0.1947,0.077
+Lake Forest,Palm Springs,0.0637,0.0542,0.082,0.0577
+Lake Forest,Palmdale,0.0471,0.0542,0.0717,0.0337
+Lake Forest,Palos Verdes Estates,0.0028,0,0,0.0048
+Lake Forest,Paramount,0.0831,0.0723,0.0922,0.0818
+Lake Forest,Pasadena,0.4157,0.3435,0.4508,0.4184
+Lake Forest,Perris,0.0499,0.1446,0.041,0.0289
+Lake Forest,Pico Rivera,0.061,0.0904,0.0307,0.0673
+Lake Forest,Placentia,0.3021,0.2893,0.2561,0.327
+Lake Forest,Pomona,0.2494,0.235,0.2869,0.2357
+Lake Forest,Port Hueneme,0.0028,0,0,0.0048
+Lake Forest,Poway,0.0443,0.0542,0.041,0.0433
+Lake Forest,Rancho Cucamonga,0.2522,0.3254,0.2664,0.226
+Lake Forest,Rancho Mirage,0.0166,0,0.0307,0.0144
+Lake Forest,Rancho Palos Verdes,0.0055,0.0362,0,0
+Lake Forest,Rancho Santa Margarita,1.8429,2.4227,2.6944,1.289
+Lake Forest,Redlands,0.0831,0.1085,0.1229,0.0577
+Lake Forest,Redondo Beach,0.1136,0.1989,0.1229,0.0866
+Lake Forest,Rialto,0.0471,0.0542,0.0512,0.0433
+Lake Forest,Riverside,0.6845,0.6328,0.6557,0.7118
+Lake Forest,Rolling Hills,0,0,0,0
+Lake Forest,Rolling Hills Estates,0.0166,0.0542,0.0205,0.0048
+Lake Forest,Rosemead,0.0554,0.0362,0.0615,0.0577
+Lake Forest,San Bernardino,0.2162,0.3616,0.1742,0.1972
+Lake Forest,San Buenaventura,0.061,0.0723,0.082,0.0481
+Lake Forest,San Clemente,0.7205,0.8678,0.8708,0.6108
+Lake Forest,San Diego,1.8817,2.2781,1.6289,1.895
+Lake Forest,San Dimas,0.1884,0.1808,0.2356,0.1683
+Lake Forest,San Fernando,0.0028,0,0,0.0048
+Lake Forest,San Gabriel,0.0249,0.0181,0.0102,0.0337
+Lake Forest,San Jacinto,0.0194,0.0904,0.0205,0
+Lake Forest,San Juan Capistrano,0.9201,1.1933,1.086,0.7695
+Lake Forest,San Marcos,0.1081,0.1446,0.1332,0.0866
+Lake Forest,San Marino,0.0083,0,0.0102,0.0096
+Lake Forest,Santa Ana,6.2465,3.9414,5.6142,7.1566
+Lake Forest,Santa Clarita,0.1801,0.2893,0.2254,0.1299
+Lake Forest,Santa Fe Springs,0.3741,0.3074,0.3381,0.4088
+Lake Forest,Santa Monica,0.2328,0.217,0.1742,0.2645
+Lake Forest,Santa Paula,0.0083,0,0.0102,0.0096
+Lake Forest,Santee,0.0222,0.0542,0.0102,0.0192
+Lake Forest,Seal Beach,0.1912,0.235,0.1332,0.2068
+Lake Forest,Sierra Madre,0.0139,0,0.0102,0.0192
+Lake Forest,Signal Hill,0.1247,0.235,0.082,0.1154
+Lake Forest,Simi Valley,0.0471,0.0904,0.0615,0.0289
+Lake Forest,Solana Beach,0.0194,0.0181,0.0205,0.0192
+Lake Forest,South El Monte,0.0222,0,0.0307,0.024
+Lake Forest,South Gate,0.061,0.0181,0.0512,0.077
+Lake Forest,South Pasadena,0.0166,0.0181,0.0102,0.0192
+Lake Forest,Stanton,0.1164,0.0904,0.1332,0.1154
+Lake Forest,Temecula,0.1635,0.3074,0.1947,0.1106
+Lake Forest,Temple City,0.0055,0.0181,0.0102,0
+Lake Forest,Thousand Oaks,0.1607,0.1266,0.1434,0.178
+Lake Forest,Torrance,0.4739,0.4882,0.4303,0.4906
+Lake Forest,Tustin,2.1284,1.7718,2.1617,2.2076
+Lake Forest,Twentynine Palms,0,0,0,0
+Lake Forest,Unincorporated:Imperial,0.0055,0,0,0.0096
+Lake Forest,Unincorporated:Los Angeles,0.6208,0.7413,0.6454,0.5771
+Lake Forest,Unincorporated:Orange,1.1168,0.9763,1.5265,0.9619
+Lake Forest,Unincorporated:Riverside,0.23,0.3074,0.3791,0.1395
+Lake Forest,Unincorporated:San Bernardino,0.1109,0.1627,0.1229,0.0914
+Lake Forest,Unincorporated:San Diego,0.2078,0.217,0.2971,0.1635
+Lake Forest,Unincorporated:Ventura,0.0388,0,0.0717,0.0337
+Lake Forest,Upland,0.0915,0.1085,0.1024,0.0818
+Lake Forest,Vernon,0.0915,0.0542,0.0922,0.101
+Lake Forest,Victorville,0.0831,0.0542,0.0922,0.0866
+Lake Forest,Villa Park,0.0333,0.0542,0.041,0.024
+Lake Forest,Vista,0.1053,0.1446,0.1024,0.0962
+Lake Forest,Walnut,0.0333,0,0.0307,0.0433
+Lake Forest,West Covina,0.1025,0.1989,0.1229,0.0673
+Lake Forest,West Hollywood,0.0443,0.0542,0.0615,0.0337
+Lake Forest,Westlake Village,0.0249,0.0181,0.041,0.0192
+Lake Forest,Westminster,0.327,0.5966,0.3381,0.2501
+Lake Forest,Westmorland,0,0,0,0
+Lake Forest,Whittier,0.1164,0.217,0.1332,0.0818
+Lake Forest,Wildomar,0.0249,0.0181,0.041,0.0192
+Lake Forest,Yorba Linda,0.2965,0.3616,0.3278,0.2645
+Lake Forest,Yucaipa,0.0194,0.0362,0.0205,0.0144
+Lake Forest,Yucca Valley,0.0055,0.0181,0,0.0048

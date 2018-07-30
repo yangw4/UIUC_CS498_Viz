@@ -1,0 +1,216 @@
+home_city,work_city,all_worker_ratio,low_income_worker_ratio,medium_income_worker_ratio,high_income_worker_ratio
+Laguna Niguel,Adelanto,0.0043,0.0275,0,0
+Laguna Niguel,Agoura Hills,0.0173,0.055,0.0177,0.0072
+Laguna Niguel,Alhambra,0.078,0.1101,0.0355,0.087
+Laguna Niguel,Aliso Viejo,3.8236,4.3478,3.3877,3.8637
+Laguna Niguel,Anaheim,1.6604,1.3759,1.7559,1.6963
+Laguna Niguel,Apple Valley,0.026,0.055,0.0177,0.0217
+Laguna Niguel,Arcadia,0.1214,0.2752,0.1596,0.0652
+Laguna Niguel,Artesia,0.0043,0,0.0177,0
+Laguna Niguel,Azusa,0.091,0.1926,0.0887,0.0652
+Laguna Niguel,Baldwin Park,0.0694,0.055,0.1242,0.0507
+Laguna Niguel,Banning,0.0043,0,0,0.0072
+Laguna Niguel,Barstow,0.0043,0,0.0177,0
+Laguna Niguel,Beaumont,0.013,0.0275,0,0.0145
+Laguna Niguel,Bell,0.0434,0.0275,0.0709,0.0362
+Laguna Niguel,Bell Gardens,0.026,0,0.0532,0.0217
+Laguna Niguel,Bellflower,0.0607,0,0.0887,0.0652
+Laguna Niguel,Beverly Hills,0.2341,0.2201,0.2128,0.2465
+Laguna Niguel,Big Bear Lake,0.0173,0.0275,0.0355,0.0072
+Laguna Niguel,Blythe,0.0087,0.0275,0,0.0072
+Laguna Niguel,Bradbury,0,0,0,0
+Laguna Niguel,Brawley,0.0087,0,0.0355,0
+Laguna Niguel,Brea,0.4379,0.3027,0.4966,0.4494
+Laguna Niguel,Buena Park,0.2124,0.2477,0.2128,0.203
+Laguna Niguel,Burbank,0.2818,0.4953,0.1951,0.261
+Laguna Niguel,Calabasas,0.0303,0.0275,0.0177,0.0362
+Laguna Niguel,Calexico,0.0173,0.0275,0,0.0217
+Laguna Niguel,Calimesa,0.0043,0,0.0177,0
+Laguna Niguel,Calipatria,0.0043,0,0,0.0072
+Laguna Niguel,Camarillo,0.052,0.0826,0.0355,0.0507
+Laguna Niguel,Canyon Lake,0.0043,0,0,0.0072
+Laguna Niguel,Carlsbad,0.828,0.5779,0.7095,0.9424
+Laguna Niguel,Carson,0.2168,0.2477,0.2661,0.1885
+Laguna Niguel,Cathedral City,0.013,0,0.0177,0.0145
+Laguna Niguel,Cerritos,0.2298,0.3577,0.0709,0.261
+Laguna Niguel,Chino,0.1907,0.0826,0.2306,0.203
+Laguna Niguel,Chino Hills,0.0824,0.1101,0.1419,0.0507
+Laguna Niguel,Chula Vista,0.1171,0.1376,0.1419,0.1015
+Laguna Niguel,Claremont,0.0564,0.1101,0.1064,0.0217
+Laguna Niguel,Coachella,0.0087,0.0275,0.0177,0
+Laguna Niguel,Colton,0.039,0.0826,0.0177,0.0362
+Laguna Niguel,Commerce,0.2038,0.2752,0.2128,0.1812
+Laguna Niguel,Compton,0.1084,0.1376,0.1419,0.087
+Laguna Niguel,Corona,0.4292,0.4403,0.3725,0.4494
+Laguna Niguel,Coronado,0.013,0.0275,0.0177,0.0072
+Laguna Niguel,Costa Mesa,2.6575,2.2289,2.4477,2.8561
+Laguna Niguel,Covina,0.0607,0.1926,0.0887,0.0145
+Laguna Niguel,Cudahy,0,0,0,0
+Laguna Niguel,Culver City,0.3295,0.3853,0.4434,0.2682
+Laguna Niguel,Cypress,0.2775,0.1926,0.3015,0.29
+Laguna Niguel,Dana Point,3.0563,5.5036,4.5406,1.805
+Laguna Niguel,Del Mar,0,0,0,0
+Laguna Niguel,Desert Hot Springs,0,0,0,0
+Laguna Niguel,Diamond Bar,0.1127,0.055,0.0532,0.1522
+Laguna Niguel,Downey,0.1604,0.1651,0.1596,0.1595
+Laguna Niguel,Duarte,0.026,0,0.0532,0.0217
+Laguna Niguel,Eastvale,0.0564,0.055,0.0709,0.0507
+Laguna Niguel,El Cajon,0.0867,0.1101,0.0532,0.0942
+Laguna Niguel,El Centro,0.0087,0,0.0355,0
+Laguna Niguel,El Monte,0.0694,0.0826,0.0709,0.0652
+Laguna Niguel,El Segundo,0.7326,0.1376,0.4612,1.0004
+Laguna Niguel,Encinitas,0.1734,0.3302,0.1951,0.1232
+Laguna Niguel,Escondido,0.2298,0.3027,0.2661,0.1957
+Laguna Niguel,Fillmore,0,0,0,0
+Laguna Niguel,Fontana,0.1777,0.2752,0.2128,0.1377
+Laguna Niguel,Fountain Valley,0.5376,0.3577,0.4257,0.6307
+Laguna Niguel,Fullerton,0.5462,0.4953,0.5853,0.5437
+Laguna Niguel,Garden Grove,0.5419,0.4953,0.674,0.5002
+Laguna Niguel,Gardena,0.0607,0.1101,0.0709,0.0435
+Laguna Niguel,Glendale,0.2905,0.3027,0.3902,0.2465
+Laguna Niguel,Glendora,0.0867,0.1376,0.0887,0.0725
+Laguna Niguel,Grand Terrace,0.0043,0,0.0177,0
+Laguna Niguel,Hawaiian Gardens,0,0,0,0
+Laguna Niguel,Hawthorne,0.1171,0.055,0.0709,0.1522
+Laguna Niguel,Hemet,0.0737,0.1101,0.1419,0.0362
+Laguna Niguel,Hermosa Beach,0.0434,0.0826,0.0709,0.0217
+Laguna Niguel,Hesperia,0.0347,0.0275,0.0532,0.029
+Laguna Niguel,Hidden Hills,0,0,0,0
+Laguna Niguel,Highland,0.0173,0,0.0355,0.0145
+Laguna Niguel,Holtville,0,0,0,0
+Laguna Niguel,Huntington Beach,0.9884,0.9906,0.8336,1.0511
+Laguna Niguel,Huntington Park,0.0087,0.0275,0,0.0072
+Laguna Niguel,Imperial,0.0043,0,0,0.0072
+Laguna Niguel,Imperial Beach,0,0,0,0
+Laguna Niguel,Indian Wells,0.0043,0,0.0177,0
+Laguna Niguel,Indio,0.0434,0.0275,0.0887,0.029
+Laguna Niguel,Industry,0.2948,0.2477,0.337,0.29
+Laguna Niguel,Inglewood,0.0824,0.0826,0.1064,0.0725
+Laguna Niguel,Irvine,17.0677,9.3561,11.2983,21.457
+Laguna Niguel,Irwindale,0.039,0.0826,0,0.0435
+Laguna Niguel,Jurupa Valley,0.0954,0.0826,0.0709,0.1087
+Laguna Niguel,La Canada Flintridge,0.0087,0.0275,0,0.0072
+Laguna Niguel,La Habra,0.0824,0.1101,0.1064,0.0652
+Laguna Niguel,La Habra Heights,0,0,0,0
+Laguna Niguel,La Mesa,0.0434,0.1101,0.0532,0.0217
+Laguna Niguel,La Mirada,0.0954,0.0275,0.1064,0.1087
+Laguna Niguel,La Palma,0.026,0,0.0177,0.0362
+Laguna Niguel,La Puente,0.0043,0,0.0177,0
+Laguna Niguel,La Quinta,0.026,0.0826,0.0177,0.0145
+Laguna Niguel,La Verne,0.0347,0.0275,0.0355,0.0362
+Laguna Niguel,Laguna Beach,2.0549,2.9719,3.0153,1.4208
+Laguna Niguel,Laguna Hills,2.9306,3.3297,3.6006,2.5516
+Laguna Niguel,Laguna Niguel,6.8279,11.585,8.4072,4.9293
+Laguna Niguel,Laguna Woods,0.4942,1.1007,0.5144,0.3262
+Laguna Niguel,Lake Elsinore,0.0737,0.1376,0.1774,0.0145
+Laguna Niguel,Lake Forest,3.4161,2.9719,3.1571,3.639
+Laguna Niguel,Lakewood,0.0824,0.1651,0.1419,0.0362
+Laguna Niguel,Lancaster,0.0477,0.055,0.0532,0.0435
+Laguna Niguel,Lawndale,0.013,0.055,0.0177,0
+Laguna Niguel,Lemon Grove,0.0087,0.0275,0.0177,0
+Laguna Niguel,Loma Linda,0.0173,0.0275,0,0.0217
+Laguna Niguel,Lomita,0.0087,0.0275,0,0.0072
+Laguna Niguel,Long Beach,1.0925,1.0182,1.0997,1.1091
+Laguna Niguel,Los Alamitos,0.104,0.055,0.1596,0.0942
+Laguna Niguel,Los Angeles,5.2976,4.5955,5.0372,5.589
+Laguna Niguel,Lynwood,0.0434,0.055,0.0709,0.029
+Laguna Niguel,Malibu,0,0,0,0
+Laguna Niguel,Manhattan Beach,0.0564,0,0.1064,0.0507
+Laguna Niguel,Maywood,0.013,0.0275,0,0.0145
+Laguna Niguel,Menifee,0.078,0.1651,0.0355,0.0725
+Laguna Niguel,Mission Viejo,5.4103,5.6687,6.4385,4.9221
+Laguna Niguel,Monrovia,0.104,0.055,0.1951,0.0797
+Laguna Niguel,Montclair,0.052,0.1376,0.0532,0.029
+Laguna Niguel,Montebello,0.052,0.0826,0.0532,0.0435
+Laguna Niguel,Monterey Park,0.1084,0.1926,0.0532,0.1087
+Laguna Niguel,Moorpark,0.039,0,0.1242,0.0145
+Laguna Niguel,Moreno Valley,0.1344,0.3302,0.1596,0.0725
+Laguna Niguel,Murrieta,0.1344,0.4953,0.0532,0.0725
+Laguna Niguel,National City,0.0347,0.055,0.0532,0.0217
+Laguna Niguel,Needles,0,0,0,0
+Laguna Niguel,Newport Beach,4.9204,3.2746,3.9021,5.7702
+Laguna Niguel,Norco,0.0303,0,0,0.0507
+Laguna Niguel,Norwalk,0.1171,0.055,0.1951,0.1015
+Laguna Niguel,Oceanside,0.4379,0.4953,0.5144,0.3914
+Laguna Niguel,Ojai,0.0043,0,0,0.0072
+Laguna Niguel,Ontario,0.5289,0.6604,0.5853,0.4712
+Laguna Niguel,Orange,1.7341,1.4309,1.4722,1.921
+Laguna Niguel,Oxnard,0.104,0.055,0.1951,0.0797
+Laguna Niguel,Palm Desert,0.1171,0.1651,0.1951,0.0725
+Laguna Niguel,Palm Springs,0.065,0.0275,0.1419,0.0435
+Laguna Niguel,Palmdale,0.091,0.0826,0.1419,0.0725
+Laguna Niguel,Palos Verdes Estates,0.0087,0.055,0,0
+Laguna Niguel,Paramount,0.052,0.0275,0.0177,0.0725
+Laguna Niguel,Pasadena,0.3902,0.4128,0.337,0.4059
+Laguna Niguel,Perris,0.078,0.1101,0.1419,0.0435
+Laguna Niguel,Pico Rivera,0.0737,0.2201,0.0177,0.058
+Laguna Niguel,Placentia,0.1127,0.0275,0.1242,0.1305
+Laguna Niguel,Pomona,0.104,0.0826,0.0887,0.116
+Laguna Niguel,Port Hueneme,0,0,0,0
+Laguna Niguel,Poway,0.0347,0,0.0355,0.0435
+Laguna Niguel,Rancho Cucamonga,0.3858,0.3302,0.4079,0.3914
+Laguna Niguel,Rancho Mirage,0.026,0.055,0.0532,0.0072
+Laguna Niguel,Rancho Palos Verdes,0.013,0.0275,0.0355,0
+Laguna Niguel,Rancho Santa Margarita,1.1315,1.6511,1.1174,1.0004
+Laguna Niguel,Redlands,0.1474,0.1376,0.1596,0.145
+Laguna Niguel,Redondo Beach,0.1344,0.1101,0.1596,0.1305
+Laguna Niguel,Rialto,0.065,0.055,0.1242,0.0435
+Laguna Niguel,Riverside,0.672,0.8255,0.7095,0.6162
+Laguna Niguel,Rolling Hills,0,0,0,0
+Laguna Niguel,Rolling Hills Estates,0.0477,0.1101,0.0177,0.0435
+Laguna Niguel,Rosemead,0.0694,0.0275,0.0532,0.087
+Laguna Niguel,San Bernardino,0.3902,0.4403,0.4789,0.3407
+Laguna Niguel,San Buenaventura,0.0997,0.1651,0.0887,0.087
+Laguna Niguel,San Clemente,2.5534,3.2196,3.7247,1.8992
+Laguna Niguel,San Diego,2.3367,2.339,2.0929,2.4357
+Laguna Niguel,San Dimas,0.2038,0.0275,0.2483,0.232
+Laguna Niguel,San Fernando,0,0,0,0
+Laguna Niguel,San Gabriel,0.013,0,0.0355,0.0072
+Laguna Niguel,San Jacinto,0.0173,0.0275,0.0177,0.0145
+Laguna Niguel,San Juan Capistrano,2.8526,3.2471,3.5828,2.4502
+Laguna Niguel,San Marcos,0.2384,0.1101,0.337,0.232
+Laguna Niguel,San Marino,0.0173,0.0275,0.0355,0.0072
+Laguna Niguel,Santa Ana,3.6156,2.2014,2.8201,4.3132
+Laguna Niguel,Santa Clarita,0.1647,0.1926,0.2128,0.1377
+Laguna Niguel,Santa Fe Springs,0.3165,0.2201,0.0887,0.4349
+Laguna Niguel,Santa Monica,0.3035,0.4128,0.1951,0.319
+Laguna Niguel,Santa Paula,0,0,0,0
+Laguna Niguel,Santee,0.0347,0.1101,0.0355,0.0145
+Laguna Niguel,Seal Beach,0.1561,0.1376,0.1064,0.1812
+Laguna Niguel,Sierra Madre,0,0,0,0
+Laguna Niguel,Signal Hill,0.1214,0.1101,0.1242,0.1232
+Laguna Niguel,Simi Valley,0.091,0.1101,0.1774,0.0507
+Laguna Niguel,Solana Beach,0.0607,0.055,0.0709,0.058
+Laguna Niguel,South El Monte,0.0043,0,0,0.0072
+Laguna Niguel,South Gate,0.0347,0.0275,0.0177,0.0435
+Laguna Niguel,South Pasadena,0.0217,0,0.0177,0.029
+Laguna Niguel,Stanton,0.0564,0.0275,0.0355,0.0725
+Laguna Niguel,Temecula,0.3555,0.4953,0.6563,0.1957
+Laguna Niguel,Temple City,0.0173,0.0275,0.0355,0.0072
+Laguna Niguel,Thousand Oaks,0.1994,0.2752,0.1064,0.2175
+Laguna Niguel,Torrance,0.3858,0.2752,0.3193,0.4422
+Laguna Niguel,Tustin,1.5173,1.4034,1.1352,1.7035
+Laguna Niguel,Twentynine Palms,0.0087,0.0275,0.0177,0
+Laguna Niguel,Unincorporated:Imperial,0.0043,0,0,0.0072
+Laguna Niguel,Unincorporated:Los Angeles,0.6026,0.4128,0.6031,0.6524
+Laguna Niguel,Unincorporated:Orange,1.2182,1.1833,1.6495,1.0511
+Laguna Niguel,Unincorporated:Riverside,0.2298,0.4678,0.1774,0.1885
+Laguna Niguel,Unincorporated:San Bernardino,0.1387,0.0826,0.1596,0.145
+Laguna Niguel,Unincorporated:San Diego,0.3295,0.4403,0.4079,0.2682
+Laguna Niguel,Unincorporated:Ventura,0.0607,0.1651,0.0355,0.0435
+Laguna Niguel,Upland,0.1387,0.1101,0.1774,0.1305
+Laguna Niguel,Vernon,0.1561,0.2201,0.1064,0.1595
+Laguna Niguel,Victorville,0.0564,0.1101,0.0709,0.0362
+Laguna Niguel,Villa Park,0.0173,0,0.0355,0.0145
+Laguna Niguel,Vista,0.2818,0.1376,0.4079,0.2682
+Laguna Niguel,Walnut,0.0477,0.1101,0.0532,0.029
+Laguna Niguel,West Covina,0.0867,0.1376,0.0532,0.087
+Laguna Niguel,West Hollywood,0.078,0.055,0.1064,0.0725
+Laguna Niguel,Westlake Village,0.039,0.0275,0.0355,0.0435
+Laguna Niguel,Westminster,0.1604,0.2477,0.1774,0.1305
+Laguna Niguel,Westmorland,0,0,0,0
+Laguna Niguel,Whittier,0.052,0.055,0.0532,0.0507
+Laguna Niguel,Wildomar,0.0434,0.0275,0.0177,0.058
+Laguna Niguel,Yorba Linda,0.2081,0.3027,0.3193,0.1377
+Laguna Niguel,Yucaipa,0.013,0,0.0177,0.0145
+Laguna Niguel,Yucca Valley,0.0087,0,0.0355,0
